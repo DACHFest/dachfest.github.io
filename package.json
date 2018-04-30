@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "autotrack": "^2.4.1",
+    "babel-preset-env": "^1.6.1",
     "redux": "^3.7.2"
   },
   "devDependencies": {

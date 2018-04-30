@@ -137,10 +137,10 @@
   },
   "socialNetwork": {
     "follow": [
-#      {
-#        "name": "facebook",
-#        "url": "https://www.facebook.com/devfest.ukraine/"
-#      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/devfest.ukraine/"
+      },
       {
         "name": "twitter",
         "url": "https://twitter.com/dachfest/"
@@ -149,10 +149,10 @@
         "name": "instagram",
         "url": "https://www.instagram.com/dachfest"
       },
-#      {
-#        "name": "youtube",
-#        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
-#      }
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+      }
     ],
     "share": [
       {
