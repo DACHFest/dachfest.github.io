@@ -12,7 +12,7 @@ script:
 - yarn lint
 - echo "Building..."
 - if [ "$TRAVIS_BRANCH" == "develop" ]; then yarn build; fi
-- if [ "$TRAVIS_BRANCH" == "hoverboard-v2" ]; then yarn build:prod; fi
+- if [ "$TRAVIS_BRANCH" == "master" ]; then yarn build:prod; fi
 before_deploy:
 - echo "Deploying!"
 deploy:
@@ -20,20 +20,6 @@ deploy:
   skip_cleanup: true
   on:
     branch: master
-  project: hoverboard-master
-  token:
-    secure: fQOOIF4mkqH438Dawy2v27Qw7UsVizfJ1ZIeTno2sGfq9an8mZk13YWBuYJcOc1hSnEEp3G7/pkBcwykCj1CYpoOS+wMxpVbOQw6ogMGFD8rv+208Ddt1VJw/uUuFdf4k07+eRGokykCsCmcv2J+5wnLw34CKzXYTxLpL6JrxGzkuAcKIRNNda13yxJfYXz7HtQiNo3aMYnv2MCffNnSaR+OJ9Cl0JGYDCg3zuJIqrq7CFJqnUXE5TsO0VGCLY46rLvICY6inNlgZvA4RWi6Yf4rs2swzgC7HKbcIipjptlCRpPdRigLKoxhv6HZUIpkVgDu10Jq6OWU5gj4VpNYYd+c+E4F23nvm+3BEToUuEGURZ9Ins1SSHr3d+WxneQ+jreHCGrEBhKkLknbPQuOQF3khtk9CHu+07fBafBCLt4dGC6oQu+QwTdn+JQ/rYxWAUq8yJjrTsKevgXAVyMqDTU1Fy7FH5QP7HRyI71C6Q7Ij3cVwrFrVXNGzg2h2q8qTX2Yn6Ph9NJUpS+QmVsymblh38zwlyThZ1T4XudYM5iZTzNKKVqCmR9upl8nSLMEez1ukhBETJCslb2nFXJI3k7dsFA5cGO51sbYB44bxIXJwZkQ0s9p8XBNsU9gI2hX6UvE5+tephbohd6YGHmfc+qaJkLpcYKjRbhFsysf60k=
-- provider: firebase
-  skip_cleanup: true
-  on:
-    branch: develop
-  project: hoverboard-dev
-  token:
-    secure: Quq/Ys1GKDYFjqMCD107saKj005L0RaM7Ian9yLIW/er4KdMzwjYw7TVXmtMeJPIfEy/e2/4WJ63K1SaXieBoFndoUcpGWqPOoTrnkkj5K7tzeZKM32XqIarF+BNmOoqW5M7+kuN8L7N3RLp00ywFDOgKgiZJeoaDV6sIRRAIFVh+xHWabVWpFCwCUSeBZpufOsZhMXkicyRe0XhMmkUvS1P5CI3AyZZdIfWG+sguFsPOWRjMFKWrbnsilDFDjf7N0Wd8Z1H2Z0LBn/V00bNb95MSIuOhkdk3a1wP0P5Eollet+Y8g+NpdWyFq0/C+6+ECvFLBjtvbtMY1BVfdxkCo5XlogZx31OmkMWVX6PXOD5Va8aFoJnwvjovUT8oZbSCWEuyMxI91jDsLxXZt542MNfUfQ1Q2+SpUShdcRlwoV2c/XOYvme95HnI1LSqzLubooKWxz8wpa/aovkdZbum54t/z5nA54AXN1lYKsi+hcAFHOeucqd/kHOLG0bx05Ev86wcvNH8qGx+v7S644YH37No7PGnKU3g3Jq/m6quo1B/bMEIaatVnR40D301wAi8tsNWnqEdWFKnAlGrTIDd1qek9OHnApmgBQI8o0FOy6WbzLMwl9PnMl+t+wew/ggSY0IdWhjFWR/S1d6xML8cYHXHVpE0wxkat5ETbIYXlg=
-- provider: firebase
-  skip_cleanup: true
-  on:
-    branch: hoverboard-v2
   project: dachfest-8ec02 
   token:
     secure: "2KyemurWw35tbkUtq3S4IZ3V8wR7Zjfzz31unWRAFh/+FqQJVRTlMWKQ4EnqnXmM2fs9scMYXkFhSO8Pwic4XaTqguEvhX4wu1a9QecKqiMZHOuzWaZBAqsEWOyRdNdPQhCb95qgeY+YV9ijnWmTXWO6iw9345mcCOloe8pyuxaS61Ll9L8oO7KGXI3fNymc/17HxDg1EuAnDE504zzTpgl5ucok2EcXhN65uv7gaHj8BOc6zAONeCt9gtuA0pDpV/5fUvI5UDdFtkYSSNgtkeabUixTsBYFqnj8Yt23vl4wJTAAy2kVV1GCGJyKqfm3UzeN1+JR/8mHaukUNierJftVoQfCwlwWkHwc+DpOUy81RnRL4/xbOTGhRI84f/R83rfo9SRRlLBi+W955sVP3CHrg1rrTf8y7PtpLy+Eojq2xFvkfiSKy1eYY08q6ztqRzG7djAZr7me4UpcoImyaC3NMzI4gwABIhbO31satNUpIIyAz3qcefJ1Vfrqc+slPdvsvaGeQE0ika000YWZWZYhB0GFRYQW7oQUJOmAYYK5DmI5mqaPMWW5WNvFmsreydEIQVEnoc/V9N8Q4HV1NRIwGjJDUEfmBeQ6eWYH7rVD2E5XxtcAM7foaMpz+9T+v2CNA3d2bcCQXElzkdG3TXbZ1kKoWiTiI4HHAUnQcnA="
