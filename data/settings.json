@@ -21,6 +21,13 @@
       "route": "home",
       "permalink": "/",
       "title": "Home"
+    }
+  ],
+  "_navigation": [
+    {
+      "route": "home",
+      "permalink": "/",
+      "title": "Home"
     },
     {
       "route": "speakers",
@@ -104,20 +111,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "TU Munich",
+    "city": "Munich",
+    "short": "Munich, Germany",
+    "address": "Arcisstraße 21, 80333 München",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 5
+      "latitude": 48.148214,
+      "longitude": 11.5505653,
+      "zoom": 6
     },
     "mapCenter": {
       "latitude": 48,
       "longitude": 8
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "In the main campus building of the TU Munich "
   },
   "mediaQueries": {
     "xs": {
