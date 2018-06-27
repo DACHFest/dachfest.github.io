@@ -44,6 +44,11 @@
           "name": "FAQs",
           "url": "/faq/",
           "newTab": false
+        },
+        {
+          "name": "Code of Conduct",
+          "url": "/coc/",
+          "newTab": false
         }
       ]
     }

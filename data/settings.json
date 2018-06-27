@@ -54,6 +54,11 @@
       "title": "Schedule"
     },
     {
+      "route": "coc",
+      "permalink": "/coc/",
+      "title": "Code of Conduct"
+    },
+    {
       "route": "team",
       "permalink": "/team/",
       "title": "Team"
