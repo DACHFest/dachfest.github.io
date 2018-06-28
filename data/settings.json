@@ -5,8 +5,8 @@
     "blog": "https://medium.com/dachfest",
     "url": "http://dachfest.de/"
   },
-  "startDate": "2018-10-013T09:00:00+03:00",
-  "endDate": "2018-10-14T19:00:00+03:00",
+  "startDate": "2018-11-10T09:00:00+01:00",
+  "endDate": "2018-11-11T19:00:00+01:00",
   "webapp": {
     "shortName": "DACHFest",
     "themeColor": "#673AB7",
