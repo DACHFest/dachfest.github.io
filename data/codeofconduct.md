@@ -4,7 +4,7 @@ DACHFest is a community-driven conference for developers of all experience level
 
 As a community-driven conference, we want everybody to feel welcome, regardless of gender, race, religion, sexual orientation, disabilites or physical appearance. We do not tolerate harassment of any kind.
 
-_Everyone_ (including speakers and staff) is required to conform to the following Code of Conduct. Organizers and volunteers will enforce this code throughout the event.
+_Everyone_ (including speakers, sponsors, and staff) is required to conform to the following Code of Conduct. Organizers and volunteers will enforce this code throughout the event.
 
 ## Overview
 
