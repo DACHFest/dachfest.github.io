@@ -26,7 +26,7 @@ Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are
 
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing is not appropriate for DACHFest either.
 
-If a participant engages in behavior that violates this code of conduct, the conference organizers may take any action they deem appropriate, including warning the offender or expelling the offender from the conference with no refund.
+If a participant engages in behavior that violates this code of conduct, the conference organizers may take any action they deem appropriate, including expelling the offender from the conference with no refund.
 
 The conference organizers will maintain the anonymity of the offended party, unless specifically discussed and agreed not to, as well as the anonymity of the alleged offender during an ongoing investigation.
 
