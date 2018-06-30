@@ -2,8 +2,8 @@
   "organizer": {
     "name": "GDG D/A/CH",
     "twitter": "dachfest",
-    "blog": "https://medium.com/dachfest",
-    "url": "http://dachfest.de/"
+    "blog": "https://dachfest.com/blog",
+    "url": "https://dachfest.com/"
   },
   "startDate": "2018-11-10T09:00:00+01:00",
   "endDate": "2018-11-11T19:00:00+01:00",
@@ -164,20 +164,8 @@
   "socialNetwork": {
     "follow": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/dachfest/"
-      },
-      {
         "name": "twitter",
         "url": "https://twitter.com/dachfest/"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/dachfest"
-      },
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       }
     ],
     "share": [
@@ -195,7 +183,7 @@
       }
     ]
   },
-  "mailto": "contact@dachfest.de",
+  "mailto": "contact@dachfest.com",
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
