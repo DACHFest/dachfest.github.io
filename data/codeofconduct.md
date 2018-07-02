@@ -17,9 +17,9 @@ Be kind to others. Do not insult or put down other attendees. Behave professiona
 If you notice that someone is being harassed, do not hesitate to contact the conference organizers or volunteers wearing a t-shirt with the word **"STAFF"** on it (or otherwise marked as staff) to report the incident. While we do our best to notice any case of harassment, we rely on your help as a coference attendee to report any incident. The complete procedure to report incidents can be found here:
 
 # TODO: Update those links!
-[Incident handling procedure for attendees](data/incident-handling-attendees.md)
+[Incident handling procedure for attendees](/attendee-incident-handling)
 
-[Incident handling procedure for organizers/staff](data/incident-handling-staff.md)
+[Incident handling procedure for organizers/staff](/staff-incident-handling)
 
 Attendees violating these rules may be asked to leave the conference without a refund at the sole discretion of the conference organizers.
 
