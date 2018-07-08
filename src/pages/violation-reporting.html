@@ -3,7 +3,7 @@
 <link rel="import" href="../elements/shared-styles.html">
 <link rel="import" href="../mixins/scroll-functions.html">
 
-<dom-module id="attendee-incident-handling-page">
+<dom-module id="violation-reporting">
   <template>
     <style is="custom-style" include="shared-styles flex flex-alignment"></style>
 
@@ -121,9 +121,9 @@
   <script>
 
     // eslint-disable-next-line no-undef
-    class AttendeeIncidentHandlingPage extends ScrollFunctions(Polymer.Element) {
+    class ViolationReportingPage extends ScrollFunctions(Polymer.Element) {
       static get is() {
-        return 'attendee-incident-handling-page';
+        return 'violation-reporting';
       }
 
       static get properties() {
@@ -131,7 +131,7 @@
           active: Boolean,
           source: {
             type: String,
-            value: '/data/attendee-incident-handling.md',
+            value: '/data/violation-reporting.md',
           },
           self: Object,
           toolbarOffset: {
@@ -248,6 +248,6 @@
       }
     }
 
-    window.customElements.define(AttendeeIncidentHandlingPage.is, AttendeeIncidentHandlingPage);
+    window.customElements.define(ViolationReportingPage.is, ViolationReportingPage);
   </script>
 </dom-module>

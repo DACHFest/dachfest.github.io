@@ -3,105 +3,9 @@
 <link rel="import" href="../elements/shared-styles.html">
 <link rel="import" href="../mixins/scroll-functions.html">
 
-<dom-module id="attendee-incident-handling-page">
+<dom-module id="violation-reporting-staff">
   <template>
     <style is="custom-style" include="shared-styles flex flex-alignment"></style>
-
-    <style>
-      :host {
-        display: block;
-      }
-
-      .content-wrapper {
-        background-color: var(--secondary-background-color);
-        width: 100%;
-        overflow: hidden;
-        transition: opacity var(--animation), opacity var(--animation);
-        opacity: 0;
-      }
-
-      .content-wrapper.visible {
-        opacity: 1;
-      }
-
-      .col {
-        font-size: 32px;
-        line-height: 48px;
-        margin-bottom: 24px;
-        z-index: 2;
-      }
-
-      .col-content {
-        line-height: 32px;
-        display: block;
-        font-size: 16px;
-      }
-
-      [slot="markdown-html"] h2 {
-        line-height: 2;
-      }
-
-      [slot="markdown-html"] h3::after {
-        content: '';
-        background-image: url('../../images/link-icon.svg');
-        width: 22px;
-        height: 18px;
-        display: inline-block;
-        margin-left: 10px;
-        cursor: pointer;
-      }
-
-      @media (min-width: 640px) {
-        .content,
-        .markdown-text {
-          padding: 0 18px;
-        }
-
-        .col {
-          margin-right: 24px;
-        }
-
-        .col:last-of-type {
-          margin-right: 0;
-        }
-
-        [slot="markdown-html"] h2 {
-          font-size: 40px;
-          width: 40%;
-          margin-bottom: 0;
-          display: inline-block;
-          transform: translateY(85%);
-          vertical-align: bottom;
-          line-height: 1;
-        }
-
-        [slot="markdown-html"] h3 {
-          line-height: 1.5;
-        }
-
-        [slot="markdown-html"] h3,
-        [slot="markdown-html"] h4,
-        [slot="markdown-html"] p,
-        [slot="markdown-html"] ul {
-          margin-left: 40%;
-        }
-
-        [slot="markdown-html"] h3::after {
-          display: none;
-        }
-
-        [slot="markdown-html"] h3:hover::after {
-          display: inline-block;
-        }
-      }
-
-      @media (min-width: 812px) {
-        .content,
-        .markdown-text {
-          padding: 0 40px;
-        }
-      }
-    </style>
 
     <polymer-helmet
       title="Staff Incident Handling Procedures | GDG DevFest Season 2018"
@@ -123,7 +27,7 @@
     // eslint-disable-next-line no-undef
     class StaffIncidentHandlingPage extends ScrollFunctions(Polymer.Element) {
       static get is() {
-        return 'staff-incident-handling-page';
+        return 'violation-reporting-staff';
       }
 
       static get properties() {
@@ -131,7 +35,7 @@
           active: Boolean,
           source: {
             type: String,
-            value: '/data/staff-incident-handling.md',
+            value: '/data/violation-reporting-staff.md',
           },
           self: Object,
           toolbarOffset: {

@@ -14,7 +14,7 @@ _Everyone_ (including speakers, sponsors, and staff) is required to conform to t
 
 **Speak up.** If you or someone else are being harassed, do not hesitate to contact the event staff (organizers or volunteers), who can be identified by special badges or attire.
 While we do our best to notice any case of harassment, we rely on your help and would greatly appreciate it. If you feel uncomfortable reporting a violation in person, please do so at conduct@dachfest.com.
-You may want to take a look at the [violation reporting guidelines for attendees](/attendee-incident-handling) before submitting a report: it is not mandatory, but might help us handle the situation better and faster.
+You may want to take a look at the [violation reporting guidelines for attendees](/violation-reporting) before submitting a report: it is not mandatory, but might help us handle the situation better and faster.
 
 Thank you for helping make this a welcoming, friendly event for all.
 
@@ -32,7 +32,7 @@ If a participant engages in behavior that violates this code of conduct, the con
 
 The conference organizers will maintain the anonymity of the offended party, unless specifically discussed and agreed not to, as well as the anonymity of the alleged offender during an ongoing investigation. 
 
-The conference organizers will follow the following [violation reporting guidelines for attendees](/staff-incident-handling).
+The conference organizers will follow the following [violation reporting guidelines for attendees](/violation-reporting-staff).
 
 ## License
 
