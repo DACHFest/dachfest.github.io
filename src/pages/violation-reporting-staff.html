@@ -1,0 +1,157 @@
+<link rel="import" href="../../../bower_components/polymer/polymer-element.html">
+<link rel="import" href="../../../bower_components/marked-element/marked-element.html">
+<link rel="import" href="../elements/shared-styles.html">
+<link rel="import" href="../mixins/scroll-functions.html">
+
+<dom-module id="violation-reporting-staff">
+  <template>
+    <style is="custom-style" include="shared-styles flex flex-alignment"></style>
+
+    <polymer-helmet
+      title="Staff Incident Handling Procedures | GDG DevFest Season 2018"
+      description="Incident handling procedures for staff"
+      active="[[active]]"
+    ></polymer-helmet>
+
+    <div class="container">
+      <marked-element class="markdown-text">
+        <div slot="markdown-html"></div>
+        <script type="text/markdown" src$="[[source]]"></script>
+      </marked-element>
+    </div>
+    <footer-block></footer-block>
+  </template>
+
+  <script>
+
+    // eslint-disable-next-line no-undef
+    class StaffIncidentHandlingPage extends ScrollFunctions(Polymer.Element) {
+      static get is() {
+        return 'violation-reporting-staff';
+      }
+
+      static get properties() {
+        return {
+          active: Boolean,
+          source: {
+            type: String,
+            value: '/data/violation-reporting-staff.md',
+          },
+          self: Object,
+          toolbarOffset: {
+            type: Number,
+            value: 70,
+          },
+        };
+      }
+
+      constructor() {
+        super();
+        // this._scrollToFaqChapter = this._scrollToFaqChapter.bind(this);
+        this._changeUrl = this._changeUrl.bind(this);
+      }
+
+      ready() {
+        super.ready();
+        this.self = this;
+        this.addEventListener('marked-render-complete', this._renderContent);
+      }
+
+      connectedCallback() {
+        super.connectedCallback();
+
+        if (window.location.hash) {
+          setTimeout(() => {
+            const path = window.location.hash.slice(1).split('#');
+            const element = path.reduce((host, id) => {
+              const target = host.shadowRoot ? host.shadowRoot.querySelector(`#${id}`) : host;
+              return target ? target : host;
+            });
+            const offset = this.offsetTop(element);
+            this.scrollToY(offset - this.toolbarOffset, 100);
+          }, 500);
+        }
+      }
+
+      _renderContent() {
+        const heads = this.shadowRoot.querySelectorAll('.markdown-text h3');
+        const contentDom = this.shadowRoot.querySelector('.content');
+        let lastHeadElement;
+
+        for (let i = 0; i < heads.length; i++) {
+          if (heads[i].previousElementSibling.nodeName === 'H2') {
+            const head2Element = heads[i].previousElementSibling;
+            const colHeader = document.createElement('div');
+            colHeader.className = `col ${head2Element.id}`;
+            colHeader.textContent = head2Element.textContent;
+            contentDom.appendChild(colHeader);
+            lastHeadElement = colHeader;
+          }
+
+          const colContent = document.createElement('a');
+          colContent.className = 'col-content';
+          colContent.href = `#${heads[i].id}`;
+          colContent.textContent = heads[i].textContent;
+          // colContent.addEventListener('click', this._scrollToFaqChapter);
+          lastHeadElement.appendChild(colContent);
+
+          heads[i].addEventListener('click', this._changeUrl);
+        }
+
+        const contentWrapper = this.shadowRoot.querySelector('.content-wrapper');
+        contentWrapper.classList.add('visible');
+      }
+
+      _scrollToFaqChapter(e) {
+        e.preventDefault();
+        const elementIdToScroll = e.target.getAttribute('href');
+        const element = this.shadowRoot.querySelector(elementIdToScroll);
+        const offset = this.offsetTop(element);
+        this.scrollToY(offset - this.toolbarOffset, 1500, 'easeInOutSine');
+        window.location.hash = elementIdToScroll;
+      }
+
+      _changeUrl(e) {
+        const targetElement = e.path && e.path[0];
+        const offset = this.offsetTop(targetElement);
+        const canBeScrolled = Math.abs(document.documentElement.scrollTop +
+          this.toolbarOffset - offset) >= 50;
+        if (canBeScrolled) {
+          this.scrollToY(offset - this.toolbarOffset, 100);
+        }
+
+        window.location.hash = targetElement.id;
+        this._copyTextToClipboard(window.location.href);
+      }
+
+      _copyTextToClipboard(text) {
+        if (!navigator.clipboard) {
+          this._fallbackCopyTextToClipboard(text);
+          return;
+        }
+        navigator.clipboard.writeText(text);
+      }
+
+      _fallbackCopyTextToClipboard(text) {
+        const textArea = document.createElement('textarea');
+        textArea.value = text;
+        textArea.setAttribute('readonly', '');
+        textArea.style.position = 'fixed';
+        textArea.style.top = 0;
+        textArea.style.left = 0;
+        textArea.style.padding = 0;
+        textArea.style.border = 'none';
+        textArea.style.outline = 'none';
+        textArea.style.boxShadow = 'none';
+        textArea.style.background = 'transparent';
+        document.body.appendChild(textArea);
+        textArea.focus();
+        textArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(textArea);
+      }
+    }
+
+    window.customElements.define(StaffIncidentHandlingPage.is, StaffIncidentHandlingPage);
+  </script>
+</dom-module>

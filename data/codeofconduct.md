@@ -12,7 +12,9 @@ _Everyone_ (including speakers, sponsors, and staff) is required to conform to t
 
 **Be inclusive.** Keep in mind that your words, no matter how well-intentioned, can inadvertently hurt people who do not share your background or opinion. Sexual language and imagery is not appropriate, and so are sexist, racist, or exclusionary jokes. Try your best to avoid assumptions about other people's professions, roles, or skill levels.
 
-**Speak up.** If you or someone else are being harassed, do not hesitate to contact the event staff (organizers or volunteers), who can be identified by special badges or attire. While we do our best to notice any case of harassment, we rely on your help and would greatly appreciate it. If you feel uncomfortable to report a violation in person, please do so at **conduct@dachfest.com**.
+**Speak up.** If you or someone else are being harassed, do not hesitate to contact the event staff (organizers or volunteers), who can be identified by special badges or attire.
+While we do our best to notice any case of harassment, we rely on your help and would greatly appreciate it. If you feel uncomfortable reporting a violation in person, please do so at conduct@dachfest.com.
+You may want to take a look at the [violation reporting guidelines for attendees](/violation-reporting) before submitting a report: it is not mandatory, but might help us handle the situation better and faster.
 
 Thank you for helping make this a welcoming, friendly event for all.
 
@@ -28,7 +30,9 @@ Be careful in the words that you choose. Remember that sexist, racist, and other
 
 If a participant engages in behavior that violates this code of conduct, the conference organizers may take any action they deem appropriate, including expelling the offender from the conference with no refund.
 
-The conference organizers will maintain the anonymity of the offended party, unless specifically discussed and agreed not to, as well as the anonymity of the alleged offender during an ongoing investigation.
+The conference organizers will maintain the anonymity of the offended party, unless specifically discussed and agreed not to, as well as the anonymity of the alleged offender during an ongoing investigation. 
+
+The conference organizers will follow the following [violation reporting guidelines for staff](/violation-reporting-staff).
 
 ## License
 
