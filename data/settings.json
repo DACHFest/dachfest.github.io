@@ -2,11 +2,11 @@
   "organizer": {
     "name": "GDG D/A/CH",
     "twitter": "dachfest",
-    "blog": "https://medium.com/dachfest",
-    "url": "http://dachfest.de/"
+    "blog": "https://dachfest.com/blog",
+    "url": "https://dachfest.com/"
   },
-  "startDate": "2018-10-013T09:00:00+03:00",
-  "endDate": "2018-10-14T19:00:00+03:00",
+  "startDate": "2018-11-10T09:00:00+01:00",
+  "endDate": "2018-11-11T19:00:00+01:00",
   "webapp": {
     "shortName": "DACHFest",
     "themeColor": "#673AB7",
@@ -17,6 +17,27 @@
   },
   "hashtag": "DACHFest18",
   "navigation": [
+    {
+      "route": "home",
+      "permalink": "/",
+      "title": "Home"
+    },{
+      "route": "blog",
+      "permalink": "/blog/",
+      "title": "Blog"
+    },
+    {
+      "route": "privacy",
+      "permalink": "/privacy/",
+      "title": "privacy"
+    },
+    {
+      "route": "imprint",
+      "permalink": "/imprint/",
+      "title": "Imprint"
+    }
+  ],
+  "_navigation": [
     {
       "route": "home",
       "permalink": "/",
@@ -50,7 +71,7 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "Be a hero. Be a GDG!",
+      "description": "Be a hero. Inspire others",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -109,20 +130,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "TU Munich",
+    "city": "Munich",
+    "short": "Munich, Germany",
+    "address": "Arcisstraße 21, 80333 München",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 5
+      "latitude": 48.148214,
+      "longitude": 11.5505653,
+      "zoom": 6
     },
     "mapCenter": {
       "latitude": 48,
       "longitude": 8
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "In the main campus building of the TU Munich "
   },
   "mediaQueries": {
     "xs": {
@@ -143,20 +164,8 @@
   "socialNetwork": {
     "follow": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
-      },
-      {
         "name": "twitter",
         "url": "https://twitter.com/dachfest/"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/dachfest"
-      },
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       }
     ],
     "share": [
@@ -174,7 +183,7 @@
       }
     ]
   },
-  "mailto": "contact@dachfest.de",
+  "mailto": "contact@dachfest.com",
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"

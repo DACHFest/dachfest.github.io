@@ -51,16 +51,21 @@
     <div class="container" layout vertical center$="[[viewport.isTabletPlus]]">
       <div class="description"> {$ subscribeBlock.callToAction.description $}</div>
       <div class="cta-button">
+        <a
+                href="https://mailchi.mp/70768d3ea6b6/dachfest"
+                ga-on="click"
+                ga-event-category="video"
+                ga-event-action="watch"
+                ga-event-label="about block - {$ aboutBlock.callToAction.featuredSessions.label $}"
+                target="_blank"
+                rel="noopener noreferrer"
+        >
         <paper-button class="animated icon-right"
-                      disabled$="[[subscribed]]"
-                      on-tap="_subscribe"
-                      ga-on="click"
-                      ga-event-category="attendees"
-                      ga-event-action="subscribe"
-                      ga-event-label="subscribe block">
+                      >
           <span class="cta-label">[[ctaLabel]]</span>
           <iron-icon icon$="hoverboard:[[ctaIcon]]"></iron-icon>
         </paper-button>
+        </a>
       </div>
     </div>
 

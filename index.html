@@ -80,6 +80,13 @@
     window.Polymer = { rootPath: '{$ basepath $}' };
     window.HOVERBOARD = { Elements: {} };
 
+    function loadHoverboardApp() {
+      requestAnimationFrame(() => {
+        const app = document.createElement('hoverboard-app');
+        document.body.appendChild(app);
+      });
+    }
+
     function loadFirebaseModule() {
       return new Promise((resolve) => {
         const script = document.createElement('script');
@@ -103,7 +110,8 @@
           storageBucket: '{$ firebase.storageBucket $}',
           messagingSenderId: '{$ firebase.messagingSenderId $}',
         });
-      });
+      })
+      .then(() => loadHoverboardApp());
 
   </script>
 
@@ -150,7 +158,7 @@
 
 <body>
 
-<hoverboard-app unresolved>{$ title $}</hoverboard-app>
+<!-- <hoverboard-app unresolved>{$ title $}</hoverboard-app> -->
 
 <noscript>
   Please enable JavaScript to view this website.
@@ -160,7 +168,7 @@
   window.performance && performance.mark && performance.mark('index.html');
 
   window.onload = function () {
-    var indexRenderTime = window.measureDuration('index.html');
+    var indexRenderTime = window.measureDuration && window.measureDuration('index.html');
     if (indexRenderTime) {
       ga('send', 'timing', 'index.html', 'render', indexRenderTime);
     }
