@@ -13,7 +13,7 @@ If you have any questions, do not hesitate to contact us on [Twitter](https://tw
 DACHFest is a community-driven conference open to all technologies. We are happy to hear about any topics you might think of! That includes, but is not limited to:
   
 📱 Mobile (Android, iOS, Firebase, Machine Learning, ...)
-📱💻 Cross-Platform (Flutter, React Native, Cordova, ...)
+🔀 Cross-Platform (Flutter, React Native, Cordova, ...)
 💻 Web (Polymer, PWAs, Angular, Dart, new standards, tooling, ...)
 💬 Voice UI (Google Assistan, Amazon Alexa, ...)
 ☁️ Cloud (TensorFlow, big data, Kubernetes, security, ...)  
