@@ -33,10 +33,11 @@ TODO!
 
 ### Guidelines 📃
 
--   Language: all talks are in English.
--   Formatting: make sure you care, and make sure we see you care. Typos, sloppy formatting and all-lowercase submissions make our reading of your proposal tedious and will reflect negatively on the outcome of your submission.
--   Brevity: don’t get too wordy. If you need more than two paragraphs to get to the point of your proposal, we ask you to put more time into focussing your application. With the amount of submissions we get, the quicker you can make a good first impression, the better.
+- Language: all talks are in English.
+- Formatting: make sure you care, and make sure we see you care. Typos, sloppy formatting and all-lowercase submissions make our reading of your proposal tedious and will reflect negatively on the outcome of your submission.
+- Brevity: don’t get too wordy. If you need more than two paragraphs to get to the point of your proposal, we ask you to put more time into focussing your application. With the amount of submissions we get, the quicker you can make a good first impression, the better.
 - We are not looking for talks that were recorded before or given to an audience bigger than 200 people. You don't need to submit a completely new talk, but could for example add a twist or new part to a pre-existing talk.
+- Your Abstract should not be longer than 1200 characters
 
 ### Talk Formats 🗣️
    
