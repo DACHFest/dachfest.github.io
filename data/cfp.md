@@ -2,7 +2,7 @@
 
 Thanks for your interest in speaking at DACHFest 2018! DACHFest is a community-driven conference organised by all GDGs (Google Developer Groups) in Germany, Austria and Switzerland that will take place from 10. Nov 2018 to 11. Nov 2018 at Technical University Munich. We expect about 800 attendees per day with 3 simultaneous tracks.
 
-If you have any questions, do not hesitate to contact us on Twitter or at [cfp@dachfest.com](mailto:cfp@dachfest.com).
+If you have any questions, do not hesitate to contact us on [Twitter](https://twitter.com/DACHFest) or at [cfp@dachfest.com](mailto:cfp@dachfest.com).
   
 ### Deadlines
    📅 1. September 2018 – CfP  closes 
