@@ -2195,6 +2195,24 @@
       "title" : "Program, Visuals"
     }, {
       "name" : "Benjamin Stürmer",
+      "photoUrl" : "/images/people/benjamin_stuermer.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+BenjaminStürmer",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/benjamin.stuermer",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/BenjaminStrmer",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "https://www.stuermer-benjamin.de",
+        "name" : "Website"
+      } ],
       "title" : "Website, Venue, Photos"
     }, {
       "name" : "Marc",
