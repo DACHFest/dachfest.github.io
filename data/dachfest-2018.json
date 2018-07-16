@@ -2181,6 +2181,15 @@
   "team" : [ {
     "members" : [ {
       "name" : "Ed Medvedev",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "twitter.com/ohaithear",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "github.com/emedvedev",
+        "name" : "Github"
+      } ],
       "title" : "Program, Happiness, Visuals"
     }, {
       "name" : "Ann-Katrin B",
