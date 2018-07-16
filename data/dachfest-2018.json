@@ -2193,6 +2193,11 @@
       "title" : "Program, Happiness, Visuals"
     }, {
       "name" : "Ann-Katrin B",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "twitter.com/AKNextChapter",
+        "name" : "Twitter"
+      } ],
       "title" : "Program, Happiness"
     }, {
       "name" : "Jossi Wolf",
