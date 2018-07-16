@@ -2212,6 +2212,10 @@
         "icon" : "website",
         "link" : "https://www.stuermer-benjamin.de",
         "name" : "Website"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/stuermer-benjamin",
+        "name" : "LinkedIn"
       } ],
       "title" : "Website, Venue, Photos"
     }, {
@@ -2222,6 +2226,16 @@
       "title" : "Program"
     }, {
       "name" : "Timea Turdean",
+      "photoUrl" : "/images/people/timea_turdean.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/timeaturdean",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/timeaturdean/",
+        "name" : "LinkedIn"
+      } ],
       "title" : "Finance"
     }, {
       "name" : "Helmuth Breitenfellner",
