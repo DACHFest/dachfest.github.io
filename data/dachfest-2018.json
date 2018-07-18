@@ -86,6 +86,7 @@
       "timezone" : "+03:00"
     },
     "subscribers" : {
+      "dUPYxIRKhvc:APA91bEncwkQ7zzqfRhDLsFnrqe97S0JoI_mS3Bbq4dRfkojP4eXxXbVtknmG4g9EG9hjAW0Sff901GMpAQdY7JUyjeSrtTEHPWcVRyZTmP9dkCva7a9Dj1XFxkIBJJz58AW5F5XoyZj" : true,
       "eSoKBsNqzDY:APA91bHMSOKHAy2kt1NcRHgvPCv8lTCi7uJNJ_-OKyxQQZa2Jc8o787xQ-8ZhTIeUlUX5qGcnCyG8-3l5hL0Uo_nEAy0om-wRfzgVEQppzTlrXClNJ4-7H7pXMyAkrx8DeHf7aM0oZ5L" : true,
       "fKF6FrckTc4:APA91bE7CGKSQ12sUea0otL20DsnwIdkxHC7j2qK3HCHaW6RPbCmrcoAtyjp2TX6IA0WISUf7hm6NdrhYJRJf0iJo08OFKt9h4bzRfIRGqScO0UwmE9aShKd_bVLh_pRXdGchLbnh0il" : true
     }
@@ -2180,9 +2181,24 @@
   "team" : [ {
     "members" : [ {
       "name" : "Ed Medvedev",
+      "photo" : "/images/people/eduard_medvedev.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/ohaithear",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "github.com/emedvedev",
+        "name" : "Github"
+      } ],
       "title" : "Program, Happiness, Visuals"
     }, {
       "name" : "Ann-Katrin B",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/AKNextChapter",
+        "name" : "Twitter"
+      } ],
       "title" : "Program, Happiness"
     }, {
       "name" : "Jossi Wolf",
@@ -2192,6 +2208,20 @@
       "title" : "Volunteers, Visuals"
     }, {
       "name" : "Madlaina Kalunder",
+      "photo" : "/images/people/madlaina_kalunder.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/anialdam",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/aadjou",
+        "name" : "Github"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/madlaina-kalunder/",
+        "name" : "LinkedIn"
+      } ],
       "title" : "Program, Visuals"
     }, {
       "name" : "Benjamin Stürmer",
@@ -2267,6 +2297,23 @@
     }, {
       "name" : "Tarik",
       "title" : "Volunteers"
+    }, {
+      "name" : "Raphael Miranda",
+      "photoUrl" : "/images/people/raphael_miranda.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/rafael_cm",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/rafael-cm-miranda/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/raeglan",
+        "name" : "Github"
+      } ],
+      "title" : "Finance"
     } ],
     "title" : "Core Team"
   } ],
