@@ -2181,9 +2181,10 @@
   "team" : [ {
     "members" : [ {
       "name" : "Ed Medvedev",
+      "photo" : "/images/people/eduard_medvedev.jpg",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "twitter.com/ohaithear",
+        "link" : "https://twitter.com/ohaithear",
         "name" : "Twitter"
       }, {
         "icon" : "github",
@@ -2195,7 +2196,7 @@
       "name" : "Ann-Katrin B",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "twitter.com/AKNextChapter",
+        "link" : "https://twitter.com/AKNextChapter",
         "name" : "Twitter"
       } ],
       "title" : "Program, Happiness"
@@ -2207,6 +2208,20 @@
       "title" : "Volunteers, Visuals"
     }, {
       "name" : "Madlaina Kalunder",
+      "photo" : "/images/people/madlaina_kalunder.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/anialdam",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/aadjou",
+        "name" : "Github"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/madlaina-kalunder/",
+        "name" : "LinkedIn"
+      } ],
       "title" : "Program, Visuals"
     }, {
       "name" : "Benjamin Stürmer",
