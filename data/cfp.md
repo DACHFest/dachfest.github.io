@@ -59,7 +59,9 @@ Nobody is a born presenter. If you are here reading this CfP, you probably want 
 * Preparing your submission with experienced speakers 
 * Producing your slides 
 * Public speaking training, including (remote) rehearsal
-* Contact with local meetups to practice your talk in front of a smaller crowd 
+* Contact with local meetups to practice your talk in front of a smaller crowd
+
+If you are more comfortable speaking in front of a smaller crowd, please note so in your proposal. We will do our best to listen to your wishes and place your talk in a smaller room.
 
 If you need any other help, contact us via Twitter or [cfp@dachfest.com](mailto:cfp@dachfest.com) and we'll be happy to help!
 
