@@ -31,7 +31,8 @@ In general, we are not looking for repetition of any existing documentation, art
 
 ### Selection Process
 
-TODO!
+We are working on the selection process as we speak and will publish details about it soon. 
+The most important thing to know is that all session proposals will be anonymised and evaluated by an independent program committee. 
 
 ### Guidelines 📃
 
