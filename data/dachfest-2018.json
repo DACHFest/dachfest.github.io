@@ -2181,7 +2181,7 @@
   "team" : [ {
     "members" : [ {
       "name" : "Ed Medvedev",
-      "photo" : "/images/people/eduard_medvedev.jpg",
+      "photoUrl" : "/images/people/eduard_medvedev.jpg",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/ohaithear",
@@ -2193,36 +2193,18 @@
       } ],
       "title" : "Program, Happiness, Visuals"
     }, {
-      "name" : "Ann-Katrin B",
+      "name" : "Timea Turdean",
+      "photoUrl" : "/images/people/timea_turdean.jpg",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "https://twitter.com/AKNextChapter",
+        "link" : "https://twitter.com/timeaturdean",
         "name" : "Twitter"
-      } ],
-      "title" : "Program, Happiness"
-    }, {
-      "name" : "Jossi Wolf",
-      "title" : "Happiness, Finance"
-    }, {
-      "name" : "Mario Fahlandt",
-      "title" : "Volunteers, Visuals"
-    }, {
-      "name" : "Madlaina Kalunder",
-      "photo" : "/images/people/madlaina_kalunder.jpg",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/anialdam",
-        "name" : "Twitter"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/aadjou",
-        "name" : "Github"
       }, {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/madlaina-kalunder/",
+        "link" : "https://www.linkedin.com/in/timeaturdean/",
         "name" : "LinkedIn"
       } ],
-      "title" : "Program, Visuals"
+      "title" : "Sponsoring, Finance"
     }, {
       "name" : "Benjamin Stürmer",
       "photoUrl" : "/images/people/benjamin_stuermer.jpg",
@@ -2249,24 +2231,59 @@
       } ],
       "title" : "Website, Venue, Photos"
     }, {
+      "name" : "Madlaina Kalunder",
+      "photoUrl" : "/images/people/madlaina_kalunder.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/anialdam",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/aadjou",
+        "name" : "Github"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/madlaina-kalunder/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Program, Visuals"
+    }, {
+      "name" : "Raphael Miranda",
+      "photoUrl" : "/images/people/raphael_miranda.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/rafael_cm",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/rafael-cm-miranda/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/raeglan",
+        "name" : "Github"
+      } ],
+      "title" : "Finance"
+    }, {
+      "name" : "Jossi Wolf",
+      "title" : "Sponsoring, Finance"
+    }, {
+      "name" : "Ann-Katrin Borgenstam",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/AKNextChapter",
+        "name" : "Twitter"
+      } ],
+      "title" : "Program, Happiness"
+    }, {
+      "name" : "Mario Fahlandt",
+      "title" : "Volunteers, Visuals"
+    }, {
       "name" : "Marc",
       "title" : "Program"
     }, {
       "name" : "Wolfram",
       "title" : "Program"
-    }, {
-      "name" : "Timea Turdean",
-      "photoUrl" : "/images/people/timea_turdean.jpg",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/timeaturdean",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/timeaturdean/",
-        "name" : "LinkedIn"
-      } ],
-      "title" : "Finance"
     }, {
       "name" : "Helmuth Breitenfellner",
       "title" : "Finance, Media"
@@ -2297,23 +2314,6 @@
     }, {
       "name" : "Tarik",
       "title" : "Volunteers"
-    }, {
-      "name" : "Raphael Miranda",
-      "photoUrl" : "/images/people/raphael_miranda.jpg",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/rafael_cm",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/rafael-cm-miranda/",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/raeglan",
-        "name" : "Github"
-      } ],
-      "title" : "Finance"
     } ],
     "title" : "Core Team"
   } ],
