@@ -45,10 +45,14 @@ The most important thing to know is that all session proposals will be anonymise
 ### Talk Formats 🗣️
    
 We are looking for two types of sessions: 
-    - Full-length talks, 35 mins + Q&A 
-    - Lightning talks, 15 mins + Q&A 
+    - Full-length talks, 35 mins
+    - Lightning talks, 20 mins
 
 We are open to any proposals for different formats. 
+
+### Q&A🙋❓
+
+Not everybody is comfortable having Q&A and we have decided against having a traditional Q&A. Instead, speakers and attendees will be invited to hang out at the question booth where attendees and speakers can engage in a dialouge.
 
 ### Support 👩‍💻
     
