@@ -45,9 +45,10 @@ No matter whether your talk is selected or not, we will always try to provide fe
 ### Talk Formats 🗣️
 
 Our standard talk formats are: 
-    - Single (lightning talk): 10 minutes.
-    - EP (short talk): 25 minutes.
-    — LP (long talk): 40 minutes.
+
+* Single (lightning talk): 10 minutes.
+* EP (short talk): 25 minutes.
+* LP (long talk): 40 minutes.
 
 If you want to give a workshop, specify the length in your notes. 2-3 hours is usually the norm.
 
