@@ -59,8 +59,8 @@ Nobody is a born speaker. If you want to submit a talk, you probably have someth
 
 If you feel like you could use some help with your submission, reach out to one of our amazing mentors:
 
-* Madlaina Kalunder (@anialdam or ???@???)
-* Martin Splitt (@g33konaut or splitti@google.com)
+* Madlaina Kalunder ([@anialdam](https://twitter.com/anialdam) or [madlaina@dachfest.com](mailto:madlaina@dachfest.com))
+* Martin Splitt ([@g33konaut](https://twitter.com/g33konaut) or [splitti@google.com](mailto:splitti@google.com))
 
 They are here to give you all the support you might need. Here's a non-exhaustive list of things they could help with:
 
