@@ -87,6 +87,8 @@ In order to make the content presented at DACHFest accessible for the wider comm
 
 The recordings will be released under the Creative Commons (CC BY-NC-SA 4.0) license, and we are asking you to release slides under the same (or similar) conditions. If you are uncomfortable with this license, please let us know.
 
-### Code of Conduct 
+### Diversity and Inclusion ❤️
 
-We aim to make DACHFest as inclusive and welcoming as possible. Submitting your talk means that you have read, understood and agreed to comply with our [Code of Conduct](/coc).
+If you come from an underrepresented group, we are happy that you are reading this and highly encourage you to apply! Our dedicated Happiness Team is working hard to make sure everyone has an amazing time at the conference.
+
+We aim to make DACHFest as inclusive and welcoming as possible, and our staff has a zero-tolerance policy against harassment. Submitting your talk means that you have read, understood and agreed to comply with our [Code of Conduct](/coc).
