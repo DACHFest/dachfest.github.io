@@ -1,83 +1,92 @@
 ## DACHFest 2018 Call for Papers
 
-Thanks for your interest in speaking at DACHFest 2018! DACHFest is a community-driven conference organised by all GDGs (Google Developer Groups) in Germany, Austria and Switzerland that will take place from 10. Nov 2018 to 11. Nov 2018 at Technical University Munich. We expect about 800 attendees per day with 3 simultaneous tracks.
+Thanks for your interest in speaking at DACHFest 2018! DACHFest is a community-driven conference organised by Google Developer Groups from Germany, Austria, and Switzerland that will take place on November 10–11 at Technical University Munich. We expect about 800 attendees with 3 simultaneous tracks and numerous other activities.
 
 If you have any questions, do not hesitate to contact us on [Twitter](https://twitter.com/DACHFest) or at [cfp@dachfest.com](mailto:cfp@dachfest.com).
-  
-### Deadlines
-   📅 1. September 2018 – CfP  closes 
-   📅 31. September 2018 – You will be notified about the result of your submission
-   
+
+### Deadlines 📅
+
+September 15: Last day to submit your application!
+
+September 30: We'll notify you of your submission status.
+
 ### Topics 💭
 
-DACHFest is a community-driven conference open to all technologies. We are happy to hear about any topics you might think of! That includes, but is not limited to:
-  
-📱 Mobile (Android, iOS, Firebase, Machine Learning, ...)
-🔀 Cross-Platform (Flutter, React Native, Cordova, ...)
-💻 Web (Polymer, PWAs, Angular, Dart, new standards, tooling, ...)
-💬 Voice UI (Google Assistan, Amazon Alexa, ...)
-☁️ Cloud (TensorFlow, big data, Kubernetes, security, ...)  
-📟 IoT (Android Things, Actions API, Android Wear, Chromecast, Arduino, ...)  
-🌏 Science (physics, universe, space travel, future, ...)  
-💼 Marketing & business skills targeted at indie developers or startups  
-🙋 Soft skills for developers
+DACHFest's main theme is _making a difference_. We're not limiting submissions to any particular area or stack — we just want to hear about that thing you did that touched people's lives!
 
-To give you a better idea of what topics were talked about before, take a look at the sessions from the following DevFests:
+Are you helping your community through tech? Tell us about it!
 
-* [GDG DevFest Hamburg 2017](https://hamburg.devfest.de/schedule/day1)
-* [GDG DevFest Ukraine 2017](https://dfua17.firebaseapp.com/schedule/day1)
+Have you created something that changes the way people work? We're waiting for you!
 
-In general, we are not looking for repetition of any existing documentation, articles or talks, but rather for experiences and learnings you made. 
+You want to tell our participants something that will make a difference in _their_ lives? Please submit right now!
 
-### Selection Process
+And don't forget that the examples above are just very rough guidelines. Surprise us!
 
-We are working on the selection process as we speak and will publish details about it soon. 
-The most important thing to know is that all session proposals will be anonymised and evaluated by an independent program committee. 
+### Selection Process ✅
+
+Our diverse program committee comprises both generalists and specialists, and we will try our best to make sure that every submitted talk, no matter how narrow, is reviewed by recognized experts from the same field.
+
+We strive for eliminating bias as much as possible, and it means that every submission will be anonymized and evaluated entirely on its merits. We are not looking for hot startups and famous names — we are looking for exciting stories and interesting people.
+
+No matter whether your talk is selected or not, we will always try to provide feedback and give you suggestions if we have any.
 
 ### Guidelines 📃
 
-- Language: all talks are in English.
-- Formatting: make sure you care, and make sure we see you care. Typos, sloppy formatting and all-lowercase submissions make our reading of your proposal tedious and will reflect negatively on the outcome of your submission.
-- Brevity: don’t get too wordy. If you need more than two paragraphs to get to the point of your proposal, we ask you to put more time into focussing your application. With the amount of submissions we get, the quicker you can make a good first impression, the better.
-- We are not looking for talks that were recorded before or given to an audience bigger than 200 people. You don't need to submit a completely new talk, but could for example add a twist or new part to a pre-existing talk.
-- Your Abstract should not be longer than 1200 characters
+- Language: English.
+- Brevity: we recommend a single paragraph for the abstract and 3-4 paragraphs for the talk description. Get straight to the point!
+- Formatting and proofreading: submissions with good spelling, no typos, and proper paragraph formatting make the job of our program committee much easier.
+— Completeness: you will not have a chance to modify your submission! Read it carefully before sending, make sure it's complete and has all the information we need to make an objective decision.
+— Personal information: submissions are supposed to be anonymous, so please make sure there is no information that can identify you as a speaker, unless you feel like mentioning your name or company is absolutely essential for your talk. The "notes" field is not visible to the reviewers, so it may contain personal information or any references that you think are important.
 
 ### Talk Formats 🗣️
-   
-We are looking for two types of sessions: 
-    - Full-length talks, 35 mins
-    - Lightning talks, 20 mins
 
-We are open to any proposals for different formats. 
+Our standard talk formats are: 
+    - Single (lightning talk): 10 minutes.
+    - EP (short talk): 25 minutes.
+    — LP (long talk): 40 minutes.
 
-### Q&A🙋❓
+If you want to give a workshop, specify the length in your notes. 2-3 hours is usually the norm.
 
-Not everybody is comfortable having Q&A and we have decided against having a traditional Q&A. Instead, speakers and attendees will be invited to hang out at the question booth where attendees and speakers can engage in a dialouge.
-
-### Support 👩‍💻
-    
-Nobody is a born presenter. If you are here reading this CfP, you probably want to speak. We are here to give you all the support you might need. Here's a non-exhaustive list of things we can help you with: 
-   
-* Finding a talk topic
-* Writing an abstract
-* Preparing your submission with experienced speakers 
-* Producing your slides 
-* Public speaking training, including (remote) rehearsal
-* Contact with local meetups to practice your talk in front of a smaller crowd
+We are also open to proposals of other formats and lengths! You want to propose a panel discussion or a fishbowl session? Give your talk in 60 seconds or less? Submit an amazing half-day workshop? Finish with fireworks and a magic show? Just let us know.
 
 If you are more comfortable speaking in front of a smaller crowd, please note so in your proposal. We will do our best to listen to your wishes and place your talk in a smaller room.
 
-If you need any other help, contact us via Twitter or [cfp@dachfest.com](mailto:cfp@dachfest.com) and we'll be happy to help!
+There is no Q&A by default, but if you want one, please note it in your submission or let your stage manager know before the start of your talk. Talk length will not be extended for Q&As, but feel free to balance the timing on your own.
+
+### Support 👩‍💻
+    
+Nobody is a born speaker. If you want to submit a talk, you probably have something exciting to tell the world — and that's enough for us!
+
+If you feel like you could use some help with your submission, reach out to one of our amazing mentors:
+
+* Madlaina Kalunder (@anialdam or ???@???)
+* Martin Splitt (@g33konaut or splitti@google.com)
+
+They are here to give you all the support you might need. Here's a non-exhaustive list of things they could help with:
+
+* Finding a good talk topic
+* Writing an engaging abstract
+* Proofreading your submission
+* Reviewing slides
+* Practicing your talk
+* Putting you in touch with local meetups to practice your talk in front of a smaller crowd
+
+And be on the lookout for your local GDG and WTM events! We are currently looking into organizing a small series of informal meetups focused on public speaking and submitting your first talk.
 
 ### Travel Reimbursement ✈️🚆
-If you need to be compensated for your travel, please note so when submitting your talk, including an estimate for flight/train and hotel. While we can't offer travel support to everyone, we'll do our best to find a solution.
-   
-If your employer can cover your travel and hotel, we’ll be happy to mention them as a company sponsor or partner (you can state that on the last page of this form). The money we save will be invested into the general running of the conference and scholarships for attendees from underrepresented groups or students.  Entry to the conference: as a speaker, you will get two free tickets: one for you and another person. Please note that we may not be done with the speaker selections by the time tickets go on sale, so if you want to make sure you can attend, let us know in the form below and we’ll hold a ticket for you in case your talk is not selected.
- 
+
+If you need to be compensated for your travel, please note so when submitting your talk, including an estimate for your flight/train. Please keep in mind that DACHFest is a non-profit, community-organized conference: try your best to be frugal.
+
+If your employer can cover your travel and accommodation, we would be incredibly grateful. The money we save will be invested into the general running of the conference and scholarships for attendees from underrepresented groups. 
+
+As a speaker, you will get a free ticket for you and your +1.
+
 ### Video Recordings 🎥
-In order to make content presented at DACHFest accessible for everybody in the community, we plan to record all talks along with the slides or any on-screen content and publish them for free. If you are not happy with the way your talk went or are uncomfortable with being recorded, tell us in the *Notes* section when submitting your talk or afterwards at the conference and we will work things out. 
-   
-Finally, since you retain full ownership of your slides and recording, we’d like to ask you to make your materials and recording available under a Creative Commons (we default to non-commercial reuse) or any other open source license. 
+
+In order to make the content presented at DACHFest accessible for the wider community, we plan to record all talks (along with the slides or any on-screen content) and release them later for free. If you are not happy with the way your talk went or are uncomfortable with being recorded, just let us know, and we will work things out.
+
+The recordings will be released under the Creative Commons (CC BY-NC-SA 4.0) license, and we are asking you to release slides under the same (or similar) conditions. If you are uncomfortable with this license, please let us know.
 
 ### Code of Conduct 
-We aim to make DACHFest harassment-free and as inclusive as possible. We need you to read, understand and comply with our [Code of Conduct](/coc). 
+
+We aim to make DACHFest as inclusive and welcoming as possible. Submitting your talk means that you have read, understood and agreed to comply with our [Code of Conduct](/coc).
