@@ -1,6 +1,8 @@
 ## DACHFest 2018 Call for Papers
 
-Thanks for your interest in speaking at DACHFest 2018! DACHFest is a community-driven conference organised by Google Developer Groups from Germany, Austria, and Switzerland that will take place on November 10–11 at Technical University Munich. We expect about 800 attendees with 3 simultaneous tracks and numerous other activities.
+Thanks for your interest in speaking at DACHFest 2018!
+
+DACHFest is a community-driven conference organized by Google Developer Groups from Germany, Austria, and Switzerland. It's taking place at the Munich Technical University on November 10–11: around 800 people are going to get together to enjoy 3 talk tracks, a lot of community-oriented activities, and opportunities for networking and making new friends. ❤️
 
 If you have any questions, do not hesitate to contact us on [Twitter](https://twitter.com/DACHFest) or at [cfp@dachfest.com](mailto:cfp@dachfest.com).
 
@@ -20,7 +22,9 @@ Have you created something that changes the way people work? We're waiting for y
 
 You want to tell our participants something that will make a difference in _their_ lives? Please submit right now!
 
-And don't forget that the examples above are just very rough guidelines. Surprise us!
+And don't forget that the examples above are just very rough guidelines. If you're not sure whether your talk is a good fit, stop hesitating: it probably is! Surprise us!
+
+P.S. If you have more questions about the theme, suggested topics, or the right way to frame your talk, you can always get in touch with our wonderful mentors — more about them in a bit! — or ask [@dachfest](https://twitter.com/dachfest) on Twitter.
 
 ### Selection Process ✅
 
