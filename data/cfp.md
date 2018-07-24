@@ -10,7 +10,7 @@ If you have any questions, do not hesitate to contact us on [Twitter](https://tw
 
 September 15: Last day to submit your application!
 
-September 30: We'll notify you of your submission status.
+October 15: We'll notify you of your submission status.
 
 ### Topics 💭
 
