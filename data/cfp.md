@@ -34,13 +34,14 @@ We strive for eliminating bias as much as possible, and it means that every subm
 
 No matter whether your talk is selected or not, we will always try to provide feedback and give you suggestions if we have any.
 
-### Guidelines 📃
+### Guidelines and Tips 📃
 
 * **Language**: English.
 * **Brevity**: we recommend a single paragraph for the abstract and 3-4 paragraphs for the talk description. Get straight to the point!
-* **Formatting and proofreading**: submissions with good spelling, no typos, and proper paragraph formatting make the job of our program committee much easier.
+* **Formatting**: submissions with good spelling, no typos, and proper paragraph formatting make the job of our program committee much easier.
 * **Completeness**: you will not have a chance to modify your submission! Read it carefully before sending, make sure it's complete and has all the information we need to make an objective decision.
 * **Personal information**: submissions are supposed to be anonymous, so please make sure there is no information that can identify you as a speaker, unless you feel like mentioning your name or company is absolutely essential for your talk. The "notes" field is not visible to the reviewers, so it may contain personal information or any references that you think are important.
+* **Proofreading**: ask someone to review your abstract before submission. It never hurts to have a second pair of eyes! Our mentors are happy to guide you and give valuable advice for your entry, but it can also be a friend or someone you know and trust.
 
 ### Talk Formats 🗣️
 
@@ -74,6 +75,7 @@ They are here to give you all the support you might need. Here's a non-exhaustiv
 * Proofreading your submission
 * Reviewing slides
 * Practicing your talk
+* Boosting your confidence
 * Putting you in touch with local meetups to practice your talk in front of a smaller crowd
 
 And be on the lookout for your local GDG and WTM events! We are currently looking into organizing a small series of informal meetups focused on public speaking and submitting your first talk.
