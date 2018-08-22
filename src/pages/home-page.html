@@ -148,6 +148,12 @@
 
 
         <div class="action-buttons" layout horizontal center-justified wrap>
+          <a href="{$ cfpLink $}" tabindex="-1" target="_blank">
+          <paper-button>
+            <iron-icon icon="hoverboard:open-in-new"></iron-icon>
+            {$ submitProposal $}
+          </paper-button>
+          </a>
           <!--
           <paper-button
             on-tap="_playVideo"
@@ -158,6 +164,11 @@
           >
             <iron-icon icon="hoverboard:movie"></iron-icon>
             {$ viewHighlights $}
+          </paper-button>
+          -->
+          <paper-button disabled>
+            <iron-icon icon="hoverboard:ticket"></iron-icon>
+            {$ ticketSalesSoon $}
           </paper-button>
           <!--
           <paper-button
@@ -214,7 +225,7 @@
         };
       }
 
-      _playVideo() {
+     _playVideo() {
         uiActions.toggleVideoDialog({
           title: '{$  aboutBlock.callToAction.howItWas.title $}',
           youtubeId: '{$  aboutBlock.callToAction.howItWas.youtubeId $}',
