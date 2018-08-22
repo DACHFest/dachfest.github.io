@@ -55,6 +55,11 @@
         color: #fff;
       }
 
+      .action-buttons paper-button.vip {
+        background-color: #fff;
+        color: #444;
+      }
+
       .action-buttons iron-icon {
         --iron-icon-fill-color: currentColor;
         margin-right: 8px;
@@ -127,6 +132,10 @@
           line-height: 1.1;
         }
       }
+
+      #ticket-button {
+        cursor: default;
+      }
     </style>
 
     <polymer-helmet active="[[active]]"></polymer-helmet>
@@ -148,6 +157,12 @@
 
 
         <div class="action-buttons" layout horizontal center-justified wrap>
+          <a href="{$ cfpLink $}" tabindex="-1" target="_blank">
+          <paper-button class="vip" raised>
+            <iron-icon icon="hoverboard:open-in-new"></iron-icon>
+            {$ submitProposal $}
+          </paper-button>
+          </a>
           <!--
           <paper-button
             on-tap="_playVideo"
@@ -158,6 +173,11 @@
           >
             <iron-icon icon="hoverboard:movie"></iron-icon>
             {$ viewHighlights $}
+          </paper-button>
+          -->
+          <paper-button id="ticket-button">
+            <iron-icon icon="hoverboard:ticket"></iron-icon>
+            {$ ticketSalesSoon $}
           </paper-button>
           <!--
           <paper-button
@@ -214,7 +234,7 @@
         };
       }
 
-      _playVideo() {
+     _playVideo() {
         uiActions.toggleVideoDialog({
           title: '{$  aboutBlock.callToAction.howItWas.title $}',
           youtubeId: '{$  aboutBlock.callToAction.howItWas.youtubeId $}',
