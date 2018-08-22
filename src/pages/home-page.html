@@ -132,6 +132,10 @@
           line-height: 1.1;
         }
       }
+
+      #ticket-button {
+        cursor: default;
+      }
     </style>
 
     <polymer-helmet active="[[active]]"></polymer-helmet>
@@ -171,7 +175,7 @@
             {$ viewHighlights $}
           </paper-button>
           -->
-          <paper-button disabled>
+          <paper-button id="ticket-button">
             <iron-icon icon="hoverboard:ticket"></iron-icon>
             {$ ticketSalesSoon $}
           </paper-button>
