@@ -11,9 +11,9 @@
     "src/pages/previous-speakers-page.html",
     "src/pages/team-page.html",
     "src/pages/faq-page.html",
-    "src/pages/imprint.html",
-    "src/pages/privacy.html",
-    "src/pages/code-of-conduct.html",
+    "src/pages/imprint-page.html",
+    "src/pages/privacy-page.html",
+    "src/pages/cod-page.html",
     "src/lazy-resources.html"
   ],
   "sources": [
