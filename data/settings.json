@@ -15,58 +15,59 @@
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DACHFest18",
+  "hashtag": "DACHFest",
   "navigation": [
     {
       "route": "home",
       "permalink": "/",
-      "title": "Home"
-    },{
+      "label": "Home"
+    },
+    {
       "route": "blog",
       "permalink": "/blog/",
-      "title": "Blog"
-    },
-    {
-      "route": "privacy",
-      "permalink": "/privacy/",
-      "title": "privacy"
-    },
-    {
-      "route": "imprint",
-      "permalink": "/imprint/",
-      "title": "Imprint"
+      "label": "Blog"
     }
   ],
   "_navigation": [
     {
       "route": "home",
       "permalink": "/",
-      "title": "Home"
+      "label": "Home"
     },
     {
       "route": "speakers",
       "permalink": "/speakers/",
-      "title": "Speakers"
+      "label": "Speakers"
     },
     {
       "route": "schedule",
       "permalink": "/schedule/",
-      "title": "Schedule"
+      "label": "Schedule"
     },
     {
       "route": "coc",
-      "permalink": "/coc/",
+      "permalink": "/conduct/",
       "title": "Code of Conduct"
     },
     {
       "route": "team",
       "permalink": "/team/",
-      "title": "Team"
+      "label": "Team"
     },
     {
       "route": "blog",
       "permalink": "/blog/",
-      "title": "Blog"
+      "label": "Blog"
+    },
+    {
+      "route": "imprint",
+      "permalink": "/imprint/",
+      "label": "Imprint"
+    },
+    {
+      "route": "privacy",
+      "permalink": "/privacy/",
+      "label": "privacy"
     }
   ],
   "heroSettings": {
@@ -88,8 +89,8 @@
     },
     "speakers": {
       "title": "Speakers",
-      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future. Check back often as we add more speakers, including our customers and partners.",
+      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future. Check back often as we add more speakers, including our customers and partners.",
       "background": {
         "color": "#FFF"
       },
@@ -126,6 +127,14 @@
         "color": "#fff"
       },
       "fontColor": "#424242"
+    },
+    "cod": {
+      "title": "Code Of Conduct",
+      "metaDescription": "Learn more about our expectations for all those who participate in our community",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
     }
   },
   "location": {
@@ -143,7 +152,7 @@
       "latitude": 48,
       "longitude": 8
     },
-    "description": "In the main campus building of the TU Munich "
+    "description": "TU Munich, main campus."
   },
   "mediaQueries": {
     "xs": {
@@ -214,7 +223,7 @@
   },
   "contentLoaders": {
     "schedule": {
-      "itemsCount": 3
+      "itemsCount": 2
     },
     "blog": {
       "itemsCount": 3

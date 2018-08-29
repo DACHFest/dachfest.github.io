@@ -1,10 +1,10 @@
 {
   "title": "GDG DACHFest 2018",
-  "description": "Be a hero. Be a GDG!",
+  "description": "Making a difference.",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "November 10-11, 2018",
-  "partnershipProposition": "https://bit.ly/dfua17-partners",
+  "partnershipProposition": "https://drive.google.com/file/d/1Z-dMtg1zI5YnHDwpYmy5VhBRS78W9K8a/view?usp=sharing",
   "share": "Share",
   "followOur": "Follow our",
   "followUs": "Follow us",
@@ -16,7 +16,7 @@
   "signOut": "Sign out",
   "viewHighlights": "View Highlights",
   "submitProposal": "Submit a talk proposal",
-  "cfpLink": "https://www.papercall.io/dachfest18",
+  "cfpLink": "https://papercall.io/dachfest18",
   "ticketSalesSoon": "Ticket sales are starting soon!",
   "offlineMessage": "You can still work offline.",
   "cachingComplete": "Caching complete! Future visits will work offline.",
@@ -25,8 +25,14 @@
   "position": "Position",
   "country": "Country",
   "time": "Time",
+  "faq": "/data/faq.md",
+  "cod": "/data/cod.md",
   "footer": {
     "blog": "Blog"
+  },
+  "mySchedule": {
+    "title": "My Schedule",
+    "browseSession": "Browse sessions"
   },
   "footerRelBlock": [
     {
@@ -50,7 +56,17 @@
         },
         {
           "name": "Code of Conduct",
-          "url": "/coc/",
+          "url": "/conduct/",
+          "newTab": false
+        },
+        {
+          "name": "Imprint",
+          "url": "/imprint/",
+          "newTab": false
+        },
+        {
+          "name": "Privacy",
+          "url": "/privacy/",
           "newTab": false
         }
       ]
@@ -77,8 +93,8 @@
         "number": "2"
       },
       "speaker": {
-        "label": "Speaker",
-        "number": "50"
+        "label": "Speakers",
+        "number": "30"
       },
       "tracks": {
         "label": "Tracks",
@@ -105,7 +121,7 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "Featured videos",
     "callToAction": {
       "label": "See all videos",
       "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
@@ -122,7 +138,6 @@
       "link": "/blog/"
     }
   },
-  "faq": "/data/faq.md",
   "speakers": {
     "skills": "Skills",
     "previousYears": "Years",
@@ -143,7 +158,7 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
+    "title": "Highlights",
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
