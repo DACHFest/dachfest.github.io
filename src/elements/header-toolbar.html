@@ -45,6 +45,7 @@
         background-color: var(--default-primary-color);
         transition: background-color var(--animation);
         -webkit-mask: url('/images/logo-monochrome.svg') no-repeat;
+        mask: url('/images/logo-monochrome.svg') no-repeat;
       }
 
       .nav-items {
@@ -148,13 +149,13 @@
       >
         {% for nav in navigation %}
         <paper-tab name="{$ nav.route $}" class="nav-item" link>
-          <a href="{$ nav.permalink $}" layout vertical center-center>{$ nav.title $}</a>
+          <a href="{$ nav.permalink $}" layout vertical center-center>{$ nav.label $}</a>
         </paper-tab>
         {% endfor %}
 
         <!--<paper-tab class="signin-tab" on-tap="signIn" link hidden$="[[user.signedIn]]">{$ signIn $}</paper-tab>-->
 
-        <!--<a href$="[[tickets.url]]" target="_blank" rel="noopener noreferrer" ga-on="click"
+        <a href$="[[_getTicketUrl(tickets)]]" target="_blank" rel="noopener noreferrer" ga-on="click"
            ga-event-category="ticket button" ga-event-action="buy_click">
           <paper-button class="buy-button" primary>{$ buyTicket $}</paper-button>
         </a>-->
@@ -307,10 +308,10 @@
       _toggleNotifications() {
         this._closeNotificationMenu();
         if (this.notifications.status === NOTIFICATIONS_STATUS.GRANTED) {
-          notificationsActions.unsubscribe(this.notifications.token);
+          this.dispatch(notificationsActions.unsubscribe(this.notifications.token));
           return;
         }
-        notificationsActions.requestPermission();
+        this.dispatch(notificationsActions.requestPermission());
       }
 
       _getNotificationsIcon(status) {
@@ -331,6 +332,12 @@
 
       _isAccountIconHidden(userSignedIn, isTabletPlus) {
         return userSignedIn || isTabletPlus;
+      }
+
+      _getTicketUrl(tickets) {
+        if (!tickets.list.length) return '';
+        const availableTicket = tickets.list.filter((ticket) => ticket.available)[0];
+        return availableTicket ? availableTicket.url : tickets.list[0].url;
       }
 
       _setToolbarSettings(settings) {

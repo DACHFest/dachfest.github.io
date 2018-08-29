@@ -44,6 +44,12 @@
         box-shadow: var(--box-shadow-primary-color-hover);
       }
 
+      .ticket-item[sold-out] {
+        opacity: .5;
+        filter: grayscale(1);
+        cursor: not-allowed;
+      }
+
       .header {
         padding: 24px 0 0;
         font-size: 16px;
@@ -142,6 +148,7 @@
             href$="[[ticket.url]]"
             target="_blank"
             rel="noopener noreferrer"
+            sold-out$="[[ticket.soldOut]]"
             in-demand$="[[ticket.inDemand]]"
             on-tap="_onTicketTap"
             ga-on="click"
@@ -192,8 +199,16 @@
         return {
           tickets: {
             type: Array,
-            statePath: 'tickets',
+            statePath: 'tickets.list',
             observer: '_ticketsChanged',
+          },
+          ticketsFetching: {
+            type: Boolean,
+            statePath: 'tickets.fetching',
+          },
+          ticketsFetchingError: {
+            type: Object,
+            statePath: 'tickets.fetchingError',
           },
           viewport: {
             type: Object,
@@ -205,7 +220,6 @@
 
       connectedCallback() {
         super.connectedCallback();
-        ticketsActions.fetchTickets();
         // eslint-disable-next-line no-undef
         HOVERBOARD.Elements.Tickets = this;
       }

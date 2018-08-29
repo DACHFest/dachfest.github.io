@@ -131,7 +131,7 @@
       <template is="dom-repeat" items="[[gallery]]" as="photo">
         <plastic-image
           class="grid-item"
-          srcset="[[photo]]"
+          srcset="[[photo.url]]"
           sizing="cover"
           lazy-load preload fade
         ></plastic-image>
@@ -141,7 +141,7 @@
           <h2>{$ galleryBlock.title $}</h2>
           <p>{$ galleryBlock.description $}</p>
         </div>
-        <a href="{$ galleryBlock.callToAction.url $}" target="_blank" rel="noopener noreferrer">
+        <a href="{$ galleryBlock.callToAction.link $}" target="_blank" rel="noopener noreferrer">
           <paper-button>{$ galleryBlock.callToAction.label $}</paper-button>
         </a>
       </div>
@@ -159,15 +159,26 @@
       static get properties() {
         return {
           gallery: {
-            route: Object,
-            statePath: 'gallery',
+            type: Array,
+            statePath: 'gallery.list',
+          },
+          galleryFetching: {
+            type: Boolean,
+            statePath: 'gallery.fetching',
+          },
+          galleryFetchingError: {
+            type: Object,
+            statePath: 'gallery.fetchingError',
           },
         };
       }
 
       connectedCallback() {
         super.connectedCallback();
-        if (!Object.keys(this.gallery).length) galleryActions.fetchGallery();
+
+        if (!this.gallery || !this.gallery.length) {
+          this.dispatch(galleryActions.fetchGallery());
+        }
       }
     }
 
