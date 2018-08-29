@@ -30,9 +30,9 @@ Be careful in the words that you choose. Remember that sexist, racist, and other
 
 If a participant engages in behavior that violates this code of conduct, the conference organizers may take any action they deem appropriate, including expelling the offender from the conference with no refund.
 
-The conference organizers will maintain the anonymity of the offended party, unless specifically discussed and agreed not to, as well as the anonymity of the alleged offender during an ongoing investigation. 
+The conference organizers will maintain the anonymity of the offended party, unless specifically discussed and agreed not to, as well as the anonymity of the alleged offender during an ongoing investigation.
 
-The conference organizers will follow the following [violation reporting guidelines for staff](/violation-reporting-staff).
+The conference organizers will follow the following [incident handling guidelines for staff](/incident-handling).
 
 ## License
 
