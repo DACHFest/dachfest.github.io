@@ -1,14 +1,14 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-dev.firebaseapp.com/",
-  "analytics": "UA-43643469-8",
+  "url": "https://dachfest-dev.firebaseapp.com/",
+  "analytics": "",
   "prefix": "/",
   "firebase": {
     "apiKey": "AIzaSyBcrd_IeRwxBnGNBtagH8Om88XBL0q5YjE",
-    "authDomain": "dachfest-8ec02.firebaseapp.com",
-    "databaseURL": "https://dachfest-8ec02.firebaseio.com",
-    "projectId": "dachfest-8ec02",
-    "storageBucket": "dachfest-8ec02.appspot.com",
+    "authDomain": "dachfest-dev.firebaseapp.com",
+    "databaseURL": "https://dachfest-dev.firebaseio.com",
+    "projectId": "dachfest-dev",
+    "storageBucket": "dachfest-dev.appspot.com",
     "messagingSenderId": "857268769092"
   },
   "googleMapApiKey": "AIzaSyDWy6O98n-ueoVaYPWRPve23vjm3JP08gw"
