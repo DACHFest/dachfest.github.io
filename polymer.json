@@ -13,6 +13,8 @@
     "src/pages/faq-page.html",
     "src/pages/imprint-page.html",
     "src/pages/privacy-page.html",
+    "src/pages/violation-reporting-page.html",
+    "src/pages/incident-handling-page.html",
     "src/pages/cod-page.html",
     "src/lazy-resources.html"
   ],

@@ -1,14 +1,14 @@
 {
   "basepath": "/",
-  "url": "https://dachfest-dev.firebaseapp.com/",
+  "url": "https://dachfest-8ec02.firebaseapp.com/",
   "analytics": "",
   "prefix": "/",
   "firebase": {
     "apiKey": "AIzaSyBcrd_IeRwxBnGNBtagH8Om88XBL0q5YjE",
-    "authDomain": "dachfest-dev.firebaseapp.com",
-    "databaseURL": "https://dachfest-dev.firebaseio.com",
-    "projectId": "dachfest-dev",
-    "storageBucket": "dachfest-dev.appspot.com",
+    "authDomain": "dachfest-8ec02.firebaseapp.com",
+    "databaseURL": "https://dachfest-8ec02.firebaseio.com",
+    "projectId": "dachfest-8ec02",
+    "storageBucket": "dachfest-8ec02.appspot.com",
     "messagingSenderId": "857268769092"
   },
   "googleMapApiKey": "AIzaSyDWy6O98n-ueoVaYPWRPve23vjm3JP08gw"
