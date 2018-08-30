@@ -1,4 +1,4 @@
-## Code of Conduct Incident Handling Guidelines
+## Incident Handling Guidelines
 
 We believe that having a strict Code of Conduct helps build welcoming, inclusive, and diverse communities. Unfortunately, despite having a Code of Conduct that everyone agrees to, incidents do happen, and when they do, you should make sure that you stay respectful and attentive when taking a report and investigating an incident.
 

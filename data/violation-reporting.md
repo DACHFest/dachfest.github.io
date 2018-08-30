@@ -1,4 +1,4 @@
-## Code of Conduct Violation Reporting Guidelines
+## Violation Reporting Guidelines
 
 We believe that having a strict Code of Conduct helps build welcoming, inclusive, and diverse communities. Unfortunately, despite having a Code of Conduct that everyone agrees to, incidents do happen, and when they do, having a clear set of guidelines for reporting and handling them helps us resolve problematic situations in a better way.
 

@@ -32,7 +32,7 @@ If a participant engages in behavior that violates this code of conduct, the con
 
 The conference organizers will maintain the anonymity of the offended party, unless specifically discussed and agreed not to, as well as the anonymity of the alleged offender during an ongoing investigation.
 
-The conference organizers will follow the following [incident handling guidelines for staff](/incident-handling).
+The conference organizers will follow the [incident handling guidelines for staff](/incident-handling).
 
 ## License
 
