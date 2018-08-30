@@ -26,7 +26,11 @@
   "country": "Country",
   "time": "Time",
   "faq": "/data/faq.md",
-  "cod": "/data/cod.md",
+  "cod": "/data/conduct.md",
+  "incidentHandling": "/data/incident-handling.md",
+  "violationReporting": "/data/violation-reporting.md",
+  "imprint": "/data/imprint.md",
+  "privacy": "/data/privacy.md",
   "footer": {
     "blog": "Blog"
   },

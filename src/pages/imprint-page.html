@@ -1,288 +1,57 @@
 <link rel="import" href="../../bower_components/polymer/polymer-element.html">
-<link rel="import" href="../../bower_components/marked-element/marked-element.html">
-<link rel="import" href="../elements/shared-styles.html">
-<link rel="import" href="../mixins/scroll-functions.html">
+<link rel="import" href="../elements/polymer-helmet.html">
+<link rel="import" href="../elements/hero-block.html">
+<link rel="import" href="../elements/footer-block.html">
+<link rel="import" href="../elements/md-content.html">
 
 <dom-module id="imprint-page">
-    <template>
-        <style is="custom-style" include="shared-styles flex flex-alignment"></style>
+  <template>
+    <style>
+      :host {
+        display: block;
+      }
+    </style>
 
-        <style>
-            :host {
-                display: block;
-            }
+    <polymer-helmet
+      title="{$ heroSettings.imprint.title $} | {$ title $}"
+      description="{$ heroSettings.imprint.metaDescription $}"
+      active="[[active]]"
+    ></polymer-helmet>
 
-            .content-wrapper {
-                background-color: var(--secondary-background-color);
-                width: 100%;
-                overflow: hidden;
-                transition: opacity var(--animation), opacity var(--animation);
-                opacity: 0;
-            }
+    <hero-block
+      background-image="{$ heroSettings.imprint.background.image $}"
+      background-color="{$ heroSettings.imprint.background.color $}"
+      font-color="{$ heroSettings.imprint.fontColor $}"
+      active="[[active]]"
+    >
+      <div class="hero-title highlight-font">{$ heroSettings.imprint.title $}</div>
+      <p class="hero-description">{$ heroSettings.imprint.description $}</p>
+    </hero-block>
 
-            .content-wrapper.visible {
-                opacity: 1;
-            }
+    <md-content md-source="[[source]]"></md-content>
 
-            .col {
-                font-size: 32px;
-                line-height: 48px;
-                margin-bottom: 24px;
-                z-index: 2;
-            }
+    <footer-block></footer-block>
+  </template>
 
-            .col-content {
-                line-height: 32px;
-                display: block;
-                font-size: 16px;
-            }
+  <script>
 
-            [slot="markdown-html"] h2 {
-                line-height: 2;
-            }
-
-            [slot="markdown-html"] h3::after {
-                content: '';
-                background-image: url('../../images/link-icon.svg');
-                width: 22px;
-                height: 18px;
-                display: inline-block;
-                margin-left: 10px;
-                cursor: pointer;
-            }
-
-            @media (min-width: 640px) {
-                .content,
-                .markdown-text {
-                    padding: 0 18px;
-                }
-
-                .col {
-                    margin-right: 24px;
-                }
-
-                .col:last-of-type {
-                    margin-right: 0;
-                }
-
-                [slot="markdown-html"] h2 {
-                    font-size: 40px;
-                    width: 40%;
-                    margin-bottom: 0;
-                    display: inline-block;
-                    transform: translateY(85%);
-                    vertical-align: bottom;
-                    line-height: 1;
-                }
-
-                [slot="markdown-html"] h3 {
-                    line-height: 1.5;
-                }
-
-                [slot="markdown-html"] h3,
-                [slot="markdown-html"] h4,
-                [slot="markdown-html"] p,
-                [slot="markdown-html"] ul {
-                    margin-left: 40%;
-                }
-
-                [slot="markdown-html"] h3::after {
-                    display: none;
-                }
-
-                [slot="markdown-html"] h3:hover::after {
-                    display: inline-block;
-                }
-            }
-
-            @media (min-width: 812px) {
-                .content,
-                .markdown-text {
-                    padding: 0 40px;
-                }
-            }
-        </style>
-
-        <polymer-helmet
-                title="Imprint Terms"
-                active="[[active]]"
-        ></polymer-helmet>
-
-
-
-        <div class="description-wrapper">
-            <div class="container" layout horizontal justified>
-
-                <div slot="markdown-html"><h1>Legal Disclosure</h1>
-                    <p>
-                    Information in accordance with Section 5 TMG
-                        <br><br>Bodenseestraße 14<br>82194 Gröbenzell<br></p>
-                    <h2>Contact Information</h2>
-                    <p>Telephone: +491712879724<br>E-Mail: <a href="mailto:mfahlandt@pixel-haufen.de">mfahlandt@pixel-haufen.de</a><br>Internet address: <a href="www.dachfest.com" target="_blank">www.dachfest.com</a><br><br></p>
-                    <h2>Disclaimer</h2>
-                    <p>Accountability for content<br>
-                    The contents of our pages have been created with the utmost care. However, we cannot guarantee the contents'
-                    accuracy, completeness or topicality. According to statutory provisions, we are furthermore responsible for
-                    our own content on these web pages. In this matter, please note that we are not obliged to monitor
-                    the transmitted or saved information of third parties, or investigate circumstances pointing to illegal activity.
-                    Our obligations to remove or block the use of information under generally applicable laws remain unaffected by this as per
-                    §§ 8 to 10 of the Telemedia Act (TMG).
-
-                    <br><br>Accountability for links<br>
-                    Responsibility for the content of
-                    external links (to web pages of third parties) lies solely with the operators of the linked pages. No violations were
-                    evident to us at the time of linking. Should any legal infringement become known to us, we will remove the respective
-                    link immediately.<br><br>Copyright<br> Our web pages and their contents are subject to German copyright law. Unless
-                    expressly permitted by law, every form of utilizing, reproducing or processing
-                    works subject to copyright protection on our web pages requires the prior consent of the respective owner of the rights.
-                    Individual reproductions of a work are only allowed for private use.
-                    The materials from these pages are copyrighted and any unauthorized use may violate copyright laws.
-
-                    <br><br>
-                    <i>Source: </i><a href="http://www.translate-24h.de" target="_blank">Englisch-Übersetzungsdienst translate-24h</a> <br><br>
-                    </p>
-                </div>
-
-            </div>
-        </div>
-        <div class="container">
-
-
-        </div>
-        <footer-block></footer-block>
-    </template>
-
-    <script>
-
-      // eslint-disable-next-line no-undef
-      class ImprintPage extends ScrollFunctions(Polymer.Element) {
-        static get is() {
-          return 'imprint-page';
-        }
-
-        static get properties() {
-          return {
-            active: Boolean,
-            source: {
-              type: String,
-              value: '{$ imprint $}',
-            },
-            self: Object,
-            toolbarOffset: {
-              type: Number,
-              value: 70,
-            },
-          };
-        }
-
-        constructor() {
-          super();
-          this._scrollToImprintChapter = this._scrollToImprintChapter.bind(this);
-          this._changeUrl = this._changeUrl.bind(this);
-        }
-
-        ready() {
-          super.ready();
-          this.self = this;
-          this.addEventListener('marked-render-complete', this._renderContent);
-        }
-
-        connectedCallback() {
-          super.connectedCallback();
-
-          if (window.location.hash) {
-            setTimeout(() => {
-              const path = window.location.hash.slice(1).split('#');
-              const element = path.reduce((host, id) => {
-                const target = host.shadowRoot ? host.shadowRoot.querySelector(`#${id}`) : host;
-                return target ? target : host;
-              });
-              const offset = this.offsetTop(element);
-              this.scrollToY(offset - this.toolbarOffset, 100);
-            }, 500);
-          }
-        }
-
-        _renderContent() {
-          const heads = this.shadowRoot.querySelectorAll('.markdown-text h3');
-          const contentDom = this.shadowRoot.querySelector('.content');
-          let lastHeadElement;
-
-          for (let i = 0; i < heads.length; i++) {
-            if (heads[i].previousElementSibling.nodeName === 'H2') {
-              const head2Element = heads[i].previousElementSibling;
-              const colHeader = document.createElement('div');
-              colHeader.className = `col ${head2Element.id}`;
-              colHeader.textContent = head2Element.textContent;
-              contentDom.appendChild(colHeader);
-              lastHeadElement = colHeader;
-            }
-
-            const colContent = document.createElement('a');
-            colContent.className = 'col-content';
-            colContent.href = `#${heads[i].id}`;
-            colContent.textContent = heads[i].textContent;
-            colContent.addEventListener('click', this._scrollToImprintChapter);
-            lastHeadElement.appendChild(colContent);
-
-            heads[i].addEventListener('click', this._changeUrl);
-          }
-
-          const contentWrapper = this.shadowRoot.querySelector('.content-wrapper');
-          contentWrapper.classList.add('visible');
-        }
-
-        _scrollToImprintChapter(e) {
-          e.preventDefault();
-          const elementIdToScroll = e.target.getAttribute('href');
-          const element = this.shadowRoot.querySelector(elementIdToScroll);
-          const offset = this.offsetTop(element);
-          this.scrollToY(offset - this.toolbarOffset, 1500, 'easeInOutSine');
-          window.location.hash = elementIdToScroll;
-        }
-
-        _changeUrl(e) {
-          const targetElement = e.path && e.path[0];
-          const offset = this.offsetTop(targetElement);
-          const canBeScrolled = Math.abs(document.documentElement.scrollTop +
-              this.toolbarOffset - offset) >= 50;
-          if (canBeScrolled) {
-            this.scrollToY(offset - this.toolbarOffset, 100);
-          }
-
-          window.location.hash = targetElement.id;
-          this._copyTextToClipboard(window.location.href);
-        }
-
-        _copyTextToClipboard(text) {
-          if (!navigator.clipboard) {
-            this._fallbackCopyTextToClipboard(text);
-            return;
-          }
-          navigator.clipboard.writeText(text);
-        }
-
-        _fallbackCopyTextToClipboard(text) {
-          const textArea = document.createElement('textarea');
-          textArea.value = text;
-          textArea.setAttribute('readonly', '');
-          textArea.style.position = 'fixed';
-          textArea.style.top = 0;
-          textArea.style.left = 0;
-          textArea.style.padding = 0;
-          textArea.style.border = 'none';
-          textArea.style.outline = 'none';
-          textArea.style.boxShadow = 'none';
-          textArea.style.background = 'transparent';
-          document.body.appendChild(textArea);
-          textArea.focus();
-          textArea.select();
-          document.execCommand('copy');
-          document.body.removeChild(textArea);
-        }
+    // eslint-disable-next-line no-undef
+    class ImprintPage extends Polymer.Element {
+      static get is() {
+        return 'imprint-page';
       }
 
-      window.customElements.define(ImprintPage.is, ImprintPage);
-    </script>
-</dom-module>
+      static get properties() {
+        return {
+          active: Boolean,
+          source: {
+            type: String,
+            value: '{$ imprint $}',
+          },
+        };
+      }
+    }
 
+    window.customElements.define(ImprintPage.is, ImprintPage);
+  </script>
+</dom-module>
