@@ -2,13 +2,16 @@
 
 ### Information in accordance with Section 5 TMG
 
-Bodenseestraße 14
-82194 Gröbenzell
+**Women Techmakers Switzerland**
+
+Founders: Marion Schleifer and Madlaina Kalunder
+
+8099 Zürich
 
 ### Contact Information
-Telephone: +491712879724
+Telephone: +4369911233832
 
-E-Mail: [mfahlandt@pixel-haufen.de](mailto:mfahlandt@pixel-haufen.de)
+E-Mail: [team@gdg-vienna.at](mailto:team@gdg-vienna.at)
 
 Internet address: [www.dachfest.com](www.dachfest.com)
 
