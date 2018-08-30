@@ -2,11 +2,11 @@
 
 We believe that having a strict Code of Conduct helps build welcoming, inclusive, and diverse communities. Unfortunately, despite having a Code of Conduct that everyone agrees to, incidents do happen, and when they do, you should make sure that you stay respectful and attentive when taking a report and investigating an incident.
 
-1. **Read and understand the CoC documents.** There are two, not including the one you are reading now: [the Code of Conduct itself]() and [the violation reporting guidelines for attendees]().
+1. **Read and understand the CoC documents.** There are two, not including the one you are reading now: [the Code of Conduct itself](/conduct) and [the violation reporting guidelines for attendees](/violation-reporting).
 
 2. **Be respectful, professional, and polite.** The victim has experienced a traumatic event and may not feel comfortable with the interview. Your immediate task is to:
 
-* introduce yourself; 
+* introduce yourself;
 * express regret that the violation took place;
 * assure the victim of their immediate safety;
 * assure the victim that everything possible and reasonable will be done to maintain that safety, as well as the safety of the other attendees;
@@ -23,9 +23,9 @@ We believe that having a strict Code of Conduct helps build welcoming, inclusive
 4. **Try to get all details of the incident.** The important information to gather includes:
 
 * Identifying information (name on the badge or physical appearance) of the offending party.
-* Identifying information (name on the badge or physical appearance) of the victim or victims.
+* Identifying information of the victim or victims.
 * Detailed description of the violating behavior.
-* Place of the incident. 
+* Place of the incident.
 * Approximate time of the incident.
 * Circumstances surrounding the incident.
 * Other people involved in (or witnessing) the incident.
@@ -60,6 +60,6 @@ We believe that having a strict Code of Conduct helps build welcoming, inclusive
 
 11. **Make the parties involved aware of the resolution.** This includes the victim, the reporter, and any witnesses that have come into contact with you. You should not disclose investigation details, but you should notify everyone of the particular measure or measures taken.
 
-12. **(Conference chairs only) Decide on whether to make a public announcement.** Depending on the incident, the conference chairs may decide to make public announcements. No one other than the conference chairs should make any public statements about the violation. No personal information about the victim or the reporter should be disclosed as part of this process unless there is explicit consent, and no personal information about the violator should be disclosed unless the violator has been notified that the sanctions against the violation will include a public statement.
+12. **(Conference chairs only) Decide on whether to make a public announcement.** Depending on the incident, the conference chairs may decide to make public announcements. No one other than the conference chairs should make any public statements about the violation. No personal information about the victim or the reporter should be disclosed as part of this process unless there is explicit consent, and no personal information about the violator should be disclosed unless the violator has been notified that the sanctions will include a public statement.
 
 13. **(Response team only) Include the incident in the transparency report.** A means to submit information for the transparency report will be provided during the conference.

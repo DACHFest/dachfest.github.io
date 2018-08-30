@@ -6,9 +6,9 @@ Here is how to become better at reporting violations:
 
 0. **You don't have to read this.** If you're too shook up or stressed out by an incident, reading a long document and compiling an accurate report may not be something you are capable of. We are ready to help you: just find the nearest staff member or reach out by email at conduct@dachfest.com.
 
-1. **Remember that Code of Conduct applies to everyone.** Attendees, speakers, sponsors, volunteers, organizers, venue staff — literally anyone you might see on the conference grounds is bound by our CoC, and you should report all violations you see. 
+1. **Remember that Code of Conduct applies to everyone.** Attendees, speakers, sponsors, volunteers, organizers, venue staff — literally anyone you might see on the conference grounds is bound by our CoC, and you should report all violations you see.
 
-2. **The violation doesn't have to be directed at you to report it.** If you see someone else being harrassed, or if you witness inappropriate behavior that doesn't target anyone in particular, you still can (and should) report it. 
+2. **The violation doesn't have to be directed at you to report it.** If you see someone else being harrassed, or if you witness inappropriate behavior that doesn't target anyone in particular, you still can (and should) report it.
 
 3. **Any member of our staff can receive a violation report.** If you see or hear anyone break the CoC, we are kindly asking you to find the strength to report it to any member of our staff (can be identified by special badges or attire). Every volunteer and organizer is trained to take reports, which will then be forwarded to our incident response team immediately. You can also submit your report to conduct@dachfest.com. During the conference hours, you should receive an acknowledgement within 30-60 minutes.
 
@@ -21,7 +21,7 @@ Here is how to become better at reporting violations:
 * Identifying information (name on the badge or physical appearance) of the offending party.
 * Identifying information (name on the badge or physical appearance) of the victim or victims.
 * Detailed description of the violating behavior.
-* Place of the incident. 
+* Place of the incident.
 * Approximate time of the incident.
 * Circumstances surrounding the incident.
 * Other people involved in (or witnessing) the incident.
@@ -30,4 +30,4 @@ Here is how to become better at reporting violations:
 
 ---
 
-**Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for the offenders, and the community at large, to grow, learn, and become better. DevFest staff requests that they be your first resource when reporting an incident, so that they may enforce the Code of Conduct and take swift action towards a resolution.
+**Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for the offenders, and the community at large, to grow, learn, and become better. DACHFest staff kindly asks that they be your first resource when reporting an incident, so that they may enforce the Code of Conduct and take swift action towards a resolution.
