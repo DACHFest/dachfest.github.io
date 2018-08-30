@@ -11,7 +11,7 @@
   "emailUs": "Email us",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
+  "buyTicket": "Buy a ticket",
   "signIn": "Sign in",
   "signOut": "Sign out",
   "viewHighlights": "View Highlights",
@@ -40,21 +40,10 @@
   },
   "footerRelBlock": [
     {
-      "title": "About",
+      "title": "Additional information",
       "links": [
         {
-          "name": "Google Developers Group",
-          "url": "https://developers.google.com/",
-          "newTab": true
-        }
-      ]
-    },
-
-    {
-      "title": "Event Resources",
-      "links": [
-        {
-          "name": "FAQs",
+          "name": "FAQ",
           "url": "/faq/",
           "newTab": false
         },
@@ -62,14 +51,20 @@
           "name": "Code of Conduct",
           "url": "/conduct/",
           "newTab": false
-        },
+        }
+      ]
+    },
+
+    {
+      "title": " ",
+      "links": [
         {
           "name": "Imprint",
           "url": "/imprint/",
           "newTab": false
         },
         {
-          "name": "Privacy",
+          "name": "Privacy policy",
           "url": "/privacy/",
           "newTab": false
         }
@@ -96,13 +91,13 @@
         "label": "Days",
         "number": "2"
       },
-      "speaker": {
-        "label": "Speakers",
-        "number": "30"
+      "sessions": {
+        "label": "Sessions",
+        "number": "35"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "2"
+        "number": "3"
       }
     }
   },
