@@ -11,3 +11,4 @@ functions/lib/
 serviceAccount.json
 .DS_Store
 *.log
+*.swp
