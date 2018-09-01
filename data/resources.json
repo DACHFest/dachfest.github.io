@@ -30,6 +30,7 @@
   "incidentHandling": "/data/incident-handling.md",
   "violationReporting": "/data/violation-reporting.md",
   "imprint": "/data/imprint.md",
+  "accessibility": "/data/accessibility.md",
   "privacy": "/data/privacy.md",
   "footer": {
     "blog": "Blog"
@@ -51,12 +52,17 @@
           "name": "Code of Conduct",
           "url": "/conduct/",
           "newTab": false
+        },
+        {
+          "name": "Accessibility",
+          "url": "/accessibility/",
+          "newTab": false
         }
       ]
     },
 
     {
-      "title": " ",
+      "title": "Legalese",
       "links": [
         {
           "name": "Imprint",
@@ -74,11 +80,11 @@
   "subscribeNote": "No spam, only the latest news and updates!",
   "codeOfConduct": "Code of Conduct",
   "aboutBlock": {
-    "title": "What you need to know, before you ask.",
+    "title": "The human side of tech",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DACHFest brings together the world class experts in Android, Web and Cloud technologies to Munich for 2 days of sessions, workshops and showcases.",
-        "label": "FAQ",
+        "description": "DACHFest is a two-day conference focused on making a difference through technology.",
+        "label": "Read the FAQ",
         "link": "/faq"
       }
     },

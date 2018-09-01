@@ -119,6 +119,14 @@
       },
       "fontColor": "#424242"
     },
+    "accessibility": {
+      "title": "Accessibility",
+      "metaDescription": "Accessibility statement for the venue.",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
     "cod": {
       "title": "Code Of Conduct",
       "metaDescription": "Expectations for all those who participate in our community",
