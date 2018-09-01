@@ -1,4 +1,4 @@
-## Incident Handling Guidelines
+## General Guidelines
 
 We believe that having a strict Code of Conduct helps build welcoming, inclusive, and diverse communities. Unfortunately, despite having a Code of Conduct that everyone agrees to, incidents do happen, and when they do, you should make sure that you stay respectful and attentive when taking a report and investigating an incident.
 
@@ -20,7 +20,9 @@ IV. **Remember that an interview is not an interrogation.** The victim has agree
 * Allow the victim as much control as possible. Ask how they would like to be addressed; do not assume gender or pronouns. Ask if they would prefer to describe the violation in their own words or if they would rather you ask questions. Determine if they want anyone contacted.
 * Listen and respond to their wishes and requests if at all possible.
 
-V. **Try to get all details of the incident.** The important information to gather includes:
+## Incident Handling Runbook
+
+I. **Try to get all details of the incident.** The important information to gather includes:
 
 * Identifying information (name on the badge or physical appearance) of the offending party.
 * Identifying information of the victim or victims.
@@ -30,20 +32,20 @@ V. **Try to get all details of the incident.** The important information to gath
 * Circumstances surrounding the incident.
 * Other people involved in (or witnessing) the incident.
 
-VI. **Reassure the victim.** Most of the time, submitting a violation report takes courage and resolve. Be aware of how much effort the victim has put in, and thank them sincerely. Explain the procedures that will follow, and make sure the victim understands that everything possible will be done to resolve the incident. Do not ask for their advice on how to deal with the incident and do not offer a choice of penalty: this is the responsibility of the response team and the conference chairs, and it should not fall on the victim's shoulders.
+II. **Reassure the victim.** Most of the time, submitting a violation report takes courage and resolve. Be aware of how much effort the victim has put in, and thank them sincerely. Explain the procedures that will follow, and make sure the victim understands that everything possible will be done to resolve the incident. Do not ask for their advice on how to deal with the incident and do not offer a choice of penalty: this is the responsibility of the response team and the conference chairs, and it should not fall on the victim's shoulders.
 
-VII. **Submit the report to conduct@dachfest.com.** This is an essential step to keep all reports written down, stored in one place, and available to the entire response team. Add your notes if necessary. Even if the reporter couldn't provide identifying information of the participant doing the harassing, the incident should be submitted in order to have as much information in case the same incident is reported again.
+III. **Submit the report to conduct@dachfest.com.** This is an essential step to keep all reports written down, stored in one place, and available to the entire response team. Add your notes if necessary. Even if the reporter couldn't provide identifying information of the participant doing the harassing, the incident should be submitted in order to have as much information in case the same incident is reported again.
 
-VIII. **Meet with the response team.** The main objectives of this meeting is to decide and make everyone aware of the following:
+IV. **Meet with the response team.** The main objectives of this meeting is to decide and make everyone aware of the following:
 
 * What has been reported?
 * Who is responsible for further incident handling?
 * When is it going to be handled?
 * What is the appropriate measure if the report stands?
 
-IX. **(Response team only) Communicate with the alleged harasser.** Make sure to inform them of what has been reported about them. Allow the alleged harasser to give their side of the story to the staff. If they wish to appeal, the appeals should be submitted to conduct@dachfest.com. **Do not disclose the names of the victim or the reporter.**
+V. **(Response team only) Communicate with the alleged harasser.** Make sure to inform them of what has been reported about them. Allow the alleged harasser to give their side of the story to the staff. If they wish to appeal, the appeals should be submitted to conduct@dachfest.com. **Do not disclose the names of the victim or the reporter.**
 
-X. **(Response team only) Decide on the actions to be taken against the alleged harasser and notify them.** As a member of the response team, the choice of action is at your full discretion. Possible sanctions against code of conduct violators include (but are not limited to):
+VI. **(Response team only) Decide on the actions to be taken against the alleged harasser and notify them.** As a member of the response team, the choice of action is at your full discretion. Possible sanctions against code of conduct violators include (but are not limited to):
 
 * Warning the harasser to cease their behavior and warning that any further reports will result in stricter sanctions.
 * Requiring that the harasser avoid any interaction with — and physical proximity to — their victim for the remainder of the event.
@@ -58,8 +60,8 @@ X. **(Response team only) Decide on the actions to be taken against the alleged 
 * Removing the violator from relevant organizations or groups (GDG, WTM, and similar).
 * Publishing an account of the harassment.
 
-XI. **Make the parties involved aware of the resolution.** This includes the victim, the reporter, and any witnesses that have come into contact with you. You should not disclose investigation details, but you should notify everyone of the particular measure or measures taken.
+VII. **Make the parties involved aware of the resolution.** This includes the victim, the reporter, and any witnesses that have come into contact with you. You should not disclose investigation details, but you should notify everyone of the particular measure or measures taken.
 
-XII. **(Conference chairs only) Decide on whether to make a public announcement.** Depending on the incident, the conference chairs may decide to make public announcements. No one other than the conference chairs should make any public statements about the violation. No personal information about the victim or the reporter should be disclosed as part of this process unless there is explicit consent, and no personal information about the violator should be disclosed unless the violator has been notified that the sanctions will include a public statement.
+VIII. **(Conference chairs only) Decide on whether to make a public announcement.** Depending on the incident, the conference chairs may decide to make public announcements. No one other than the conference chairs should make any public statements about the violation. No personal information about the victim or the reporter should be disclosed as part of this process unless there is explicit consent, and no personal information about the violator should be disclosed unless the violator has been notified that the sanctions will include a public statement.
 
-XIII. **(Response team only) Include the incident in the transparency report.** A means to submit information for the transparency report will be provided during the conference.
+IX. **(Response team only) Include the incident in the transparency report.** A means to submit information for the transparency report will be provided during the conference.

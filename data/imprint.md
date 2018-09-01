@@ -1,20 +1,11 @@
 ## Legal Disclosure
 
-### Information in accordance with Section 5 TMG
+### Women Techmakers Switzerland (Verein)
 
-**Women Techmakers Switzerland**
+Founder: Madlaina Kalunder.
 
-Founders: Marion Schleifer and Madlaina Kalunder
-
-8099 Zürich
-
-### Contact Information
-Telephone: +4369911233832
-
-E-Mail: [team@gdg-vienna.at](mailto:team@gdg-vienna.at)
-
-Internet address: [www.dachfest.com](www.dachfest.com)
-
+E-Mail: [orga@dachfest.com](mailto:orga@dachfest.com)  
+Internet address: [dachfest.com](http://dachfest.com)
 
 ## Disclaimer
 
@@ -26,7 +17,6 @@ our own content on these web pages. In this matter, please note that we are not 
 the transmitted or saved information of third parties, or investigate circumstances pointing to illegal activity.
 Our obligations to remove or block the use of information under generally applicable laws remain unaffected by this as per
 §§ 8 to 10 of the Telemedia Act (TMG).
-
 
 ### Accountability for links
 
@@ -41,6 +31,3 @@ Our web pages and their contents are subject to German copyright law. Unless exp
 works subject to copyright protection on our web pages requires the prior consent of the respective owner of the rights.
 Individual reproductions of a work are only allowed for private use.
 The materials from these pages are copyrighted and any unauthorized use may violate copyright laws.
-
-
-*Source: *[http://www.translate-24h.de](Englisch-Übersetzungsdienst translate-24h)
