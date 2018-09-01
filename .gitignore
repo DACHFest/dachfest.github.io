@@ -10,3 +10,4 @@ functions/lib/
 /appengine/dist/
 serviceAccount.json
 .DS_Store
+*.log

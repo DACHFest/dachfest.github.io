@@ -22,14 +22,44 @@
   },
   "partners": [
     {
+      "title": "Made DACHFest possible!",
       "logos": [
         {
           "logoUrl": "../images/logos/google.svg",
           "name": "Google",
           "url": "https://www.google.com/intl/en/about/"
         }
-      ],
-      "title": "Made DACHFest possible!"
+      ]
+    },
+    {
+      "title": "Diamond",
+      "logos": [
+        {
+          "logoUrl": "../images/logos/airbus.svg",
+          "name": "Airbus",
+          "url": "https://www.airbus.com/"
+        }
+      ]
+    },
+    {
+      "title": "Gold",
+      "logos": [
+        {
+          "logoUrl": "../images/logos/sotec.svg",
+          "name": "SOTEC",
+          "url": "http://sotec.eu/"
+        }
+      ]
+    },
+    {
+      "title": "Diversity Sponsor",
+      "logos": [
+        {
+          "logoUrl": "../images/logos/flixbus.png",
+          "name": "FlixBus",
+          "url": "https://flixbus.de"
+        }
+      ]
     }
   ],
   "schedule": { },
