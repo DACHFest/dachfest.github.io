@@ -28,10 +28,21 @@
         color: #fff;
       }
 
+      paper-button.vip {
+        background-color: #fff;
+        color: #444;
+      }
+
+      paper-button.vip iron-icon {
+        color: #00aced;
+      }
+
       paper-button[disabled] {
         background: var(--default-primary-color);
         color: #fff;
       }
+
+
 
       @media (min-width: 640px) {
         :host {
@@ -52,18 +63,15 @@
       <div class="description"> {$ subscribeBlock.callToAction.description $}</div>
       <div class="cta-button">
         <a
-                href="https://mailchi.mp/70768d3ea6b6/dachfest"
+                href="https://twitter.com/dachfest"
                 ga-on="click"
-                ga-event-category="video"
-                ga-event-action="watch"
                 ga-event-label="about block - {$ aboutBlock.callToAction.featuredSessions.label $}"
                 target="_blank"
                 rel="noopener noreferrer"
         >
-        <paper-button class="animated icon-right"
-                      >
+        <paper-button class="vip icon-left" raised>
+          <iron-icon icon="hoverboard:twitter"></iron-icon>
           <span class="cta-label">[[ctaLabel]]</span>
-          <iron-icon icon$="hoverboard:[[ctaIcon]]"></iron-icon>
         </paper-button>
         </a>
       </div>
