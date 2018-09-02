@@ -31,13 +31,13 @@ If your employer covers your ticket, we are asking for the company to bear the f
 
 Awww, please do! ❤️
 
-When buying a ticket (or several tickets at once), you will be asked to specify the recepient's name for each one. You can also fill in the names later—in case you want to pre-purchase a batch of tickets for your employees, for example.
+When buying a ticket (or several tickets at once), you will be asked to specify the recipient's name for each one. You can also fill in the names later—in case you want to pre-purchase a batch of tickets for your employees, for example.
 
 ### Are the tickets transferrable?
 
 There's no established procedure, but get in touch at [contact@dachfest.com](mailto:contact@dachfest.com), and we'll see what we can do.
 
-Keep in mind that the badges are pre-printed a bit in advance, so if you want to transfer your ticket on a very short notice, your ticket recepient might end up getting a badge with your name on it. That would be pretty funny though, so we don't actually mind.
+Keep in mind that the badges are pre-printed a bit in advance, so if you want to transfer your ticket on a very short notice, your ticket recipient might end up getting a badge with your name on it. That would be pretty funny though, so we don't actually mind.
 
 ### What does "sponsor a diversity ticket" mean?
 
