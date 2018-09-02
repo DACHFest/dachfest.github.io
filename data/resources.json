@@ -49,7 +49,7 @@
           "newTab": false
         },
         {
-          "name": "Code of Conduct",
+          "name": "Code of conduct",
           "url": "/conduct/",
           "newTab": false
         },
@@ -83,7 +83,7 @@
     "title": "The human side of tech",
     "callToAction": {
       "featuredSessions": {
-        "description": "DACHFest is a two-day conference focused on making a difference through technology.",
+        "description": "DACHFest is a two-day conference focused on making a difference. Discover all the different ways in which emerging technology is transforming lives, find out how to make your apps and websites friendly towards everyone, learn the secrets of building and nurturing a diverse community — let our speakers surprise and inspire you! And don't forget to make new friends: there will be plenty of opportunities to meet people passionate about your favorite things. ❤️",
         "label": "Read the FAQ",
         "link": "/faq"
       }
@@ -176,7 +176,7 @@
   "subscribeBlock": {
     "callToAction": {
       "description": "Get notified about the important conference updates",
-      "label": "Subscribe"
+      "label": "Follow @DACHFest"
     },
     "yourEmail": "Your email",
     "emailAddress": "Email Address",
@@ -223,19 +223,19 @@
     "image": "/images/team.jpg",
     "blocks": [
       {
-        "title": "Organizer",
-        "description": "GDGs from all over Germany Austria and Switzerland are teaming up to be the proud organizer of the very first DevFest for DACH.",
+        "title": "For the community, by the community",
+        "description": "DACHFest is a part of the global DevFest series of events, and it is organized by tech communities — Google Developer Groups and Women Techmakers chapters — from not just one, but three different countries: Germany, Austria, and Switzerland. Joining forces has enabled us to build a conference the way we have always wanted to: non-profit and volunteer-run, friendly towards everyone, committed to diversity and inclusion, and making a real impact.",
         "callToAction": {
-          "label": "Open team page",
+          "label": "Meet the team",
           "link": "/team"
         }
       },
       {
-        "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "title": "GDG? WTM? DevFest?",
+        "description": "Google Developer Groups (GDG) are open, volunteer-run geek communities. As the name suggests, most often they are exploring Google technologies—like Android, TensorFlow, or Go—but it's not always the case! Above all else, GDGs are groups of people passionate about technology and keen to share their excitement.<br /><br />Women Techmakers (WTM) are communities with a strong focus on improving diversity and inclusion. Events organized by WTM chapters are usually dedicated to solving the issues experienced by women and people from other underrepresented groups in tech, such as gaps in hiring and pay, bias, or misrepresentation.<br /><br />Every year, from August to November, most GDG and WTM chapters organize DevFests — large non-profit tech conferences focused on community building and learning about technology. No matter where you live, New York City or Siberia, there is probably a DevFest not too far away.<br/><br/>And of course, no matter where you live, we can't wait to welcome you at DACHFest!",
         "callToAction": {
-          "label": "Read more",
-          "link": "https://developers.google.com/groups/",
+          "label": "More about DevFests",
+          "link": "https://developers.google.com/events/devfest/",
           "newTab": true
         }
       }
