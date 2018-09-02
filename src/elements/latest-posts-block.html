@@ -20,6 +20,10 @@
         display: block;
       }
 
+      h2.header {
+        margin-bottom: 24px;
+      }
+
       .posts-wrapper {
         display: grid;
         grid-template-columns: 1fr;
@@ -37,7 +41,7 @@
 
       .title {
         font-size: 20px;
-        line-height: 1.2;
+        line-height: 1.4;
       }
 
       .description {
@@ -50,6 +54,12 @@
         font-size: 12px;
         text-transform: uppercase;
         color: var(--secondary-text-color);
+      }
+
+      .date iron-icon {
+        display: inline-block;
+        height: 18px;
+        vertical-align: bottom;
       }
 
       .cta-button {
@@ -79,10 +89,70 @@
     </style>
 
     <div class="container">
-      <h1 class="container-title">{$ latestPostsBlock.title $}</h1>
+      <h2 class="header">{$ latestPostsBlock.title $}</h2>
 
       <div class="posts-wrapper">
-        <template is="dom-repeat" items="[[posts]]" as="post">
+
+
+        <a href="https://medium.com/dachfest/the-dachfest-theme-making-a-difference-55da7efc8a1c"
+          class="post card"
+          ga-on="click"
+          ga-event-category="blog"
+          ga-event-action="open post"
+          target="_blank"
+          flex layout vertical>
+        <plastic-image
+          class="image"
+          srcset="/images/pretzels.jpg"
+          style$="background-color: [[post.backgroundColor]];"
+          sizing="cover"
+          lazy-load preload fade
+        ></plastic-image>
+        <div class="details" layout vertical justified flex-auto>
+          <div>
+            <text-truncate lines="2">
+              <h3 class="title">The DACHFest Theme: Making a Difference</h3>
+            </text-truncate>
+            <text-truncate lines="3">
+              <marked-element class="description" markdown="[[post.brief]]">
+                <div slot="markdown-html"></div>
+              </marked-element>
+            </text-truncate>
+          </div>
+          <div class="date">Read on Medium <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon></div>
+        </div>
+
+        <a href="https://papercall.io/dachfest18"
+          class="post card"
+          ga-on="click"
+          ga-event-category="blog"
+          ga-event-action="open post"
+          target="_blank"
+          flex layout vertical>
+        <plastic-image
+          class="image"
+          srcset="/images/social-share.jpg"
+          style$="background-color: [[post.backgroundColor]];"
+          sizing="cover"
+          lazy-load preload fade
+        ></plastic-image>
+        <div class="details" layout vertical justified flex-auto>
+          <div>
+            <text-truncate lines="2">
+              <h3 class="title">The Call for Papers Is Open<br />Until September 15</h3>
+            </text-truncate>
+            <text-truncate lines="3">
+              <marked-element class="description" markdown="[[post.brief]]">
+                <div slot="markdown-html"></div>
+              </marked-element>
+            </text-truncate>
+          </div>
+          <div class="date">Submit your talk <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon></div>
+        </div>
+
+
+      </a>
+        <!-- <template is="dom-repeat" items="[[posts]]" as="post">
           <a href$="/blog/posts/[[post.id]]/"
               class="post card"
               ga-on="click"
@@ -111,15 +181,17 @@
               <div class="date">[[getDate(post.published)]]</div>
             </div>
           </a>
-        </template>
+        </template> -->
       </div>
 
+      <!--
       <a href="{$ latestPostsBlock.callToAction.link $}">
         <paper-button class="cta-button animated icon-right">
           <span>{$ latestPostsBlock.callToAction.label $}</span>
           <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
         </paper-button>
       </a>
+      -->
     </div>
 
   </template>
