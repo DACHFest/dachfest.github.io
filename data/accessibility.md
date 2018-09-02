@@ -22,7 +22,7 @@ All buses and almost all trams in Munich have a low step entry and are suitable 
 
 There is an additional information field for dietary requirements to be filled out while buying a ticket.
 
-For attendees with vegan and gluten free diets, special meals are available at Pakhuis de Zwijger. Please ask the staff for these. We'll be providing a variety of foods and also a gluten/lactose free and a vegan soup.
+We'll be providing a variety of foods and also a gluten/lactose free and a vegan soup. Kosher food is available on request.
 
 ## Live Captioning
 
