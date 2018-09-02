@@ -52,6 +52,9 @@
 
       .action-buttons paper-button {
         margin: 8px;
+      }
+
+      .action-buttons .watch-video {
         color: #fff;
       }
 
@@ -123,7 +126,7 @@
         }
 
         .hero-logo {
-          max-width: unset;
+          max-width: 320px;
         }
 
         .info-items {
@@ -135,6 +138,7 @@
 
       #ticket-button {
         cursor: default;
+        color: white;
       }
     </style>
 
@@ -151,7 +155,7 @@
       <div class="home-content" layout vertical center>
         <plastic-image class="hero-logo" srcset="/images/logo.svg" alt="{$ title $}"></plastic-image>
         <div class="info-items highlight-font">
-          <div class="info-item">{$ location.city $}. {$ dates $}</div>
+          <div class="info-item">{$ location.city $}. {$ dates $}.</div>
           <div class="info-item">{$ heroSettings.home.description $}</div>
         </div>
 
@@ -165,6 +169,7 @@
           </a>
           <!--
           <paper-button
+            class="watch-video"
             on-tap="_playVideo"
             ga-on="click"
             ga-event-category="video"
@@ -208,9 +213,12 @@
     <subscribe-block></subscribe-block>
     <!--<tickets-block></tickets-block>-->
     <!--<gallery-block></gallery-block>-->
+    <div style="height: 32px"></div>
     <about-organizer-block></about-organizer-block>
-    <!--<featured-videos></featured-videos>-->
+    <div style="margin-top: -32px"></div>
     <latest-posts-block></latest-posts-block>
+    <!--<featured-videos></featured-videos>-->
+
     <map-block></map-block>
     <partners-block></partners-block>
     <footer-block></footer-block>

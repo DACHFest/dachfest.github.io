@@ -1,6 +1,8 @@
 <link rel="import" href="../../bower_components/polymer/polymer-element.html">
+
 <link rel="import" href="../../bower_components/plastic-image/plastic-image.html">
 <link rel="import" href="../../bower_components/paper-progress/paper-progress.html">
+<link rel="import" href="../../bower_components/marked-element/marked-element.html">
 
 <link rel="import" href="../mixins/utils-functions.html">
 <link rel="import" href="../mixins/redux-mixin.html">
@@ -49,6 +51,7 @@
         height: 100%;
         transform: translateZ(0);
         color: #fff;
+        box-sizing: border-box;
       }
 
       .title {
@@ -74,17 +77,11 @@
 
       @media (min-width: 640px) {
         .featured-posts-wrapper {
-          grid-template-columns: repeat(2, 1fr);
+          grid-template-columns: repeat(3, 1fr);
         }
 
         .featured-post {
           height: 256px;
-        }
-      }
-
-      @media (min-width: 812px) {
-        .featured-posts-wrapper {
-          grid-template-columns: repeat(3, 1fr);
         }
       }
 
@@ -149,7 +146,9 @@
                     <h2 class="title">[[post.title]]</h2>
                   </text-truncate>
                   <text-truncate lines="[[_addIfNotPhone(2, 1)]]">
-                    <p class="description">[[post.brief]]</p>
+                    <marked-element class="description" markdown="[[post.brief]]">
+                      <div slot="markdown-html"></div>
+                    </marked-element>
                   </text-truncate>
                 </div>
                 <span class="date">[[getDate(post.published)]]</span>
@@ -177,10 +176,17 @@
       static get properties() {
         return {
           active: Boolean,
-          postsSource: {
+          postsList: {
+            type: Array,
+            statePath: 'blog.list',
+          },
+          postsFetching: {
+            type: Boolean,
+            statePath: 'blog.fetching',
+          },
+          postsFetchingError: {
             type: Object,
-            statePath: 'blog',
-            observer: '_transformPosts',
+            statePath: 'blog.fetchingError',
           },
           viewport: {
             type: Object,
@@ -197,26 +203,23 @@
 
       connectedCallback() {
         super.connectedCallback();
-        if (!Object.keys(this.postsSource).length) blogActions.fetchList();
+        if (!this.postsFetching && (!this.postsList || !this.postsList.length)) {
+          this.dispatch(blogActions.fetchList());
+        }
       }
 
       static get observers() {
         return [
-          '_postsChanged(postsSource)',
+          '_postsChanged(postsList)',
         ];
       }
 
       _postsChanged() {
-        if (this.postsSource && Object.keys(this.postsSource).length) {
+        if (this.postsList && this.postsList.length) {
           this.contentLoaderVisibility = 'hidden';
+          this.set('featuredPosts', this.postsList.slice(0, 3));
+          this.set('posts', this.postsList.slice(3));
         }
-      }
-
-      _transformPosts(postsSource) {
-        const sortedPosts = this.transformToArray(postsSource, 'id')
-          .sort((a, b) => b.published.localeCompare(a.published));
-        this.set('featuredPosts', sortedPosts.slice(0, 3));
-        this.set('posts', sortedPosts.slice(3));
       }
 
       _addIfNotPhone(base, additional) {

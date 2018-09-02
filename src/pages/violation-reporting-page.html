@@ -1,0 +1,57 @@
+<link rel="import" href="../../bower_components/polymer/polymer-element.html">
+<link rel="import" href="../elements/polymer-helmet.html">
+<link rel="import" href="../elements/hero-block.html">
+<link rel="import" href="../elements/footer-block.html">
+<link rel="import" href="../elements/md-content.html">
+
+<dom-module id="violation-reporting-page">
+  <template>
+    <style>
+      :host {
+        display: block;
+      }
+    </style>
+
+    <polymer-helmet
+      title="{$ heroSettings.violationReporting.title $} | {$ title $}"
+      description="{$ heroSettings.violationReporting.metaDescription $}"
+      active="[[active]]"
+    ></polymer-helmet>
+
+    <hero-block
+      background-image="{$ heroSettings.violationReporting.background.image $}"
+      background-color="{$ heroSettings.violationReporting.background.color $}"
+      font-color="{$ heroSettings.violationReporting.fontColor $}"
+      active="[[active]]"
+    >
+      <div class="hero-title highlight-font">{$ heroSettings.violationReporting.title $}</div>
+      <p class="hero-description">{$ heroSettings.violationReporting.description $}</p>
+    </hero-block>
+
+    <md-content md-source="[[source]]"></md-content>
+
+    <footer-block></footer-block>
+  </template>
+
+  <script>
+
+    // eslint-disable-next-line no-undef
+    class ViolationReportingPage extends Polymer.Element {
+      static get is() {
+        return 'violation-reporting-page';
+      }
+
+      static get properties() {
+        return {
+          active: Boolean,
+          source: {
+            type: String,
+            value: '{$ violationReporting $}',
+          },
+        };
+      }
+    }
+
+    window.customElements.define(ViolationReportingPage.is, ViolationReportingPage);
+  </script>
+</dom-module>

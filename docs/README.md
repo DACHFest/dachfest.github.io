@@ -8,4 +8,5 @@
 * [Styling](tutorials/styling.md)
 * [Deploy](tutorials/deploy.md)
 * [Docker](tutorials/docker.md)
-* [Seo](tutorials/seo.md)
+* [SEO](tutorials/seo.md)
+* [Mailchimp autosubscription](tutorials/mailchimp-autosubscribe.md)

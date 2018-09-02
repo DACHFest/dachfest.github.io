@@ -1,9 +1,9 @@
-<link rel="import" href="../../../bower_components/polymer/polymer-element.html">
-<link rel="import" href="../../../bower_components/marked-element/marked-element.html">
+<link rel="import" href="../../bower_components/polymer/polymer-element.html">
+<link rel="import" href="../../bower_components/marked-element/marked-element.html">
 <link rel="import" href="../elements/shared-styles.html">
 <link rel="import" href="../mixins/scroll-functions.html">
 
-<dom-module id="violation-reporting">
+<dom-module id="md-content">
   <template>
     <style is="custom-style" include="shared-styles flex flex-alignment"></style>
 
@@ -42,13 +42,15 @@
       }
 
       [slot="markdown-html"] h3::after {
+        margin-left: 8px;
         content: '';
-        background-image: url('../../images/link-icon.svg');
-        width: 22px;
-        height: 18px;
         display: inline-block;
-        margin-left: 10px;
+        width: 1.1em;
+        height: 1em;
+        background: url('../../images/link-icon.svg') no-repeat;
+        background-size: contain;
         cursor: pointer;
+        vertical-align: middle;
       }
 
       @media (min-width: 640px) {
@@ -103,37 +105,25 @@
       }
     </style>
 
-    <polymer-helmet
-      title="Attendee Incident Handling Procedures | GDG DevFest Season 2018"
-      description="Incident handling procedures for attendees"
-      active="[[active]]"
-    ></polymer-helmet>
-
     <div class="container">
       <marked-element class="markdown-text">
         <div slot="markdown-html"></div>
-        <script type="text/markdown" src$="[[source]]"></script>
+        <script type="text/markdown" src$="[[mdSource]]"></script>
       </marked-element>
     </div>
-    <footer-block></footer-block>
   </template>
 
   <script>
 
     // eslint-disable-next-line no-undef
-    class ViolationReportingPage extends ScrollFunctions(Polymer.Element) {
+    class MdContent extends ScrollFunctions(Polymer.Element) {
       static get is() {
-        return 'violation-reporting';
+        return 'md-content';
       }
 
       static get properties() {
         return {
-          active: Boolean,
-          source: {
-            type: String,
-            value: '/data/violation-reporting.md',
-          },
-          self: Object,
+          mdSource: String,
           toolbarOffset: {
             type: Number,
             value: 70,
@@ -143,13 +133,12 @@
 
       constructor() {
         super();
-        // this._scrollToFaqChapter = this._scrollToFaqChapter.bind(this);
+        this._scrollToChapter = this._scrollToChapter.bind(this);
         this._changeUrl = this._changeUrl.bind(this);
       }
 
       ready() {
         super.ready();
-        this.self = this;
         this.addEventListener('marked-render-complete', this._renderContent);
       }
 
@@ -158,11 +147,9 @@
 
         if (window.location.hash) {
           setTimeout(() => {
-            const path = window.location.hash.slice(1).split('#');
-            const element = path.reduce((host, id) => {
-              const target = host.shadowRoot ? host.shadowRoot.querySelector(`#${id}`) : host;
-              return target ? target : host;
-            });
+            const id = window.location.hash.slice(1).split('#')[0];
+            const element = this.shadowRoot.querySelector(`[id="${id}"]`);
+            if (!element) return;
             const offset = this.offsetTop(element);
             this.scrollToY(offset - this.toolbarOffset, 100);
           }, 500);
@@ -175,7 +162,7 @@
         let lastHeadElement;
 
         for (let i = 0; i < heads.length; i++) {
-          if (heads[i].previousElementSibling.nodeName === 'H2') {
+          if (heads[i].previousElementSibling && heads[i].previousElementSibling.nodeName === 'H2') {
             const head2Element = heads[i].previousElementSibling;
             const colHeader = document.createElement('div');
             colHeader.className = `col ${head2Element.id}`;
@@ -184,11 +171,18 @@
             lastHeadElement = colHeader;
           }
 
+          if (!lastHeadElement) {
+            const col = document.createElement('div');
+            col.className = 'col';
+            contentDom.appendChild(col);
+            lastHeadElement = col;
+          }
+
           const colContent = document.createElement('a');
           colContent.className = 'col-content';
           colContent.href = `#${heads[i].id}`;
           colContent.textContent = heads[i].textContent;
-          // colContent.addEventListener('click', this._scrollToFaqChapter);
+          colContent.addEventListener('click', this._scrollToChapter);
           lastHeadElement.appendChild(colContent);
 
           heads[i].addEventListener('click', this._changeUrl);
@@ -198,10 +192,10 @@
         contentWrapper.classList.add('visible');
       }
 
-      _scrollToFaqChapter(e) {
+      _scrollToChapter(e) {
         e.preventDefault();
         const elementIdToScroll = e.target.getAttribute('href');
-        const element = this.shadowRoot.querySelector(elementIdToScroll);
+        const element = this.shadowRoot.querySelector(`[id="${elementIdToScroll.slice(1)}"]`);
         const offset = this.offsetTop(element);
         this.scrollToY(offset - this.toolbarOffset, 1500, 'easeInOutSine');
         window.location.hash = elementIdToScroll;
@@ -248,6 +242,6 @@
       }
     }
 
-    window.customElements.define(ViolationReportingPage.is, ViolationReportingPage);
+    window.customElements.define(MdContent.is, MdContent);
   </script>
 </dom-module>

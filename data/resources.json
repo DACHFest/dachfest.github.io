@@ -1,22 +1,22 @@
 {
   "title": "GDG DACHFest 2018",
-  "description": "Be a hero. Be a GDG!",
+  "description": "Making a difference.",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "November 10-11, 2018",
-  "partnershipProposition": "https://bit.ly/dfua17-partners",
+  "partnershipProposition": "https://drive.google.com/file/d/1Z-dMtg1zI5YnHDwpYmy5VhBRS78W9K8a/view?usp=sharing",
   "share": "Share",
   "followOur": "Follow our",
   "followUs": "Follow us",
   "emailUs": "Email us",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
+  "buyTicket": "Buy a ticket",
   "signIn": "Sign in",
   "signOut": "Sign out",
   "viewHighlights": "View Highlights",
   "submitProposal": "Submit a talk proposal",
-  "cfpLink": "https://www.papercall.io/dachfest18",
+  "cfpLink": "https://papercall.io/dachfest18",
   "ticketSalesSoon": "Ticket sales are starting soon!",
   "offlineMessage": "You can still work offline.",
   "cachingComplete": "Caching complete! Future visits will work offline.",
@@ -25,32 +25,53 @@
   "position": "Position",
   "country": "Country",
   "time": "Time",
+  "faq": "/data/faq.md",
+  "cod": "/data/conduct.md",
+  "incidentHandling": "/data/incident-handling.md",
+  "violationReporting": "/data/violation-reporting.md",
+  "imprint": "/data/imprint.md",
+  "accessibility": "/data/accessibility.md",
+  "privacy": "/data/privacy.md",
   "footer": {
     "blog": "Blog"
   },
+  "mySchedule": {
+    "title": "My Schedule",
+    "browseSession": "Browse sessions"
+  },
   "footerRelBlock": [
     {
-      "title": "About",
+      "title": "Additional information",
       "links": [
         {
-          "name": "Google Developers Group",
-          "url": "https://developers.google.com/",
-          "newTab": true
+          "name": "FAQ",
+          "url": "/faq/",
+          "newTab": false
+        },
+        {
+          "name": "Code of conduct",
+          "url": "/conduct/",
+          "newTab": false
+        },
+        {
+          "name": "Accessibility",
+          "url": "/accessibility/",
+          "newTab": false
         }
       ]
     },
 
     {
-      "title": "Event Resources",
+      "title": "Legalese",
       "links": [
         {
-          "name": "FAQs",
-          "url": "/faq/",
+          "name": "Imprint",
+          "url": "/imprint/",
           "newTab": false
         },
         {
-          "name": "Code of Conduct",
-          "url": "/coc/",
+          "name": "Privacy policy",
+          "url": "/privacy/",
           "newTab": false
         }
       ]
@@ -59,11 +80,11 @@
   "subscribeNote": "No spam, only the latest news and updates!",
   "codeOfConduct": "Code of Conduct",
   "aboutBlock": {
-    "title": "What you need to know, before you ask.",
+    "title": "The human side of tech",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DACHFest brings together the world class experts in Android, Web and Cloud technologies to Munich for 2 days of sessions, workshops and showcases.",
-        "label": "FAQ",
+        "description": "DACHFest is a two-day conference focused on making a difference. Discover all the different ways in which emerging technology is transforming lives, find out how to make your apps and websites friendly towards everyone, learn the secrets of building and nurturing a diverse community — let our speakers surprise and inspire you! And don't forget to make new friends: there will be plenty of opportunities to meet people passionate about your favorite things. ❤️",
+        "label": "Read the FAQ",
         "link": "/faq"
       }
     },
@@ -76,13 +97,13 @@
         "label": "Days",
         "number": "2"
       },
-      "speaker": {
-        "label": "Speaker",
-        "number": "50"
+      "sessions": {
+        "label": "Sessions",
+        "number": "35"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "2"
+        "number": "3"
       }
     }
   },
@@ -105,7 +126,7 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "Featured videos",
     "callToAction": {
       "label": "See all videos",
       "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
@@ -122,7 +143,6 @@
       "link": "/blog/"
     }
   },
-  "faq": "/data/faq.md",
   "speakers": {
     "skills": "Skills",
     "previousYears": "Years",
@@ -143,7 +163,7 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
+    "title": "Highlights",
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
@@ -156,7 +176,7 @@
   "subscribeBlock": {
     "callToAction": {
       "description": "Get notified about the important conference updates",
-      "label": "Subscribe"
+      "label": "Follow @DACHFest"
     },
     "yourEmail": "Your email",
     "emailAddress": "Email Address",
@@ -171,7 +191,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br>Google Developer Groups (GDG) in Germany, Austria and Switzerland come together to create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with audience in the region to boost development of IT."
+    "description": "Community organizers from the Google Developer Groups and Women Techmakers chapters of Germany, Austria and Switzerland are building DACHFest together!<br><br>Our goal is to make sure your weekend in Munich will be insightful, unforgettable, and amazing — and just like the entire conference revolves around making a difference, we are hoping to make a difference for you. ❤️"
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -203,19 +223,32 @@
     "image": "/images/team.jpg",
     "blocks": [
       {
-        "title": "Organizer",
-        "description": "GDGs from all over Germany Austria and Switzerland are teaming up to be the proud organizer of the very first DevFest for DACH.",
+        "title": "For the community, by the community",
+        "description": "DACHFest is a part of the global DevFest series of events, and it is organized by tech communities — Google Developer Groups and Women Techmakers chapters — from not just one, but three different countries: Germany, Austria, and Switzerland. Joining forces has enabled us to build a conference the way we have always wanted to: non-profit and volunteer-run, friendly towards everyone, committed to diversity and inclusion, and making a real impact.",
         "callToAction": {
-          "label": "Open team page",
+          "label": "Meet the team",
+          "link": "/team"
+        }
+      }
+    ]
+  },
+  "_aboutOrganizerBlock": {
+    "image": "/images/team.jpg",
+    "blocks": [
+      {
+        "title": "For the community, by the community",
+        "description": "DACHFest is a part of the global DevFest series of events, and it is organized by tech communities — Google Developer Groups and Women Techmakers chapters — from not just one, but three different countries: Germany, Austria, and Switzerland. Joining forces has enabled us to build a conference the way we have always wanted to: non-profit and volunteer-run, friendly towards everyone, committed to diversity and inclusion, and making a real impact.",
+        "callToAction": {
+          "label": "Meet the team",
           "link": "/team"
         }
       },
       {
-        "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "title": "GDG? WTM? DevFest?",
+        "description": "Google Developer Groups (GDG) are open, volunteer-run geek communities. As the name suggests, most often they are exploring Google technologies—like Android, TensorFlow, or Go—but it's not always the case! Above all else, GDGs are groups of people passionate about technology and keen to share their excitement.<br /><br />Women Techmakers (WTM) are communities with a strong focus on improving diversity and inclusion. Events organized by WTM chapters are usually dedicated to solving the issues experienced by women and people from other underrepresented groups in tech, such as gaps in hiring and pay, bias, or misrepresentation.<br /><br />Every year, from August to November, most GDG and WTM chapters organize DevFests — large non-profit tech conferences focused on community building and learning about technology. No matter where you live, New York City or Siberia, there is probably a DevFest not too far away.<br/><br/>And of course, no matter where you live, we can't wait to welcome you at DACHFest!",
         "callToAction": {
-          "label": "Read more",
-          "link": "https://developers.google.com/groups/",
+          "label": "More about DevFests",
+          "link": "https://developers.google.com/events/devfest/",
           "newTab": true
         }
       }
