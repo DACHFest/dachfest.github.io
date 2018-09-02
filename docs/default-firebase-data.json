@@ -83,24 +83,7 @@
               "name": "Github"
             }
           ],
-          "title": "Program, Happiness, Visuals"
-        },
-        {
-          "name": "Timea Turdean",
-          "photoUrl": "/images/people/timea_turdean.jpg",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/timeaturdean",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/timeaturdean/",
-              "name": "LinkedIn"
-            }
-          ],
-          "title": "Sponsoring, Finance"
+          "title": "WTM Berlin"
         },
         {
           "name": "Benjamin Stürmer",
@@ -132,7 +115,39 @@
               "name": "LinkedIn"
             }
           ],
-          "title": "Website, Venue, Photos"
+          "title": "GDG Munich Android"
+        },
+        {
+          "name": "Helmuth Breitenfellner",
+          "title": "GDG Vienna"
+        },
+        {
+          "name": "Angelo Rüggeberg",
+          "title": "GDG Munich"
+        },
+        {
+          "name": "Hasan Hosgel",
+          "title": "GDG Berlin Android"
+        },
+        {
+          "name": "Ramon Huidobro",
+          "title": "WTM Vienna"
+        },
+        {
+          "name": "Pilar Huidobro",
+          "title": "WTM Vienna"
+        },
+        {
+          "name": "Antonio Roa-Valverde",
+          "title": "GDG Innsbruck"
+        },
+        {
+          "name": "Tarik Huber",
+          "title": "GDG Berchtesgadener Land"
+        },
+        {
+          "name": "Marc Edem",
+          "title": "GDG Vienna"
         },
         {
           "name": "Madlaina Kalunder",
@@ -154,7 +169,47 @@
               "name": "LinkedIn"
             }
           ],
-          "title": "Program, Visuals"
+          "title": "WTM Switzerland"
+        },
+        {
+          "name": "Mario Fahlandt",
+          "title": "GDG Cloud Munich"
+        },
+        {
+          "name": "Jossi Wolf",
+          "title": "GDG Hamburg Android"
+        },
+        {
+          "name": "Timea Turdean",
+          "photoUrl": "/images/people/timea_turdean.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/timeaturdean",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/timeaturdean/",
+              "name": "LinkedIn"
+            }
+          ],
+          "title": "WTM Vienna"
+        },
+        {
+          "name": "Wolfram Rittmeyer",
+          "title": "GDG Düsseldorf"
+        },
+        {
+          "name": "Ann-Katrin Borgenstam",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/AKNextChapter",
+              "name": "Twitter"
+            }
+          ],
+          "title": "GDG/WTM Düsseldorf"
         },
         {
           "name": "Raphael Miranda",
@@ -176,73 +231,10 @@
               "name": "Github"
             }
           ],
-          "title": "Finance"
-        },
-        {
-          "name": "Jossi Wolf",
-          "title": "Sponsoring, Finance"
-        },
-        {
-          "name": "Ann-Katrin Borgenstam",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/AKNextChapter",
-              "name": "Twitter"
-            }
-          ],
-          "title": "Program, Happiness"
-        },
-        {
-          "name": "Mario Fahlandt",
-          "title": "Volunteers, Visuals"
-        },
-        {
-          "name": "Marc",
-          "title": "Program"
-        },
-        {
-          "name": "Wolfram",
-          "title": "Program"
-        },
-        {
-          "name": "Helmuth Breitenfellner",
-          "title": "Finance, Media"
-        },
-        {
-          "name": "Katharina",
-          "title": "Happiness, Venue, Visuals"
-        },
-        {
-          "name": "Angelo",
-          "title": "Happiness, Volunteers"
-        },
-        {
-          "name": "Hasan",
-          "title": "Happiness, Program, Finance"
-        },
-        {
-          "name": "Ramon",
-          "title": "Visuals"
-        },
-        {
-          "name": "Pilar",
-          "title": "Visuals"
-        },
-        {
-          "name": "Natalie",
-          "title": "Visuals"
-        },
-        {
-          "name": "Antonio",
-          "title": "Volunteers"
-        },
-        {
-          "name": "Tarik",
-          "title": "Volunteers"
+          "title": "GDG Bremen"
         }
       ],
-      "title": "Core Team"
+      "title": ""
     }
   ],
   "tickets": [ ],
