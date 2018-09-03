@@ -237,7 +237,37 @@
       "title": ""
     }
   ],
-  "tickets": [ ],
+  "tickets": [
+    {
+      "available" : true,
+      "primary" : true,
+      "regular" : true,
+      "currency" : "€",
+      "info" : "A ticket: you buy it and attend the conference. It's really that simple!",
+      "name" : "Standard",
+      "price" : 120,
+      "soldOut" : false,
+      "url" : "https://ti.to/dachfest/2018"
+    },
+    {
+      "available" : true,
+      "currency" : "€",
+      "info" : "If your employer doesn't cover the ticket cost, here's a discount for you.",
+      "name" : "Self-funded",
+      "price" : 70,
+      "soldOut" : false,
+      "url" : "https://ti.to/dachfest/2018"
+    },
+    {
+      "available" : true,
+      "currency" : "€",
+      "info" : "Being a student is hard, so let us make it a bit easier. ❤️",
+      "name" : "Student",
+      "price" : 50,
+      "soldOut" : false,
+      "url" : "https://ti.to/dachfest/2018"
+    }
+   ],
   "triggers": {
     "images": false
   },
