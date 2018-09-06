@@ -89,8 +89,7 @@
 
       .additional-info {
         margin: 16px auto 0;
-        max-width: 480px;
-        font-size: 14px;
+        font-size: 18px;
         color: var(--secondary-text-color);
       }
 
@@ -182,7 +181,7 @@
         </template>
       </div>
 
-      <div class="additional-info">*{$ ticketsBlock.ticketsDetails $}</div>
+      <div class="additional-info">If you belong to an underrepresented group in tech or cannot afford a ticket, please <a href='https://docs.google.com/forms/d/e/1FAIpQLSfUErEWRxKJ4I9GJ3O3-QXeI8_SavoVxTS7jTj1Emv5OMdZgg/viewform'>apply for a diversity scholarship</a>!</div>
 
     </div>
 
@@ -220,6 +219,9 @@
 
       connectedCallback() {
         super.connectedCallback();
+        if (!this.ticketsFetching && (!this.tickets || !this.tickets.length)) {
+          this.dispatch(ticketsActions.fetchTickets());
+        }
         // eslint-disable-next-line no-undef
         HOVERBOARD.Elements.Tickets = this;
       }

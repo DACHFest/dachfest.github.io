@@ -180,12 +180,15 @@
             {$ viewHighlights $}
           </paper-button>
           -->
+          <!--
           <paper-button id="ticket-button">
             <iron-icon icon="hoverboard:ticket"></iron-icon>
             {$ ticketSalesSoon $}
           </paper-button>
-          <!--
+          -->
+
           <paper-button
+            class="vip"
             on-tap="_scrollToTickets"
             ga-on="click"
             ga-event-category="tickets"
@@ -196,7 +199,7 @@
             <iron-icon icon="hoverboard:ticket"></iron-icon>
             {$ buyTicket $}
           </paper-button>
-          -->
+
         </div>
 
         <div class="scroll-down" on-tap="_scrollNextBlock">
@@ -210,8 +213,8 @@
     </hero-block>
     <about-block></about-block>
     <!--<speakers-block></speakers-block>-->
+    <tickets-block></tickets-block>
     <subscribe-block></subscribe-block>
-    <!--<tickets-block></tickets-block>-->
     <!--<gallery-block></gallery-block>-->
     <div style="height: 32px"></div>
     <about-organizer-block></about-organizer-block>
