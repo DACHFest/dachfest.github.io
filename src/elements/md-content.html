@@ -90,11 +90,6 @@
       }
     </style>
 
-    <div class="content-wrapper">
-      <div class="container">
-        <div class="content" layout justified horizontal wrap></div>
-      </div>
-    </div>
     <div class="container">
       <marked-element class="markdown-text">
         <div slot="markdown-html"></div>
@@ -149,13 +144,17 @@
             const colHeader = document.createElement('div');
             colHeader.className = `col ${head2Element.id}`;
             colHeader.textContent = head2Element.textContent;
-            contentDom.appendChild(colHeader);
+            if (contentDom) {
+              contentDom.appendChild(colHeader);
+            }
             lastHeadElement = colHeader;
           }
           if (!lastHeadElement) {
             const col = document.createElement('div');
             col.className = 'col';
-            contentDom.appendChild(col);
+            if (contentDom) {
+              contentDom.appendChild(col);
+            }
             lastHeadElement = col;
           }
           const colContent = document.createElement('a');
@@ -167,7 +166,9 @@
           heads[i].addEventListener('click', this._changeUrl);
         }
         const contentWrapper = this.shadowRoot.querySelector('.content-wrapper');
-        contentWrapper.classList.add('visible');
+        if (contentWrapper) {
+          contentWrapper.classList.add('visible');
+        }
       }
       _scrollToChapter(e) {
         e.preventDefault();
