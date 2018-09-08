@@ -46,17 +46,16 @@
         "source": "service-worker.js",
         "headers": [
           {
-            "key" : "Cache-Control",
-            "value" : "max-age=0"
-          }
-        ]
-      },
-      {
-        "source": "build/service-worker.js",
-        "headers": [
+            "key": "Cache-Control",
+            "value": "no-cache, no-store, must-revalidate"
+          },
           {
-            "key" : "Cache-Control",
-            "value" : "max-age=0"
+            "key": "Pragma",
+            "value": "no-cache"
+          },
+          {
+            "key": "Expires",
+            "value": "0"
           }
         ]
       }
