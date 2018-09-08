@@ -26,4 +26,4 @@ We'll be providing a variety of foods and also a gluten/lactose free and a vegan
 
 ## Live Captioning
 
-All talks presented during the conference will feature simultaneous speech-to-text transcription, which will also be used for subtitling the conference videos that are subsequently published.
+All talks presented during the conference will feature simultaneous speech-to-text transcription, which will also be used for subtitling the conference videos that will be published after the event. Captioning will be available on secondary screens in both track rooms, as well as online (a URL will be announced before every talk).
