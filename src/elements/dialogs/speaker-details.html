@@ -77,7 +77,7 @@
 
       <div class="dialog-container content">
         <h3 class="meta-info">[[speaker.country]]</h3>
-        <h3 class="meta-info">[[speaker.title]]<span hidden$="[[_hasJobTitle(speaker)]]">,</span> [[speaker.company]]</h3>
+        <h3 class="meta-info">[[speaker.title]]<span hidden$="[[_hasNoJobTitle(speaker)]]">,</span> [[speaker.company]]</h3>
         <h3 class="meta-info" hidden$="[[isEmpty(speaker.badges)]]">
           <template is="dom-repeat" items="[[speaker.badges]]" as="badge">
             <a
@@ -180,7 +180,7 @@
         return isLaptopViewport ? 'close' : 'arrow-left';
       }
 
-      _hasJobTitle(speaker) {
+      _hasNoJobTitle(speaker) {
         return !speaker.title || !speaker.company;
       }
     }
