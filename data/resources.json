@@ -112,7 +112,8 @@
     "ticketsDetails": "",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
-    "save": "Save ${discount}% today"
+    "save": "Save €${discount}!",
+    "maxPrice": "€${maxPrice}"
   },
   "partnersBlock": {
     "title": "Partners",
@@ -149,7 +150,7 @@
     "previousYear": "Year"
   },
   "speakersBlock": {
-    "title": "Rockstar speakers",
+    "title": "Amazing speakers",
     "callToAction": {
       "label": "View all speakers",
       "link": "/speakers/"
@@ -182,7 +183,7 @@
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "formTitle": "Get the latest updates, insights and news about DACHFest sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
