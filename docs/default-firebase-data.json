@@ -65,52 +65,22 @@
   "schedule": { },
   "sessions": { },
   "speakers": {
-    "lariki" :{
-      "name": "Lara Martín",
-      "country": "Berlin, Germany",
-      "featured": true,
-      "company": "Babbel",
-      "title": "Android Engineer",
-      "photoUrl": "/images/people/speakers/lariki.jpg",
-      "shortBio": "Lara is a self-made Android developer based in Berlin.",
-      "bio": "Lara is a self-made Android developer based in Berlin. Her passion for Android made her transition from her background in science to software development. She’s currently part of the mobile team at Babbel and her dream is to make apps more accessible for everyone. When she’s not attending a tech meetup, you will find her playing videogames.",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/lariki",
-        "name" : "Twitter"
-      } ]
-    },
-    "miqubel" :{
-      "name": "Miquel Beltran",
-      "country": "Berlin, Germany",
-      "featured": true,
-      "company": "beltran.work",
-      "title": "Freelance Android Developer",
-      "photoUrl": "/images/people/speakers/miqubel.jpg",
-      "shortBio": "Miquel is a Freelance Android developer based in Berlin.",
-      "bio": "Miquel is a Freelance Android developer based in Berlin. He is passionate about mobile app development and machine learning, but most importantly, he’s passionate about teaching and learning. Miquel is also an active member of the tech community in Berlin, where he has conducted workshops and talks. He helps running a local meetup group where they teach development to beginners and underrepresented communities in tech.",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/miqubel",
-        "name" : "Twitter"
-      } ]
-    },
-    "carolstran" : {
-      "name" : "Carolyn Stransky",
-      "country" : "Berlin, Germany",
+    "mxsash" : {
+      "name" : "Sasha Romijn",
+      "country" : "Amsterdam, the Netherlands",
       "featured" : true,
 
-      "company" : "Blacklane",
-      "title" : "Software Engineer",
+      "company" : "Django Software Foundation",
+      "title" : "Security Team",
 
-      "photoUrl" : "/images/people/speakers/carolstran.jpg",
+      "photoUrl" : "/images/people/speakers/mxsash.jpg",
 
-      "shortBio" : "Carolyn is a Berlin-based frontend developer and former technical writer.",
-      "bio" : "Carolyn Stransky is a frontend developer and former technical writer based in Berlin. She currently works at Blacklane and teaches at ReDI School of Digital Integration. You’ll usually find her looking at memes or taking selfies in the nearest restroom.",
+      "shortBio" : "Django team member, chair of the Dutch Django Association and co-organiser of various conferences.",
+      "bio" : "Sasha is the co-founder and CTO of a Django development company in Amsterdam. She is deeply involved in the community around Django, a popular Python web framework, being a Django team member, chair of the Dutch Django Association and co-organiser of various conferences. She cares about building communities and conferences in which everyone feels welcome, valued and at home, regardless of their background. Sasha has a specific interest in well-being and ethical issues around communities and development. Some of her side projects are the Less Obvious Conference Checklist, with many less obvious suggestions for event organisers, and Happiness Packets, to spread more gratitude and kindness in open source communities.",
 
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "https://twitter.com/carolstran",
+        "link" : "https://twitter.com/mxsash",
         "name" : "Twitter"
       } ]
     },
@@ -190,6 +160,55 @@
         "name" : "Twitter"
       } ]
     },
+    "lariki": {
+      "name": "Lara Martín",
+      "country": "Berlin, Germany",
+      "featured": true,
+      "company": "Babbel",
+      "title": "Android Engineer",
+      "photoUrl": "/images/people/speakers/lariki.jpg",
+      "shortBio": "Lara is a self-made Android developer based in Berlin.",
+      "bio": "Lara is a self-made Android developer based in Berlin. Her passion for Android made her transition from her background in science to software development. She’s currently part of the mobile team at Babbel and her dream is to make apps more accessible for everyone. When she’s not attending a tech meetup, you will find her playing videogames.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/lariki",
+        "name" : "Twitter"
+      } ]
+    },
+    "miqubel": {
+      "name": "Miquel Beltran",
+      "country": "Berlin, Germany",
+      "featured": true,
+      "company": "beltran.work",
+      "title": "Freelance Android Developer",
+      "photoUrl": "/images/people/speakers/miqubel.jpg",
+      "shortBio": "Miquel is a Freelance Android developer based in Berlin.",
+      "bio": "Miquel is a Freelance Android developer based in Berlin. He is passionate about mobile app development and machine learning, but most importantly, he’s passionate about teaching and learning. Miquel is also an active member of the tech community in Berlin, where he has conducted workshops and talks. He helps running a local meetup group where they teach development to beginners and underrepresented communities in tech.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/miqubel",
+        "name" : "Twitter"
+      } ]
+    },
+    "carolstran" : {
+      "name" : "Carolyn Stransky",
+      "country" : "Berlin, Germany",
+      "featured" : true,
+
+      "company" : "Blacklane",
+      "title" : "Software Engineer",
+
+      "photoUrl" : "/images/people/speakers/carolstran.jpg",
+
+      "shortBio" : "Carolyn is a Berlin-based frontend developer and former technical writer.",
+      "bio" : "Carolyn Stransky is a frontend developer and former technical writer based in Berlin. She currently works at Blacklane and teaches at ReDI School of Digital Integration. You’ll usually find her looking at memes or taking selfies in the nearest restroom.",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/carolstran",
+        "name" : "Twitter"
+      } ]
+    },
     "1nfoverload" : {
       "name" : "Daisy Tsang",
       "country" : "Berlin, Germany",
@@ -206,25 +225,6 @@
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/1nfoverload",
-        "name" : "Twitter"
-      } ]
-    },
-    "mxsash" : {
-      "name" : "Sasha Romijn",
-      "country" : "Amsterdam, the Netherlands",
-      "featured" : true,
-
-      "company" : "Django Software Foundation",
-      "title" : "Security Team",
-
-      "photoUrl" : "/images/people/speakers/mxsash.jpg",
-
-      "shortBio" : "Django team member, chair of the Dutch Django Association and co-organiser of various conferences.",
-      "bio" : "Sasha is the co-founder and CTO of a Django development company in Amsterdam. She is deeply involved in the community around Django, a popular Python web framework, being a Django team member, chair of the Dutch Django Association and co-organiser of various conferences. She cares about building communities and conferences in which everyone feels welcome, valued and at home, regardless of their background. Sasha has a specific interest in well-being and ethical issues around communities and development. Some of her side projects are the Less Obvious Conference Checklist, with many less obvious suggestions for event organisers, and Happiness Packets, to spread more gratitude and kindness in open source communities.",
-
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/mxsash",
         "name" : "Twitter"
       } ]
     }
