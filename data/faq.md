@@ -104,7 +104,8 @@ We have a detailed [accessibility statement](/accessibility) where you can get a
 
 ### Will you have captioning?
 
-We are working on providing open captioning for both talk tracks.
+Yes. All talks presented during the conference will feature open captioning, and the recordings will be subtitled. Captioning will be available on secondary screens in both track rooms, as well as online (a URL will be announced before every talk).
+
 
 ### Will you have gender-neutral bathrooms?
 

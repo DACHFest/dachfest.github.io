@@ -94,6 +94,64 @@
       <div class="posts-wrapper">
 
 
+        <a href="https://medium.com/dachfest/dachfest-program-announcement-1-222d4679667c"
+          class="post card"
+          ga-on="click"
+          ga-event-category="blog"
+          ga-event-action="open post"
+          target="_blank"
+          flex layout vertical>
+          <plastic-image
+            class="image"
+            srcset="/images/sourdough.jpg"
+            style$="background-color: [[post.backgroundColor]];"
+            sizing="cover"
+            lazy-load preload fade
+          ></plastic-image>
+          <div class="details" layout vertical justified flex-auto>
+            <div>
+              <text-truncate lines="2">
+                <h3 class="title">First Five Talks (And a Bonus Lightning Talk) Announced</h3>
+              </text-truncate>
+              <text-truncate lines="3">
+                <marked-element class="description" markdown="[[post.brief]]">
+                  <div slot="markdown-html"></div>
+                </marked-element>
+              </text-truncate>
+            </div>
+            <div class="date">Read on Medium <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon></div>
+          </div>
+        </a>
+
+        <a href="https://medium.com/dachfest/sketchnoting-lettering-workshop-bf7875d43071"
+          class="post card"
+          ga-on="click"
+          ga-event-category="blog"
+          ga-event-action="open post"
+          target="_blank"
+          flex layout vertical>
+          <plastic-image
+            class="image"
+            srcset="/images/sketchnoting.jpg"
+            style$="background-color: [[post.backgroundColor]];"
+            sizing="cover"
+            lazy-load preload fade
+          ></plastic-image>
+          <div class="details" layout vertical justified flex-auto>
+            <div>
+              <text-truncate lines="2">
+                <h3 class="title">Sketchnoting &amp; Lettering Workshop</h3>
+              </text-truncate>
+              <text-truncate lines="3">
+                <marked-element class="description" markdown="[[post.brief]]">
+                  <div slot="markdown-html"></div>
+                </marked-element>
+              </text-truncate>
+            </div>
+            <div class="date">Read on Medium <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon></div>
+          </div>
+        </a>
+
         <a href="https://medium.com/dachfest/the-secret-society-of-happiness-7f6e962bd99a"
           class="post card"
           ga-on="click"
@@ -150,35 +208,6 @@
               </text-truncate>
             </div>
             <div class="date">Read on Medium <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon></div>
-          </div>
-        </a>
-
-        <a href="https://papercall.io/dachfest18"
-          class="post card"
-          ga-on="click"
-          ga-event-category="blog"
-          ga-event-action="open post"
-          target="_blank"
-          flex layout vertical>
-          <plastic-image
-            class="image"
-            srcset="/images/cover.jpg"
-            style$="background-color: [[post.backgroundColor]];"
-            sizing="cover"
-            lazy-load preload fade
-          ></plastic-image>
-          <div class="details" layout vertical justified flex-auto>
-            <div>
-              <text-truncate lines="2">
-                <h3 class="title">The Call for Papers Is Open<br />Until September 15</h3>
-              </text-truncate>
-              <text-truncate lines="3">
-                <marked-element class="description" markdown="[[post.brief]]">
-                  <div slot="markdown-html"></div>
-                </marked-element>
-              </text-truncate>
-            </div>
-            <div class="date">Submit your talk <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon></div>
           </div>
         </a>
         <!-- <template is="dom-repeat" items="[[posts]]" as="post">

@@ -1,6 +1,6 @@
 {
-  "title": "GDG DACHFest 2018",
-  "description": "Making a difference.",
+  "title": "DACHFest 2018",
+  "description": "A two-day tech conference in Munich, Germany, on November 10–11. Focused on the human side of technology: soft skills, accessibility, education, community building, and social change through tech. Meet leading experts on emerging technology with the potential to change lives, like AR/VR or Voice UI.",
   "image": "images/cover.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "November 10-11, 2018",
@@ -112,7 +112,8 @@
     "ticketsDetails": "",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
-    "save": "Save ${discount}% today"
+    "save": "Save €${discount}!",
+    "maxPrice": "€${maxPrice}"
   },
   "partnersBlock": {
     "title": "Partners",
@@ -149,7 +150,7 @@
     "previousYear": "Year"
   },
   "speakersBlock": {
-    "title": "Rockstar speakers",
+    "title": "Amazing speakers",
     "callToAction": {
       "label": "View all speakers",
       "link": "/speakers/"
@@ -182,7 +183,7 @@
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "formTitle": "Get the latest updates, insights and news about DACHFest sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",

@@ -64,7 +64,171 @@
   ],
   "schedule": { },
   "sessions": { },
-  "speakers": { },
+  "speakers": {
+    "mxsash" : {
+      "name" : "Sasha Romijn",
+      "country" : "Amsterdam, the Netherlands",
+      "featured" : true,
+
+      "company" : "Django Software Foundation",
+      "title" : "Security Team",
+
+      "photoUrl" : "/images/people/speakers/mxsash.jpg",
+
+      "shortBio" : "Django team member, chair of the Dutch Django Association and co-organiser of various conferences.",
+      "bio" : "Sasha is the co-founder and CTO of a Django development company in Amsterdam. She is deeply involved in the community around Django, a popular Python web framework, being a Django team member, chair of the Dutch Django Association and co-organiser of various conferences. She cares about building communities and conferences in which everyone feels welcome, valued and at home, regardless of their background. Sasha has a specific interest in well-being and ethical issues around communities and development. Some of her side projects are the Less Obvious Conference Checklist, with many less obvious suggestions for event organisers, and Happiness Packets, to spread more gratitude and kindness in open source communities.",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/mxsash",
+        "name" : "Twitter"
+      } ]
+    },
+    "perrysetgo" : {
+      "name" : "Perry Eising",
+      "country" : "Portland, Oregon, USA",
+      "featured" : true,
+
+      "company" : "Netlify",
+      "title" : "Community Manager",
+
+      "photoUrl" : "/images/people/speakers/perrysetgo.jpg",
+
+      "shortBio" : "Developer, educator and community organizer on a mission to make tech more inclusive and accessible.",
+      "bio" : "Perry (they or he pronouns) is a developer, educator and community organizer on a mission to make tech more inclusive and accessible. After spending equal time working in tech as a front-end and mobile developer, and out of tech in student leadership and academics, Perry realized they could bring both together by teaching tech for a few years as the faculty lead at a code school! No longer a full time teacher, he is still obsessed with facilitating opportunities for learning, growth and improvement, and committed to building strong, diverse communities wherever he goes.<br/><br/>Perry loves laughing out loud, niches, bikes, the outside, quiet time, good talks, and having as much fun as humanly possible.",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/perrysetgo",
+        "name" : "Twitter"
+      } ]
+    },
+    "dashersw" : {
+      "name" : "Armagan Amcalar",
+      "country" : "Berlin, Germany",
+      "featured" : true,
+
+      "company" : "unu",
+      "title" : "Head of Software Engineering",
+
+      "photoUrl" : "/images/people/speakers/dashersw.png",
+
+      "shortBio" : "Head of Software Engineering at unu GmbH, currently working on building the infrastructure for the future of mobility.",
+      "bio" : "Armagan is the Head of Software Engineering at <a href='https://unumotors.com/' target='_blank' rel='noopener noreferrer'>unu GmbH</a>, and is currently working on building the infrastructure for the future of mobility.<br/><br/>A software architect well versed in both the backend and frontend systems, he focuses on building resilient clouds. He loves open source and is the author of <a href='https://github.com/dashersw/cote' target='_blank' rel='noopener noreferrer'>cote</a>, a library for building microservices with Node.js, among <a href='https://github.com/dashersw' target='_blank' rel='noopener noreferrer'>many others</a>. In his free time, he loves to hack stuff with JavaScript, ranging from musical gadgets to brain signals processing.<br/><br/>Armagan is a <a href='https://arm.ag/talks' target='_blank' rel='noopener noreferrer'>public speaker</a>, a mentor and a lecturer. He also leads <a href='https://lonca.works' target='_blank' rel='noopener noreferrer'>Lonca</a>, a software craftsmanship school for women engineers, and teaches JavaScript at <a href='http://wtmberlin.com/javascript-crash-course/' target='_blank' rel='noopener noreferrer'>Women Techmakers Berlin</a>.",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/dashersw",
+        "name" : "Twitter"
+      } ]
+    },
+    "m4d_z" : {
+      "name" : "m4dz",
+      "country" : "Paris, France",
+      "featured" : true,
+
+      "company" : "alwaysdata",
+      "title" : "Tech Evangelist",
+
+      "photoUrl" : "/images/people/speakers/m4d_z.jpg",
+
+      "shortBio" : "Tech Evangelist at alwaysdata, concerned about privacy, a respect of private data, and cyber security.",
+      "bio" : "m4dz is a strange animal. Through many lives, he always tried to teach to others what he learnt himself. Previously a web developer (nobody’s perfect), concerned about privacy, a respect of private data, and cyber security. He’s now Tech Evangelist at alwaysdata. He tries to inform about present and future of digital issues. His favorite book always remains «Alice in Wonderland».",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/m4d_z",
+        "name" : "Twitter"
+      } ]
+    },
+    "asciidisco" : {
+      "name" : "Sebastian Golasch",
+      "country" : "Cologne, Germany",
+      "featured" : true,
+
+      "company" : "Deutsche Telekom",
+      "title" : "Specialist Senior Manager Software Developer",
+
+      "photoUrl" : "/images/people/speakers/asciidisco.jpg",
+
+      "shortBio" : "Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d have joined Starfleet…”",
+      "bio" : "Sebastian Golasch works as a “Specialist Senior Manager Software Developer” at Deutsche Telekom, after some time developing backend applications with Java, PHP and Ruby he became a citizen of the JavaScript world. For the last six years Sebastian tries to improve our lives, working on Deutsche Telekoms Smart Home platform Qivicon. Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d have joined Starfleet…”",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/asciidisco",
+        "name" : "Twitter"
+      } ]
+    },
+    "lariki": {
+      "name": "Lara Martín",
+      "country": "Berlin, Germany",
+      "featured": true,
+      "company": "Babbel",
+      "title": "Android Engineer",
+      "photoUrl": "/images/people/speakers/lariki.jpg",
+      "shortBio": "Lara is a self-made Android developer based in Berlin.",
+      "bio": "Lara is a self-made Android developer based in Berlin. Her passion for Android made her transition from her background in science to software development. She’s currently part of the mobile team at Babbel and her dream is to make apps more accessible for everyone. When she’s not attending a tech meetup, you will find her playing videogames.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/lariki",
+        "name" : "Twitter"
+      } ]
+    },
+    "miqubel": {
+      "name": "Miquel Beltran",
+      "country": "Berlin, Germany",
+      "featured": true,
+      "company": "beltran.work",
+      "title": "Freelance Android Developer",
+      "photoUrl": "/images/people/speakers/miqubel.jpg",
+      "shortBio": "Miquel is a Freelance Android developer based in Berlin.",
+      "bio": "Miquel is a Freelance Android developer based in Berlin. He is passionate about mobile app development and machine learning, but most importantly, he’s passionate about teaching and learning. Miquel is also an active member of the tech community in Berlin, where he has conducted workshops and talks. He helps running a local meetup group where they teach development to beginners and underrepresented communities in tech.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/miqubel",
+        "name" : "Twitter"
+      } ]
+    },
+    "carolstran" : {
+      "name" : "Carolyn Stransky",
+      "country" : "Berlin, Germany",
+      "featured" : true,
+
+      "company" : "Blacklane",
+      "title" : "Software Engineer",
+
+      "photoUrl" : "/images/people/speakers/carolstran.jpg",
+
+      "shortBio" : "Carolyn is a Berlin-based frontend developer and former technical writer.",
+      "bio" : "Carolyn Stransky is a frontend developer and former technical writer based in Berlin. She currently works at Blacklane and teaches at ReDI School of Digital Integration. You’ll usually find her looking at memes or taking selfies in the nearest restroom.",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/carolstran",
+        "name" : "Twitter"
+      } ]
+    },
+    "1nfoverload" : {
+      "name" : "Daisy Tsang",
+      "country" : "Berlin, Germany",
+      "featured" : false,
+
+      "company" : "",
+      "title" : "",
+
+      "photoUrl" : "/images/people/speakers/1nfoverload.jpg",
+
+      "shortBio" : "Programmer, Writer, Tinkerer, Language Enthusiast, Baker, Knitter.",
+      "bio" : "Programmer, Writer, Tinkerer, Language Enthusiast, Baker, Knitter.",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/1nfoverload",
+        "name" : "Twitter"
+      } ]
+    }
+  },
   "team": [
     {
       "members": [
