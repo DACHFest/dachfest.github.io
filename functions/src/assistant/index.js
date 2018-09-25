@@ -17,7 +17,7 @@ const dialogflowFirebaseFulfillment = functions.https.onRequest((request, respon
     // these intents are AoG specific
     if (webhookClient.requestSource === webhookClient.ACTIONS_ON_GOOGLE) {
       // intentMap.set('speakers', speakersIntent);  // uses caroussel -> AoG specific
-      intentMap.set('speakers2', speakersIntent);  // uses caroussel -> AoG specific
+      intentMap.set('speakers', speakersIntent);  // uses caroussel -> AoG specific
     } 
     webhookClient.handleRequest(intentMap);
   });
