@@ -51,6 +51,10 @@
   <meta itemprop="image" content="{$ image if image.startsWith('http') else (url + image) $}">
   <meta itemprop="startDate" content="{$ startDate $}">
   <meta itemprop="endDate" content="{$ endDate $}">
+  <template itemprop="location" itemscope itemtype="http://schema.org/Place">
+    <meta itemprop="name" content="{$ location.name $}">
+    <meta itemprop="address" content="{$ location.address $}">
+  </template>
 
   <!-- Facebook sharing meta data -->
   <meta property="og:title" content="{$ title $}">
