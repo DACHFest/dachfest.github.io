@@ -103,6 +103,44 @@
         "name" : "Twitter"
       } ]
     },
+    "stephaniecodes" : {
+      "name" : "Stephanie Nemeth",
+      "country" : "Berlin, Germany",
+      "featured" : true,
+
+      "company" : "Microsoft",
+      "title" : "Software Engineer",
+
+      "photoUrl" : "/images/people/speakers/stephaniecodes.png",
+
+      "shortBio" : "Developer at Microsoft and co-organizer of the Stupid Hackathon Amsterdam.",
+      "bio" : "Stephanie is a developer living in Berlin. She works at Microsoft and co-organizes the Stupid Hackathon Amsterdam. She enjoys experimenting with hardware and LEDs to make beautiful, useless things.",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/stephaniecodes",
+        "name" : "Twitter"
+      } ]
+    },
+    "jesserweigel" : {
+      "name" : "Jesse R Weigel",
+      "country" : "Steubenville, Ohio, USA",
+      "featured" : true,
+
+      "company" : "freeCodeCamp",
+      "title" : "",
+
+      "photoUrl" : "/images/people/speakers/jesserweigel.jpg",
+
+      "shortBio" : "Live codes his day-to-day work five days a week for the freeCodeCamp YouTube channel.",
+      "bio" : "Jesse live codes his day-to-day work five days a week for the freeCodeCamp YouTube channel. He is currently into building things with React. He loves sharing his coding experiences, including the struggles and failures, with others. He is especially happy when he gets a chance to encourage new developers.",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/jesserweigel",
+        "name" : "Twitter"
+      } ]
+    },
     "dashersw" : {
       "name" : "Armagan Amcalar",
       "country" : "Berlin, Germany",
@@ -113,7 +151,7 @@
 
       "photoUrl" : "/images/people/speakers/dashersw.png",
 
-      "shortBio" : "Head of Software Engineering at unu GmbH, currently working on building the infrastructure for the future of mobility.",
+      "shortBio" : "Head of Software Engineering at unu GmbH, building the infrastructure for the future of mobility.",
       "bio" : "Armagan is the Head of Software Engineering at <a href='https://unumotors.com/' target='_blank' rel='noopener noreferrer'>unu GmbH</a>, and is currently working on building the infrastructure for the future of mobility.<br/><br/>A software architect well versed in both the backend and frontend systems, he focuses on building resilient clouds. He loves open source and is the author of <a href='https://github.com/dashersw/cote' target='_blank' rel='noopener noreferrer'>cote</a>, a library for building microservices with Node.js, among <a href='https://github.com/dashersw' target='_blank' rel='noopener noreferrer'>many others</a>. In his free time, he loves to hack stuff with JavaScript, ranging from musical gadgets to brain signals processing.<br/><br/>Armagan is a <a href='https://arm.ag/talks' target='_blank' rel='noopener noreferrer'>public speaker</a>, a mentor and a lecturer. He also leads <a href='https://lonca.works' target='_blank' rel='noopener noreferrer'>Lonca</a>, a software craftsmanship school for women engineers, and teaches JavaScript at <a href='http://wtmberlin.com/javascript-crash-course/' target='_blank' rel='noopener noreferrer'>Women Techmakers Berlin</a>.",
 
       "socials" : [ {
@@ -157,6 +195,63 @@
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/asciidisco",
+        "name" : "Twitter"
+      } ]
+    },
+    "thewizardlucas" : {
+      "name" : "Lucas Fernandes da Costa",
+      "country" : "London, UK",
+      "featured" : true,
+
+      "company" : "Chai.js",
+      "title" : "Maintainer",
+
+      "photoUrl" : "/images/people/speakers/thewizardlucas.jpg",
+
+      "shortBio" : "Core team member of Chai.js and Sinon.js, two of the most popular libraries in the JS ecosystem.",
+      "bio" : "Lucas is a Brazilian software engineer living in London. He breathes JavaScript and is passionate about open source. He is a core team member of Chai.js and Sinon.js, two of the most popular libraries in the JS ecosystem, and is always trying to find better and more efficient ways to solve problems. “Strive to be lazy” is his motto.",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/thewizardlucas",
+        "name" : "Twitter"
+      } ]
+    },
+    "zetaraffix" : {
+      "name" : "Raffaella Isidori",
+      "country" : "Gerenzano, Italy",
+      "featured" : true,
+
+      "company" : "thesign.it",
+      "title" : "Creative Director",
+
+      "photoUrl" : "/images/people/speakers/zetaraffix.jpg",
+
+      "shortBio" : "A brand and integrated communication designer with over 30 years of experience.",
+      "bio" : "Raffaella builds brands, creates communication for businesses around the world, and assists companies in localizing (Ita/Eng) their brands, products, and messages. Besides that, she designs (UX/graphic/visual/digital/print), studies, teaches, takes pictures, writes, translates & coaches professionals on communication and language. Curious as a cat, she collects books, fonts, spices, and essential oils. She lives and works in the countryside (mostly Italian), surrounded by flora & fauna, where she cultivates dreams, and pushes boundaries.",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/zetaraffix",
+        "name" : "Twitter"
+      } ]
+    },
+    "hawramilani" : {
+      "name" : "Hawra Milani",
+      "country" : "London, UK",
+      "featured" : true,
+
+      "company" : "Code2Serve",
+      "title" : "Founder",
+
+      "photoUrl" : "/images/people/speakers/hawramilani.jpg",
+
+      "shortBio" : "Founder of Code2Serve, a non-profit organization teaching coding to kids.",
+      "bio" : "Hawra is a maker and breaker, who paved her path into tech world through breaking her own and other people’s computers. She’s super passionate about making cool stuff that are usually quite useless once the excitement dies down, and has founded an organisation that teaches children to do the same. She travels the world in hope of meeting women with the same dreams, and inspire them to make these dreams a reality.",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/hawramilani",
         "name" : "Twitter"
       } ]
     },
