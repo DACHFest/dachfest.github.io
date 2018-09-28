@@ -239,7 +239,7 @@
     "hawramilani" : {
       "name" : "Hawra Milani",
       "country" : "London, UK",
-      "featured" : true,
+      "featured" : false,
 
       "company" : "Code2Serve",
       "title" : "Founder",
