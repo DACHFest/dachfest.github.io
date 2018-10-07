@@ -410,7 +410,7 @@
         "icon" : "twitter",
         "link" : "https://twitter.com/derivaatta",
         "name" : "Twitter"
-      }            
+      },        
       {
         "icon": "facebook",
         "link": "https://www.facebook.com/annapotaninaart/",
@@ -444,6 +444,31 @@
       {
         "icon" : "twitter",
         "link" : "https://twitter.com/segunfamisa",
+        "name" : "Twitter"
+      } ]
+    },
+    "jessicarose" : {
+      "name" : "Jessica Rose",
+      "country" : "UK & どこでも",
+      "featured" : true,
+
+      "company" : "",
+      "title" : "",
+
+      "photoUrl" : "/images/people/speakers/jesslynnrose.jpg",
+
+      "shortBio" : "Technology’s den mother. More enthusiastic than graceful. Goblin enthusiast.",
+      "bio" : "Jessica Rose is a technologist obsessed with fostering more equal access to technical education and meaningful work in technology. She hosts the Pursuit Podcast, co-founded Trans*Code and founded the Open Code meetup series. She is always interested in learning more about what people are working on, come tell her about your projects and/or show her pictures of your pets.",
+
+      "socials" : [             
+      {
+        "icon": "website",
+        "link": "http://www.jessica.tech/",
+        "name": "Website"
+      },
+      {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/jesslynnrose",
         "name" : "Twitter"
       } ]
     }
