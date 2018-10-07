@@ -410,6 +410,11 @@
         "icon" : "twitter",
         "link" : "https://twitter.com/derivaatta",
         "name" : "Twitter"
+      }            
+      {
+        "icon": "facebook",
+        "link": "https://www.facebook.com/annapotaninaart/",
+        "name": "Facebook"
       },            
       {
         "icon": "linkedin",
