@@ -67,7 +67,7 @@
   "speakers": {
     "mxsash" : {
       "name" : "Sasha Romijn",
-      "country" : "Amsterdam, the Netherlands",
+      "country" : "Django // The Netherlands",
       "featured" : true,
 
       "company" : "Django Software Foundation",
@@ -84,9 +84,60 @@
         "name" : "Twitter"
       } ]
     },
+    "davehogue": {
+      "name": "David Hogue",
+      "country": "Google // USA",
+      "featured": true,
+
+      "company": "Google",
+      "title": "Design Lead, Platforms UX",
+
+      "photoUrl": "/images/people/speakers/davehogue.jpg",
+
+      "shortBio": "Platforms UX Design Lead at Google, focused on the global Android device ecosystem.",
+      "bio": "David M. Hogue, Ph.D. is a Design Lead at Google, design strategist, and applied psychologist with 20+ years experience. He combines his design, research, and psychology skills to bring deeper insight into user behavior, guide product strategy and service design systems, and solve challenging UX problems. He is currently focused on the dashboards and tools to monitor, manage, and maintain the global Android device ecosystem. He has consulted with agencies, start-ups, and corporations to help them build stronger design teams through organizational structures, processes, and training. Dave teaches information and interaction courses at San Francisco State University and online with LinkedIn Learning, and he has a special interest in design processes, strategy, and ethics."
+    },
+    "susiefelber": {
+      "name": "Susie Felber",
+      "country": "Withings // USA",
+      "featured": true,
+
+      "company": "Withings",
+      "title": "Global Content Director",
+
+      "photoUrl": "/images/people/speakers/susiefelber.jpg",
+
+      "shortBio": "Writer and comedian, who has written and produced for numerous TV networks and national magazines.",
+      "bio": "Susie Felber is a writer and comedian who has written and produced for numerous TV networks including Comedy Central, BBC America, truTV, MTV, ABC, and Lifetime Television. She has written for many national magazines including Cosmopolitan and US Weekly. She has also written, produced and been talent for online, agencies, startups, video games, and radio. She is currently Global Content Director at Withings, a lovely French start-up that was acquired by Nokia, before becoming Withings again. It’s complicated. She’s especially proud of appearing multiple times as a hooker on Conan, writing jokes for Car Talk on NPR, and appearing as the voice of the letter “O” on Sesame Street.",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/susiefelber",
+        "name" : "Twitter"
+      } ]
+    },
+    "bratwurstkomet": {
+      "name": "Memi Beltrame",
+      "country": "Less a Mess // Switzerland",
+      "featured": true,
+
+      "company": "Less a Mess",
+      "title": "Founder, Experience Designer",
+
+      "photoUrl": "/images/people/speakers/bratwurstkomet.jpg",
+
+      "shortBio": "A digital strategist with 20+ years of experience and author of Protostrap, a prototyping framework.",
+      "bio": "Memi is a digital strategist with 20+ years of experience in planning and building digital products. He is the author of Protostrap, a prototyping framework for designers, and the founder of Less A Mess, a digital agency that creates enjoyable and meaningful experiences specialising in projects with a high level of complexity. He lives and works in Zurich and is an active member of the local UX and web community.",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/bratwurstkomet",
+        "name" : "Twitter"
+      } ]
+    },
     "perrysetgo" : {
       "name" : "Perry Eising",
-      "country" : "Portland, Oregon, USA",
+      "country" : "Netlify // USA",
       "featured" : true,
 
       "company" : "Netlify",
@@ -105,7 +156,7 @@
     },
     "stephaniecodes" : {
       "name" : "Stephanie Nemeth",
-      "country" : "Berlin, Germany",
+      "country" : "Microsoft // Germany",
       "featured" : true,
 
       "company" : "Microsoft",
@@ -124,7 +175,7 @@
     },
     "jesserweigel" : {
       "name" : "Jesse R Weigel",
-      "country" : "Steubenville, Ohio, USA",
+      "country" : "freeCodeCamp // USA",
       "featured" : true,
 
       "company" : "freeCodeCamp",
@@ -141,9 +192,28 @@
         "name" : "Twitter"
       } ]
     },
+    "mirjam_diala": {
+      "name": "Mirjam Bäuerlein",
+      "country": "cosee // Germany",
+      "featured": true,
+
+      "company": "cosee",
+      "title": "Developer",
+
+      "photoUrl": "/images/people/speakers/mirjam_diala.jpg",
+
+      "shortBio": "A self-taught developer who started programming at the age of eleven on a Schneider CPC 464.",
+      "bio": "Mirjam is a self taught frontend developer and scaredy-cat from Germany. At the age of eleven she started programming on her Schneider CPC 464 in Locomotive BASIC. While programming has been a hobby ever since, her career didn’t start in that field at all. She was an accountant, management assistant and office administrator, and later she started to work as a dogtrainer with main focus on behavioral issues. In 2017 Mirjam changed my career for the second time and became a frontend developer.",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/mirjam_diala",
+        "name" : "Twitter"
+      } ]
+    },
     "dashersw" : {
       "name" : "Armagan Amcalar",
-      "country" : "Berlin, Germany",
+      "country" : "unu // Germany",
       "featured" : true,
 
       "company" : "unu",
@@ -162,7 +232,7 @@
     },
     "m4d_z" : {
       "name" : "m4dz",
-      "country" : "Paris, France",
+      "country" : "alwaysdata // France",
       "featured" : true,
 
       "company" : "alwaysdata",
@@ -181,7 +251,7 @@
     },
     "asciidisco" : {
       "name" : "Sebastian Golasch",
-      "country" : "Cologne, Germany",
+      "country" : "Deutsche Telekom // Germany",
       "featured" : true,
 
       "company" : "Deutsche Telekom",
@@ -200,7 +270,7 @@
     },
     "thewizardlucas" : {
       "name" : "Lucas Fernandes da Costa",
-      "country" : "London, UK",
+      "country" : "Chai.js // UK",
       "featured" : true,
 
       "company" : "Chai.js",
@@ -219,7 +289,7 @@
     },
     "zetaraffix" : {
       "name" : "Raffaella Isidori",
-      "country" : "Gerenzano, Italy",
+      "country" : "thesign.it // Italy",
       "featured" : true,
 
       "company" : "thesign.it",
@@ -238,7 +308,7 @@
     },
     "hawramilani" : {
       "name" : "Hawra Milani",
-      "country" : "London, UK",
+      "country" : "Code2Serve // UK",
       "featured" : false,
 
       "company" : "Code2Serve",
@@ -257,7 +327,7 @@
     },
     "lariki": {
       "name": "Lara Martín",
-      "country": "Berlin, Germany",
+      "country": "Babbel // Germany",
       "featured": true,
       "company": "Babbel",
       "title": "Android Engineer",
@@ -272,7 +342,7 @@
     },
     "miqubel": {
       "name": "Miquel Beltran",
-      "country": "Berlin, Germany",
+      "country": "beltran.work // Germany",
       "featured": true,
       "company": "beltran.work",
       "title": "Freelance Android Developer",
@@ -287,7 +357,7 @@
     },
     "carolstran" : {
       "name" : "Carolyn Stransky",
-      "country" : "Berlin, Germany",
+      "country" : "Blacklane // Germany",
       "featured" : true,
 
       "company" : "Blacklane",
@@ -306,7 +376,7 @@
     },
     "1nfoverload" : {
       "name" : "Daisy Tsang",
-      "country" : "Berlin, Germany",
+      "country" : "Germany",
       "featured" : false,
 
       "company" : "",
