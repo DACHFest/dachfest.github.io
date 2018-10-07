@@ -471,6 +471,31 @@
         "link" : "https://twitter.com/jesslynnrose",
         "name" : "Twitter"
       } ]
+    },
+    "sergeykibish" : {
+      "name" : "Sergey Kibish",
+      "country" : "Latvia",
+      "featured" : true,
+
+      "company" : "Neueda",
+      "title" : "Software Engineer",
+
+      "photoUrl" : "/images/people/speakers/sergeykibish.jpg",
+
+      "shortBio" : "",
+      "bio" : "Sergey is a Software Engineer and GDG Riga organiser. Have hands-on experience with different technologies. Can’t sit still and don’t do something for a long time. When there is a spare time - plays piano, compose music and read books. Don’t be afraid to ask questions.",
+
+      "socials" : [             
+      {
+        "icon": "website",
+        "link": "https://sergeykibish.com/",
+        "name": "Website"
+      },
+      {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/s_kibish",
+        "name" : "Twitter"
+      } ]
     }
   },
   "team": [
