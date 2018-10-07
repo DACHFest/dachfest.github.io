@@ -395,7 +395,7 @@
     }, 
     "annapotanina" : {
       "name" : "Anna Potanina",
-      "country" : "Ireland",
+      "country" : "Google // Ireland",
       "featured" : true,
 
       "company" : "Google",
@@ -404,7 +404,7 @@
       "photoUrl" : "/images/people/speakers/annapotanina.jpg",
 
       "shortBio" : "Anna is an UX & CRO Expert, illustrator, VR enthusiast and a global citizen.",
-      "bio" : "Anna Potanina is a mobile UX & CRO consultant at Google and in her free time an illustrator and VR enthusiast.She is an expert in User Experience, Design and Conversion Optimisation and a passionate advocate of combining creative thinking and data to help businesses succeed on mobile. Anna helps Google partners across EMEA improve their mobile experiences by leading design sprints, webinars and UX workshops. Prior to Google she was an IT consultant at Accenture.She has degrees in Applied Informatics, Innovations Technology Management and CEMS International Management.Anna lived in Russia, Austria, UK and now she is based in Google European Headquarters in sunny Dublin (yes it is sunny).",
+      "bio" : "Anna Potanina is a mobile UX & CRO consultant at Google and in her free time an illustrator and VR enthusiast. She is an expert in User Experience, Design and Conversion Optimisation and a passionate advocate of combining creative thinking and data to help businesses succeed on mobile. Anna helps Google partners across EMEA improve their mobile experiences by leading design sprints, webinars and UX workshops. Prior to Google she was an IT consultant at Accenture. She has degrees in Applied Informatics, Innovations Technology Management and CEMS International Management. Anna lived in Russia, Austria, UK and now she is based in Google European Headquarters in sunny Dublin (yes it is sunny).",
 
       "socials" : [ {
         "icon" : "twitter",
@@ -420,6 +420,31 @@
         "icon": "linkedin",
         "link": "https://www.linkedin.com/in/annapotanina/",
         "name": "LinkedIn"
+      } ]
+    },
+    "segunfamisa" : {
+      "name" : "Segun Famisa",
+      "country" : "Trivago // Germany",
+      "featured" : true,
+
+      "company" : "Trivago",
+      "title" : "Software Engineer",
+
+      "photoUrl" : "/images/people/speakers/segunfamisa.jpg",
+
+      "shortBio" : "Segun has recently become a Google Developer Expert for Android. Passionate about travel, food and everything in-between.",
+      "bio" : "Segun Famisa is a Software Engineer at trivago based in Düsseldorf, Germany. He has previously worked at Andela as an Android Consultant in Lagos, Nigeria where he worked with various partners on their Android projects. He also worked at Konga where he led Android development efforts on the KongaPay team. He is passionate about Software Development and loves to share his passion and findings through technical articles on his blog as well as speaking about the platform. He likes to do some painting in his spare time.",
+
+      "socials" : [             
+      {
+        "icon": "website",
+        "link": "https://www.segunfamisa.com",
+        "name": "Website"
+      },
+      {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/segunfamisa",
+        "name" : "Twitter"
       } ]
     }
   },
