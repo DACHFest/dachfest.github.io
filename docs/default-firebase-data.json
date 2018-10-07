@@ -392,6 +392,30 @@
         "link" : "https://twitter.com/1nfoverload",
         "name" : "Twitter"
       } ]
+    }, 
+    "annapotanina" : {
+      "name" : "Anna Potanina",
+      "country" : "Ireland",
+      "featured" : true,
+
+      "company" : "Google",
+      "title" : "UX & CRO Consultant",
+
+      "photoUrl" : "/images/people/speakers/annapotanina.jpg",
+
+      "shortBio" : "Anna is an UX & CRO Expert, illustrator, VR enthusiast and a global citizen.",
+      "bio" : "Anna Potanina is a mobile UX & CRO consultant at Google and in her free time an illustrator and VR enthusiast.She is an expert in User Experience, Design and Conversion Optimisation and a passionate advocate of combining creative thinking and data to help businesses succeed on mobile. Anna helps Google partners across EMEA improve their mobile experiences by leading design sprints, webinars and UX workshops. Prior to Google she was an IT consultant at Accenture.She has degrees in Applied Informatics, Innovations Technology Management and CEMS International Management.Anna lived in Russia, Austria, UK and now she is based in Google European Headquarters in sunny Dublin (yes it is sunny).",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/derivaatta",
+        "name" : "Twitter"
+      },            
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/annapotanina/",
+        "name": "LinkedIn"
+      } ]
     }
   },
   "team": [
