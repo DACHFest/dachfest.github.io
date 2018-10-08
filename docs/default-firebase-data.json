@@ -516,6 +516,30 @@
         "link" : "https://twitter.com/c_portillo_",
         "name" : "Twitter"
       } ]
+    },
+    "alexandregerasimov" : {
+      "name" : "Alexander Gerasimov",
+      "country" : "Germany",
+      "featured" : true,
+
+      "company" : "",
+      "title" : "Front-End Software Engineer",
+
+      "photoUrl" : "/images/people/speakers/alex.png",
+
+      "shortBio" : "",
+      "bio" : "Alex is a front-end engineer in the office hours and a functional programming aficionado in his spare time. In in attempt to balance his job, community work, building crazy over-engineered stuff, teaching JavaScript or Haskell and gamifying tech education with his friends at 21/23 Alex does his best to stay sane. Admires passionate people, always happy to share ideas, loves learning languages, has mixed feelings about One Direction.",
+      "socials" : [
+      {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/da_quirm",
+        "name" : "Twitter"
+      },            
+      {
+        "icon": "github",
+        "link": "github.com/21-23",
+        "name": "Github"
+      } ]
     }
   },
   "team": [
