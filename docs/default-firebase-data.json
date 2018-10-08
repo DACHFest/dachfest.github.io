@@ -496,6 +496,26 @@
         "link" : "https://twitter.com/s_kibish",
         "name" : "Twitter"
       } ]
+    },
+    "cesarportillo" : {
+      "name" : "Cesar Portillo",
+      "country" : "SAE Institute London // United Kingdom",
+      "featured" : false,
+
+      "company" : "SAE Institute London",
+      "title" : "Sound Artist & Engineer",
+
+      "photoUrl" : "/images/people/speakers/cesarportillo.jpg",
+
+      "shortBio" : "Sound Engineer & Researcher, making audio-visual mediums immersive & accessible to Blind and Partially sighted audiences.",
+      "bio" : "Cesar Portillo is a sound artist and engineer with a background in post production. After graduating from Middlesex University, with a degree in sound engineering, Cesar is now innovating and implementing 3D immersive sound features through international, award-winning film productions. Sound not only feeds our hearing and imagination but, through Cesar’s innovations in sound design, he provides the option for blind and visually impaired audiences to fully immersive themselves in visual stories; transcending the current limitations of audio description. His recent work embraces inclusive sound design approaches using sound spatialisation, auditory perception analysis and sound effects as a language to make visual stories accessible and experiential for all audiences.",
+
+      "socials" : [
+      {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/c_portillo_",
+        "name" : "Twitter"
+      } ]
     }
   },
   "team": [
