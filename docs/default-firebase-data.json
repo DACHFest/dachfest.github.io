@@ -192,6 +192,31 @@
         "name" : "Twitter"
       } ]
     },
+    "jessicarose" : {
+      "name" : "Jessica Rose",
+      "country" : "Pursuit Podcast // UK",
+      "featured" : true,
+
+      "company" : "",
+      "title" : "",
+
+      "photoUrl" : "/images/people/speakers/jesslynnrose.jpg",
+
+      "shortBio" : "Technology’s den mother. More enthusiastic than graceful. Goblin enthusiast.",
+      "bio" : "Jessica Rose is a technologist obsessed with fostering more equal access to technical education and meaningful work in technology. She hosts the Pursuit Podcast, co-founded Trans*Code and founded the Open Code meetup series. She is always interested in learning more about what people are working on, come tell her about your projects and/or show her pictures of your pets.",
+
+      "socials" : [
+      {
+        "icon": "website",
+        "link": "http://www.jessica.tech/",
+        "name": "Website"
+      },
+      {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/jesslynnrose",
+        "name" : "Twitter"
+      } ]
+    },
     "mirjam_diala": {
       "name": "Mirjam Bäuerlein",
       "country": "cosee // Germany",
@@ -246,6 +271,25 @@
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/m4d_z",
+        "name" : "Twitter"
+      } ]
+    },
+    "carolstran" : {
+      "name" : "Carolyn Stransky",
+      "country" : "Blacklane // Germany",
+      "featured" : true,
+
+      "company" : "Blacklane",
+      "title" : "Software Engineer",
+
+      "photoUrl" : "/images/people/speakers/carolstran.jpg",
+
+      "shortBio" : "Carolyn is a Berlin-based frontend developer and former technical writer.",
+      "bio" : "Carolyn Stransky is a frontend developer and former technical writer based in Berlin. She currently works at Blacklane and teaches at ReDI School of Digital Integration. You’ll usually find her looking at memes or taking selfies in the nearest restroom.",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/carolstran",
         "name" : "Twitter"
       } ]
     },
@@ -355,44 +399,6 @@
         "name" : "Twitter"
       } ]
     },
-    "carolstran" : {
-      "name" : "Carolyn Stransky",
-      "country" : "Blacklane // Germany",
-      "featured" : true,
-
-      "company" : "Blacklane",
-      "title" : "Software Engineer",
-
-      "photoUrl" : "/images/people/speakers/carolstran.jpg",
-
-      "shortBio" : "Carolyn is a Berlin-based frontend developer and former technical writer.",
-      "bio" : "Carolyn Stransky is a frontend developer and former technical writer based in Berlin. She currently works at Blacklane and teaches at ReDI School of Digital Integration. You’ll usually find her looking at memes or taking selfies in the nearest restroom.",
-
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/carolstran",
-        "name" : "Twitter"
-      } ]
-    },
-    "1nfoverload" : {
-      "name" : "Daisy Tsang",
-      "country" : "Germany",
-      "featured" : false,
-
-      "company" : "",
-      "title" : "",
-
-      "photoUrl" : "/images/people/speakers/1nfoverload.jpg",
-
-      "shortBio" : "Programmer, Writer, Tinkerer, Language Enthusiast, Baker, Knitter.",
-      "bio" : "Programmer, Writer, Tinkerer, Language Enthusiast, Baker, Knitter.",
-
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/1nfoverload",
-        "name" : "Twitter"
-      } ]
-    }, 
     "annapotanina" : {
       "name" : "Anna Potanina",
       "country" : "Google // Ireland",
@@ -403,19 +409,19 @@
 
       "photoUrl" : "/images/people/speakers/annapotanina.jpg",
 
-      "shortBio" : "Anna is an UX & CRO Expert, illustrator, VR enthusiast and a global citizen.",
+      "shortBio" : "Anna is an UX & CRO Expert, illustrator, VR enthusiast, and a global citizen.",
       "bio" : "Anna Potanina is a mobile UX & CRO consultant at Google and in her free time an illustrator and VR enthusiast. She is an expert in User Experience, Design and Conversion Optimisation and a passionate advocate of combining creative thinking and data to help businesses succeed on mobile. Anna helps Google partners across EMEA improve their mobile experiences by leading design sprints, webinars and UX workshops. Prior to Google she was an IT consultant at Accenture. She has degrees in Applied Informatics, Innovations Technology Management and CEMS International Management. Anna lived in Russia, Austria, UK and now she is based in Google European Headquarters in sunny Dublin (yes it is sunny).",
 
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/derivaatta",
         "name" : "Twitter"
-      },        
+      },
       {
         "icon": "facebook",
         "link": "https://www.facebook.com/annapotaninaart/",
         "name": "Facebook"
-      },            
+      },
       {
         "icon": "linkedin",
         "link": "https://www.linkedin.com/in/annapotanina/",
@@ -432,10 +438,10 @@
 
       "photoUrl" : "/images/people/speakers/segunfamisa.jpg",
 
-      "shortBio" : "Segun has recently become a Google Developer Expert for Android. Passionate about travel, food and everything in-between.",
+      "shortBio" : "Segun is a Google Developer Expert for Android, passionate about travel, food and everything in-between.",
       "bio" : "Segun Famisa is a Software Engineer at trivago based in Düsseldorf, Germany. He has previously worked at Andela as an Android Consultant in Lagos, Nigeria where he worked with various partners on their Android projects. He also worked at Konga where he led Android development efforts on the KongaPay team. He is passionate about Software Development and loves to share his passion and findings through technical articles on his blog as well as speaking about the platform. He likes to do some painting in his spare time.",
 
-      "socials" : [             
+      "socials" : [
       {
         "icon": "website",
         "link": "https://www.segunfamisa.com",
@@ -447,34 +453,9 @@
         "name" : "Twitter"
       } ]
     },
-    "jessicarose" : {
-      "name" : "Jessica Rose",
-      "country" : "UK & どこでも",
-      "featured" : true,
-
-      "company" : "",
-      "title" : "",
-
-      "photoUrl" : "/images/people/speakers/jesslynnrose.jpg",
-
-      "shortBio" : "Technology’s den mother. More enthusiastic than graceful. Goblin enthusiast.",
-      "bio" : "Jessica Rose is a technologist obsessed with fostering more equal access to technical education and meaningful work in technology. She hosts the Pursuit Podcast, co-founded Trans*Code and founded the Open Code meetup series. She is always interested in learning more about what people are working on, come tell her about your projects and/or show her pictures of your pets.",
-
-      "socials" : [             
-      {
-        "icon": "website",
-        "link": "http://www.jessica.tech/",
-        "name": "Website"
-      },
-      {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/jesslynnrose",
-        "name" : "Twitter"
-      } ]
-    },
     "sergeykibish" : {
       "name" : "Sergey Kibish",
-      "country" : "Latvia",
+      "country" : "Neueda // Latvia",
       "featured" : true,
 
       "company" : "Neueda",
@@ -485,7 +466,7 @@
       "shortBio" : "Software Engineer, community organizer, music enthusiast. Full of passion and charisma.",
       "bio" : "Sergey is a Software Engineer and GDG Riga organiser. Have hands-on experience with different technologies. Can’t sit still and don’t do something for a long time. When there is a spare time - do something musical. Don’t be afraid to ask questions.",
 
-      "socials" : [             
+      "socials" : [
       {
         "icon": "website",
         "link": "https://sergeykibish.com/",
@@ -499,7 +480,7 @@
     },
     "cesarportillo" : {
       "name" : "Cesar Portillo",
-      "country" : "SAE Institute London // United Kingdom",
+      "country" : "SAE Institute // United Kingdom",
       "featured" : false,
 
       "company" : "SAE Institute London",
@@ -519,46 +500,46 @@
     },
     "alexandregerasimov" : {
       "name" : "Alexander Gerasimov",
-      "country" : "Germany",
+      "country" : "21/23 // Germany",
       "featured" : true,
 
-      "company" : "",
+      "company" : "21/23",
       "title" : "Front-End Software Engineer",
 
       "photoUrl" : "/images/people/speakers/alex.png",
 
-      "shortBio" : "",
+      "shortBio" : "Alex builds crazy over-engineered stuff, teaches JavaScript or Haskell, and gamifies tech education with his friends at 21/23.",
       "bio" : "Alex is a front-end engineer in the office hours and a functional programming aficionado in his spare time. In in attempt to balance his job, community work, building crazy over-engineered stuff, teaching JavaScript or Haskell and gamifying tech education with his friends at 21/23 Alex does his best to stay sane. Admires passionate people, always happy to share ideas, loves learning languages, has mixed feelings about One Direction.",
       "socials" : [
       {
         "icon" : "twitter",
         "link" : "https://twitter.com/da_quirm",
         "name" : "Twitter"
-      },            
+      },
       {
         "icon": "github",
-        "link": "github.com/21-23",
+        "link": "https://github.com/21-23",
         "name": "Github"
       } ]
     },
     "lukasziegler" : {
       "name" : "Lukas Ziegler",
-      "country" : "Austria",
+      "country" : "Red Bull Media House // Austria",
       "featured" : false,
 
-      "company" : "",
+      "company" : "Red Bull Media House",
       "title" : "UX Engineer",
 
       "photoUrl" : "",
 
-      "shortBio" : "Half techie, half visual thinker. I feel most comfortable at the intersection of design and development.",
-      "bio" : "Half techie, half visual thinker. I feel most comfortable at the intersection of design and development. Having studied at both TU Munich and LMU Munich, I’ve got to see the best of “both worlds” already during my studies. Following this approach, I’ve worked as a software engineer at Red Bull Media House for a few years and am now working in their UX Design Team, where I again have got the opportunity to combine the best of both worlds. What motivates me is the vision to develop new and meaningful products, to work in teams that outgrow their own capabilities, and to work on meaningful products that actually solve users’ needs.",
+      "shortBio" : "Half techie, half visual thinker. Lukas feels most comfortable at the intersection of design and development.",
+      "bio" : "Half techie, half visual thinker. Lukas feels most comfortable at the intersection of design and development. Having studied at both TU Munich and LMU Munich, he's got to see the best of “both worlds” already during his studies. Following this approach, he's worked as a software engineer at Red Bull Media House for a few years and is now working in their UX Design Team, where he again have got the opportunity to combine the best of both worlds. What motivates Lukas is the vision to develop new and meaningful products, to work in teams that outgrow their own capabilities, and to work on meaningful products that actually solve users’ needs.",
       "socials" : [
       {
         "icon" : "twitter",
         "link" : "https://twitter.com/ZieglerLukas",
         "name" : "Twitter"
-      },            
+      },
       {
         "icon": "website",
         "link": "https://lukasziegler.com/",
@@ -567,7 +548,7 @@
     },
     "felixwu" : {
       "name" : "Felix Wu",
-      "country" : "Germany",
+      "country" : "TNG // Germany",
       "featured" : true,
 
       "company" : "TNG Technology Consulting",
@@ -582,13 +563,32 @@
         "icon" : "twitter",
         "link" : "https://twitter.com/flxwu",
         "name" : "Twitter"
-      },            
+      },
       {
         "icon": "website",
         "link": "https://flxwu.com/",
         "name": "Website"
       }]
-    }
+    },
+    "1nfoverload": {
+      "name" : "Daisy Tsang",
+      "country" : "Germany",
+      "featured" : false,
+
+      "company" : "",
+      "title" : "",
+
+      "photoUrl" : "/images/people/speakers/1nfoverload.jpg",
+
+      "shortBio" : "Programmer, Writer, Tinkerer, Language Enthusiast, Baker, Knitter.",
+      "bio" : "Programmer, Writer, Tinkerer, Language Enthusiast, Baker, Knitter.",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/1nfoverload",
+        "name" : "Twitter"
+      } ]
+    },
   },
   "team": [
     {
