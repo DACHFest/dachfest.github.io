@@ -564,6 +564,30 @@
         "link": "https://lukasziegler.com/",
         "name": "Website"
       }]
+    },
+    "felixwu" : {
+      "name" : "Felix Wu",
+      "country" : "Germany",
+      "featured" : true,
+
+      "company" : "TNG Technology Consulting",
+      "title" : "Software Engineer",
+
+      "photoUrl" : "/images/people/speakers/felixwu.jpg",
+
+      "shortBio" : "Felix is a German high school student with a keen interest in Computer Science, Physics, Math and Open Source.",
+      "bio" : "Felix is a 17 y/o Software Engineer from Germany. Besides school, he helps companies all around the world building their technical infrastructure as a part-time Frontend Consultant for TNG Technology Consulting. In his free time, he is an active Open Source contributor and the co-creator of the JavaScript snippet collection 30-seconds-of-code and a platform for tech interviewees called 30-seconds-of-interviews. He currently also maintains react-perf-devtool. When not coding, you can find him talking or reading about it, as well as advocating for Youth in Tech and organizing CSSFrankfurt. He also loves travelling, especially with his girlfriend, and playing basketball and frisbee, as well as hanging out with friends. Like many young people, he also loves going on parties! So far, he has done mostly JavaScript stuff at Runtastic, GEZE and TNG Technology Consulting.",
+      "socials" : [
+      {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/flxwu",
+        "name" : "Twitter"
+      },            
+      {
+        "icon": "website",
+        "link": "https://flxwu.com/",
+        "name": "Website"
+      }]
     }
   },
   "team": [
