@@ -540,6 +540,30 @@
         "link": "github.com/21-23",
         "name": "Github"
       } ]
+    },
+    "lukasziegler" : {
+      "name" : "Lukas Ziegler",
+      "country" : "Austria",
+      "featured" : false,
+
+      "company" : "",
+      "title" : "UX Engineer",
+
+      "photoUrl" : "",
+
+      "shortBio" : "Half techie, half visual thinker. I feel most comfortable at the intersection of design and development.",
+      "bio" : "Half techie, half visual thinker. I feel most comfortable at the intersection of design and development. Having studied at both TU Munich and LMU Munich, I’ve got to see the best of “both worlds” already during my studies. Following this approach, I’ve worked as a software engineer at Red Bull Media House for a few years and am now working in their UX Design Team, where I again have got the opportunity to combine the best of both worlds. What motivates me is the vision to develop new and meaningful products, to work in teams that outgrow their own capabilities, and to work on meaningful products that actually solve users’ needs.",
+      "socials" : [
+      {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/ZieglerLukas",
+        "name" : "Twitter"
+      },            
+      {
+        "icon": "website",
+        "link": "https://lukasziegler.com/",
+        "name": "Website"
+      }]
     }
   },
   "team": [
