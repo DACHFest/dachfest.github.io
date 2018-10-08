@@ -428,6 +428,44 @@
         "name": "LinkedIn"
       } ]
     },
+    "html5test": {
+      "name": "Niels Leenheer",
+      "country": "HTML5test // The Netherlands",
+      "featured": true,
+
+      "company": "HTML5test",
+      "title": "Founder",
+
+      "photoUrl": "/images/people/speakers/html5test.jpg",
+
+      "shortBio": "Niels is the creator of HTML5test.com and runs one of the largest Open Device Labs in the world.",
+      "bio": "Niels is a self-professed browser geek. He has been hooked on browsers ever since somebody showed him the original Nexus browser on a NeXT Cube back in the dark ages of the internet. Niels is the creator of HTML5test.com and runs one of the largest Open Device Labs in the world. He loves procrastinating, collecting weird devices with even stranger browsers, drawing pixel art monsters, procrastinating, researching obscure browsers and tinkering with hardware. For his day job he is CTO of Salonhub and creates web applications for hair salons.",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/html5test",
+        "name" : "Twitter"
+      } ]
+    },
+    "enricofoschi": {
+      "name": "Enrico Foschi",
+      "country": "ZAGENO // Germany",
+      "featured": true,
+
+      "company": "ZAGENO",
+      "title": "VP of Technology",
+
+      "photoUrl": "/images/people/speakers/enricofoschi.jpg",
+
+      "shortBio": "Enrico is a hands-on tech lead with more than 13 years experience in growing teams with a focus on startups.",
+      "bio": "Enrico is a hands-on tech lead with more than 13 years experience in growing teams in small and large environments, with a focus on startups and fast-growing businesses. In his last and present job, he built, leads and mentors a fantastic tech team at ZAGENO, a biotech marketplace located in Boston (MA) and Berlin (Germany). When he isn’t driving ZAGENO’s tech, Enrico spends time playing the piano, kayaking in the Brandenburg region or, with his wife, tasting and testing the many restaurants and bars in Berlin.",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/enricofoschi",
+        "name" : "Twitter"
+      } ]
+    },
     "segunfamisa" : {
       "name" : "Segun Famisa",
       "country" : "Trivago // Germany",

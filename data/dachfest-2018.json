@@ -75,7 +75,7 @@
 
       "photoUrl" : "/images/people/speakers/mxsash.jpg",
 
-      "shortBio" : "Django team member, chair of the Dutch Django Association and co-organiser of various conferences.",
+      "shortBio" : "Distributor of stroopwafel-based happiness and Python code.",
       "bio" : "Sasha is the co-founder and CTO of a Django development company in Amsterdam. She is deeply involved in the community around Django, a popular Python web framework, being a Django team member, chair of the Dutch Django Association and co-organiser of various conferences. She cares about building communities and conferences in which everyone feels welcome, valued and at home, regardless of their background. Sasha has a specific interest in well-being and ethical issues around communities and development. Some of her side projects are the Less Obvious Conference Checklist, with many less obvious suggestions for event organisers, and Happiness Packets, to spread more gratitude and kindness in open source communities.",
 
       "socials" : [ {
@@ -192,6 +192,31 @@
         "name" : "Twitter"
       } ]
     },
+    "jessicarose" : {
+      "name" : "Jessica Rose",
+      "country" : "Pursuit Podcast // UK",
+      "featured" : true,
+
+      "company" : "",
+      "title" : "",
+
+      "photoUrl" : "/images/people/speakers/jesslynnrose.jpg",
+
+      "shortBio" : "Technology’s den mother. More enthusiastic than graceful. Goblin enthusiast.",
+      "bio" : "Jessica Rose is a technologist obsessed with fostering more equal access to technical education and meaningful work in technology. She hosts the Pursuit Podcast, co-founded Trans*Code and founded the Open Code meetup series. She is always interested in learning more about what people are working on, come tell her about your projects and/or show her pictures of your pets.",
+
+      "socials" : [
+      {
+        "icon": "website",
+        "link": "http://www.jessica.tech/",
+        "name": "Website"
+      },
+      {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/jesslynnrose",
+        "name" : "Twitter"
+      } ]
+    },
     "mirjam_diala": {
       "name": "Mirjam Bäuerlein",
       "country": "cosee // Germany",
@@ -246,6 +271,25 @@
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/m4d_z",
+        "name" : "Twitter"
+      } ]
+    },
+    "carolstran" : {
+      "name" : "Carolyn Stransky",
+      "country" : "Blacklane // Germany",
+      "featured" : true,
+
+      "company" : "Blacklane",
+      "title" : "Software Engineer",
+
+      "photoUrl" : "/images/people/speakers/carolstran.jpg",
+
+      "shortBio" : "Carolyn is a Berlin-based frontend developer and former technical writer.",
+      "bio" : "Carolyn Stransky is a frontend developer and former technical writer based in Berlin. She currently works at Blacklane and teaches at ReDI School of Digital Integration. You’ll usually find her looking at memes or taking selfies in the nearest restroom.",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/carolstran",
         "name" : "Twitter"
       } ]
     },
@@ -355,26 +399,197 @@
         "name" : "Twitter"
       } ]
     },
-    "carolstran" : {
-      "name" : "Carolyn Stransky",
-      "country" : "Blacklane // Germany",
+    "annapotanina" : {
+      "name" : "Anna Potanina",
+      "country" : "Google // Ireland",
       "featured" : true,
 
-      "company" : "Blacklane",
-      "title" : "Software Engineer",
+      "company" : "Google",
+      "title" : "UX & CRO Consultant",
 
-      "photoUrl" : "/images/people/speakers/carolstran.jpg",
+      "photoUrl" : "/images/people/speakers/annapotanina.jpg",
 
-      "shortBio" : "Carolyn is a Berlin-based frontend developer and former technical writer.",
-      "bio" : "Carolyn Stransky is a frontend developer and former technical writer based in Berlin. She currently works at Blacklane and teaches at ReDI School of Digital Integration. You’ll usually find her looking at memes or taking selfies in the nearest restroom.",
+      "shortBio" : "Anna is an UX & CRO Expert, illustrator, VR enthusiast, and a global citizen.",
+      "bio" : "Anna Potanina is a mobile UX & CRO consultant at Google and in her free time an illustrator and VR enthusiast. She is an expert in User Experience, Design and Conversion Optimisation and a passionate advocate of combining creative thinking and data to help businesses succeed on mobile. Anna helps Google partners across EMEA improve their mobile experiences by leading design sprints, webinars and UX workshops. Prior to Google she was an IT consultant at Accenture. She has degrees in Applied Informatics, Innovations Technology Management and CEMS International Management. Anna lived in Russia, Austria, UK and now she is based in Google European Headquarters in sunny Dublin (yes it is sunny).",
 
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "https://twitter.com/carolstran",
+        "link" : "https://twitter.com/derivaatta",
+        "name" : "Twitter"
+      },
+      {
+        "icon": "facebook",
+        "link": "https://www.facebook.com/annapotaninaart/",
+        "name": "Facebook"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/annapotanina/",
+        "name": "LinkedIn"
+      } ]
+    },
+    "html5test": {
+      "name": "Niels Leenheer",
+      "country": "HTML5test // The Netherlands",
+      "featured": true,
+
+      "company": "HTML5test",
+      "title": "Founder",
+
+      "photoUrl": "/images/people/speakers/html5test.jpg",
+
+      "shortBio": "Niels is the creator of HTML5test.com and runs one of the largest Open Device Labs in the world.",
+      "bio": "Niels is a self-professed browser geek. He has been hooked on browsers ever since somebody showed him the original Nexus browser on a NeXT Cube back in the dark ages of the internet. Niels is the creator of HTML5test.com and runs one of the largest Open Device Labs in the world. He loves procrastinating, collecting weird devices with even stranger browsers, drawing pixel art monsters, procrastinating, researching obscure browsers and tinkering with hardware. For his day job he is CTO of Salonhub and creates web applications for hair salons.",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/html5test",
         "name" : "Twitter"
       } ]
     },
-    "1nfoverload" : {
+    "segunfamisa" : {
+      "name" : "Segun Famisa",
+      "country" : "Trivago // Germany",
+      "featured" : true,
+
+      "company" : "Trivago",
+      "title" : "Software Engineer",
+
+      "photoUrl" : "/images/people/speakers/segunfamisa.jpg",
+
+      "shortBio" : "Segun is a Google Developer Expert for Android, passionate about travel, food and everything in-between.",
+      "bio" : "Segun Famisa is a Software Engineer at trivago based in Düsseldorf, Germany. He has previously worked at Andela as an Android Consultant in Lagos, Nigeria where he worked with various partners on their Android projects. He also worked at Konga where he led Android development efforts on the KongaPay team. He is passionate about Software Development and loves to share his passion and findings through technical articles on his blog as well as speaking about the platform. He likes to do some painting in his spare time.",
+
+      "socials" : [
+      {
+        "icon": "website",
+        "link": "https://www.segunfamisa.com",
+        "name": "Website"
+      },
+      {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/segunfamisa",
+        "name" : "Twitter"
+      } ]
+    },
+    "sergeykibish" : {
+      "name" : "Sergey Kibish",
+      "country" : "Neueda // Latvia",
+      "featured" : true,
+
+      "company" : "Neueda",
+      "title" : "Software Engineer",
+
+      "photoUrl" : "/images/people/speakers/sergeykibish.jpg",
+
+      "shortBio" : "Software Engineer, community organizer, music enthusiast. Full of passion and charisma.",
+      "bio" : "Sergey is a Software Engineer and GDG Riga organiser. Have hands-on experience with different technologies. Can’t sit still and don’t do something for a long time. When there is a spare time - do something musical. Don’t be afraid to ask questions.",
+
+      "socials" : [
+      {
+        "icon": "website",
+        "link": "https://sergeykibish.com/",
+        "name": "Website"
+      },
+      {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/s_kibish",
+        "name" : "Twitter"
+      } ]
+    },
+    "cesarportillo" : {
+      "name" : "Cesar Portillo",
+      "country" : "SAE Institute // United Kingdom",
+      "featured" : false,
+
+      "company" : "SAE Institute London",
+      "title" : "Sound Artist & Engineer",
+
+      "photoUrl" : "/images/people/speakers/cesarportillo.jpg",
+
+      "shortBio" : "Sound Engineer & Researcher, making audio-visual mediums immersive & accessible to Blind and Partially sighted audiences.",
+      "bio" : "Cesar Portillo is a sound artist and engineer with a background in post production. After graduating from Middlesex University, with a degree in sound engineering, Cesar is now innovating and implementing 3D immersive sound features through international, award-winning film productions. Sound not only feeds our hearing and imagination but, through Cesar’s innovations in sound design, he provides the option for blind and visually impaired audiences to fully immersive themselves in visual stories; transcending the current limitations of audio description. His recent work embraces inclusive sound design approaches using sound spatialisation, auditory perception analysis and sound effects as a language to make visual stories accessible and experiential for all audiences.",
+
+      "socials" : [
+      {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/c_portillo_",
+        "name" : "Twitter"
+      } ]
+    },
+    "alexandregerasimov" : {
+      "name" : "Alexander Gerasimov",
+      "country" : "21/23 // Germany",
+      "featured" : true,
+
+      "company" : "21/23",
+      "title" : "Front-End Software Engineer",
+
+      "photoUrl" : "/images/people/speakers/alex.png",
+
+      "shortBio" : "Alex builds crazy over-engineered stuff, teaches JavaScript or Haskell, and gamifies tech education with his friends at 21/23.",
+      "bio" : "Alex is a front-end engineer in the office hours and a functional programming aficionado in his spare time. In in attempt to balance his job, community work, building crazy over-engineered stuff, teaching JavaScript or Haskell and gamifying tech education with his friends at 21/23 Alex does his best to stay sane. Admires passionate people, always happy to share ideas, loves learning languages, has mixed feelings about One Direction.",
+      "socials" : [
+      {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/da_quirm",
+        "name" : "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/21-23",
+        "name": "Github"
+      } ]
+    },
+    "lukasziegler" : {
+      "name" : "Lukas Ziegler",
+      "country" : "Red Bull Media House // Austria",
+      "featured" : false,
+
+      "company" : "Red Bull Media House",
+      "title" : "UX Engineer",
+
+      "photoUrl" : "",
+
+      "shortBio" : "Half techie, half visual thinker. Lukas feels most comfortable at the intersection of design and development.",
+      "bio" : "Half techie, half visual thinker. Lukas feels most comfortable at the intersection of design and development. Having studied at both TU Munich and LMU Munich, he's got to see the best of “both worlds” already during his studies. Following this approach, he's worked as a software engineer at Red Bull Media House for a few years and is now working in their UX Design Team, where he again have got the opportunity to combine the best of both worlds. What motivates Lukas is the vision to develop new and meaningful products, to work in teams that outgrow their own capabilities, and to work on meaningful products that actually solve users’ needs.",
+      "socials" : [
+      {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/ZieglerLukas",
+        "name" : "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://lukasziegler.com/",
+        "name": "Website"
+      }]
+    },
+    "felixwu" : {
+      "name" : "Felix Wu",
+      "country" : "TNG // Germany",
+      "featured" : true,
+
+      "company" : "TNG Technology Consulting",
+      "title" : "Software Engineer",
+
+      "photoUrl" : "/images/people/speakers/felixwu.jpg",
+
+      "shortBio" : "Felix is a German high school student with a keen interest in Computer Science, Physics, Math and Open Source.",
+      "bio" : "Felix is a 17 y/o Software Engineer from Germany. Besides school, he helps companies all around the world building their technical infrastructure as a part-time Frontend Consultant for TNG Technology Consulting. In his free time, he is an active Open Source contributor and the co-creator of the JavaScript snippet collection 30-seconds-of-code and a platform for tech interviewees called 30-seconds-of-interviews. He currently also maintains react-perf-devtool. When not coding, you can find him talking or reading about it, as well as advocating for Youth in Tech and organizing CSSFrankfurt. He also loves travelling, especially with his girlfriend, and playing basketball and frisbee, as well as hanging out with friends. Like many young people, he also loves going on parties! So far, he has done mostly JavaScript stuff at Runtastic, GEZE and TNG Technology Consulting.",
+      "socials" : [
+      {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/flxwu",
+        "name" : "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://flxwu.com/",
+        "name": "Website"
+      }]
+    },
+    "1nfoverload": {
       "name" : "Daisy Tsang",
       "country" : "Germany",
       "featured" : false,
@@ -392,7 +607,7 @@
         "link" : "https://twitter.com/1nfoverload",
         "name" : "Twitter"
       } ]
-    }
+    },
   },
   "team": [
     {
