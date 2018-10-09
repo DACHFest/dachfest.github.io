@@ -674,6 +674,24 @@
         "name": "Website"
       }]
     },
+    "robertkaiser" : {
+      "name" : "Robert Kaiser",
+      "country" : "Austria",
+      "featured" : false,
+
+      "company" : "KaiRo.at",
+      "title" : "",
+
+      "photoUrl" : "",
+
+      "shortBio" : "Robert Kaiser (“KaiRo”) is a Mozilla Tech Speaker, OpenStreetMap contributor, and freelance Web/Linux expert.",
+      "bio" : "Robert Kaiser (“KaiRo”) is a Mozilla Tech Speaker, OpenStreetMap contributor, and freelance Web/Linux expert. Close to 20 years in the Mozilla community have given him a lot of insight into the Web’s technologies and history. He likes to try out alternative solutions that increase user freedom and privacy, and take a peek into new technology. On/under his desk, at least 5 devices with a Linux kernel run on a normal day and communicate with other Linux systems he’s administrating. KaiRo is a burning supporter of Mozilla’s Mission and Manifesto as well as Star Trek’s vision of a diverse society in a positive future. For taking a break from technology, he likes to go for singing karaoke and writing his own songs.",
+      "socials" : [{
+        "icon" : "website",
+        "link" : "https://home.kairo.at/blog/",
+        "name" : "Website"
+      }]
+    },
     "sarahkoehler" : {
       "name" : "Sarah Köhler",
       "country" : "Germany",
