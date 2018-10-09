@@ -16,7 +16,7 @@
     "locale": "en-US"
   },
   "hashtag": "DACHFest",
-  "disabledSchedule": true,
+  "disabledSchedule": false,
   "navigation": [
   ],
   "_navigation": [
