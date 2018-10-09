@@ -656,7 +656,7 @@
       "country" : "Canada",
       "featured" : true,
 
-      "company" : "Myriam enjoys long romantic walks to the fridge along with her mini wiener dog.",
+      "company" : "",
       "title" : "Digital Strategist & Technical Marketer",
 
       "photoUrl" : "/images/people/speakers/myriam-jessier.jpg",
@@ -671,6 +671,61 @@
       {
         "icon": "website",
         "link": "https://www.myriamjessier.com/skills/",
+        "name": "Website"
+      }]
+    },
+    "sarahkoehler" : {
+      "name" : "Sarah Köhler",
+      "country" : "Germany",
+      "featured" : false,
+
+      "company" : "",
+      "title" : "",
+
+      "photoUrl" : "",
+
+      "shortBio" : "Book Lover turned developer, likes to share knowledge which is mostly javascript and react related.",
+      "bio" : "Book Lover turned developer, likes to share knowledge which is mostly javascript and react related.",
+      "socials" : []
+    },
+    "svetlanasharipova" : {
+      "name" : "Svetlana Sharipova",
+      "country" : "Russia",
+      "featured" : false,
+
+      "company" : "",
+      "title" : "",
+
+      "photoUrl" : "",
+
+      "shortBio" : "I am self-taught passionate frontend developer.",
+      "bio" : "I am self-taught passionate frontend developer.",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/helloDeadline",
+        "name" : "Twitter"
+      }]
+    },
+    "wahibulhaq" : {
+      "name" : "Wahib Ul Haq",
+      "country" : "KI Labs // Germany",
+      "featured" : false,
+
+      "company" : "KI Labs",
+      "title" : "Android Developer",
+
+      "photoUrl" : "",
+
+      "shortBio" : "Android Developer at KI Labs, Lazy Storyteller. 🇵🇰 expat in 🇩🇪. ",
+      "bio" : "Android Developer and other stuff at KI labs. Takes keen interest in more than just the coding side of an app. Got a thing for Product, Engineering, People & Sarcasm. Lazy Storyteller. 🇵🇰 expat in 🇩🇪.",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/wahibhaq",
+        "name" : "Twitter"
+      },       
+      {
+        "icon": "website",
+        "link": "http://wahibhaq.com",
         "name": "Website"
       }]
     }
