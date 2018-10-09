@@ -797,7 +797,7 @@
       "company" : "21/23",
       "title" : "Front-End Software Engineer",
 
-      "photoUrl" : "/images/people/speakers/alex.jpg",
+      "photoUrl" : "/images/people/speakers/alexandergerasimov.jpg",
 
       "shortBio" : "Alex builds crazy over-engineered stuff, teaches JavaScript or Haskell, and gamifies tech education with his friends at 21/23.",
       "bio" : "Alex is a front-end engineer in the office hours and a functional programming aficionado in his spare time. In in attempt to balance his job, community work, building crazy over-engineered stuff, teaching JavaScript or Haskell and gamifying tech education with his friends at 21/23 Alex does his best to stay sane. Admires passionate people, always happy to share ideas, loves learning languages, has mixed feelings about One Direction.",
@@ -884,11 +884,11 @@
       "name" : "Svetlana Sharipova",
       "country" : "Russia",
       "featured" : false,
-      "company" : "",
-      "title" : "",
-      "photoUrl" : "",
-      "shortBio" : "Self-taught passionate frontend developer.",
-      "bio" : "Self-taught passionate frontend developer.",
+      "company" : "Independent",
+      "title" : "Frontend developer",
+      "photoUrl" : "/images/people/speakers/SvetlanaSharipova.jpg",
+      "shortBio" : "Self-taught frontend developer with a passion for cats, gifs and accessible interfaces.",
+      "bio" : "At the age of 9 Svetlana made her first webpage about cats (lots of cats and sparkling gifs). Then she lost her direction until 4 years ago. Unable to resist cat gifs influence she found her passion in building accessible interfaces for everyone. By day she works as a frontend developer contractor, by night she sleeps. In spare time she mentors junior developers, travels, dreams and occasionally gives talks on frontend related topics and about mental health.",
       "socials" : [{
         "icon" : "twitter",
         "link" : "https://twitter.com/helloDeadline",
