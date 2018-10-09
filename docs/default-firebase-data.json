@@ -63,7 +63,190 @@
     }
   ],
   "schedule": { },
-  "sessions": { },
+  "sessions": {
+    "happiness": {
+      "language": "English",
+      "title": "The Secret Society of Happiness",
+      "description": "Happiness and our own search for it have deep impacts on our entire lives. But important as it is, it’s also incredibly complicated. We each carry our own baggage, and the things that make us happy are not constants. However, we can learn so much from each other in a community, and can have a tremendous impact on each other’s happiness - though not always in the most obvious ways.",
+      "speakers": [ "mxsash" ],
+      "tags": [ ]
+    },
+    "testoftime": {
+      "language": "English",
+      "title": "Writing Tests that Stand the Test of Time",
+      "description": "One of the promises of test driven development is the confidence and ease with which we can refactor our production code.\n\nHowever, sometimes we find ourselves in a position where our tests are highly coupled to the production code and we have to change the tests every time we update our production code. At this point we start wondering if the tests we had are even worth it if we have to spend so much time to maintain them. If you have ever found yourself having to update your tests every time the behavior of a dependency of the class under test has changed, then this talk is for you.\n\nThis talk is to share with you some patterns, tools and examples that can guide us to write more maintainable tests.",
+      "speakers": [ "segunfamisa" ],
+      "tags": [ ]
+    },
+    "fatigue": {
+      "language": "English",
+      "title": "What Can We Learn With JavaScript Fatigue?",
+      "description": "By the time I’m writing this abstract NPM has 568,191 packages. Tomorrow an average of 447 new ones will be published. In this talk, I will not complain about it. Instead, we will study this phenomenon in depth and see what can we learn from JS Fatigue and how to deal with it without headaches.",
+      "speakers": [ "thewizardlucas" ],
+      "tags": [ ]
+    },
+    "webassembly": {
+      "language": "English",
+      "title": "WebAssembly: Binary in Plain English",
+      "description": "The beauty of the web is that it works anywhere, no download and no installation. It has come a long way from text pages with links, but the only language that you could use to build applications for it was JavaScript - until now.\n\nThink about cases where you need to use software outside of the browser: video games, 3D rendering, music production and more. These things require a high degree of performance and that’s where WebAssembly steps in - a standardized compilation target for native languages. The support rolled out last year in all major browsers, and there are exciting real-world examples already.\n\nThis will be your gentle guide into what is WebAssembly, why we need it and how you can benefit from it in your next project (even if you continue to work with JavaScript only). The future is here now and it looks fast and bright.",
+      "speakers": [ "milicamihajlija" ],
+      "tags": [ ]
+    },
+    "vrmap": {
+      "language": "English",
+      "title": "VR Map: Using OpenStreetMap Data in WebVR",
+      "description": "Do you have to buy proprietary tools as well as data and be an expert programmer to create a virtual world? With a modern browser, Mozilla’s A-Frame library and OpenStreetMap data you don’t: See how Free Software, Open Standards and crowdsourced data let you walk or “fly” through a simple 3D map!",
+      "speakers": [ "robertkaiser" ],
+      "tags": [ ]
+    },
+    "serialweb": {
+      "language": "English",
+      "title": "The Universal Serial Web",
+      "description": "As a web developer it's easy to feel intimidated by the world of hardware hacking and the physical web, we have to leave our comfort zone and need to get familiar with a completely new development environment. But not anymore, thanks to wonderful possibilities that the WebUSB Api brings to our browsers.\n\nIn this talk Sebastian will give an intro to the endless wonders we can encounter in the hardware world through our browser windows. Aside from leaerning the basics of USB and serial port communication, we'll paint on USB displays, live tweet to receipt printers, control an Arduino, steal data from Android phones and many more… The only limit is your imagination.",
+      "speakers": [ "asciidisco" ],
+      "tags": [ ]
+    },
+    "reviewbook": {
+      "language": "English",
+      "title": "Review Code Like a Bestselling Book",
+      "description": "This talk will present a collection of tips for developers to make better use of code reviews. Some ideas are targeted at the individual person, but others need to be implemented for the whole team. The tips are inspired by Sarah's experience as a proofreader and the knowledge she gained during her studies in Book Science, where she was able to learn from professional editors and proofreaders. The talk is short and entertaining, but there's going to be at least one small example for each tip to make it easier to understand and apply them later.",
+      "speakers": [ "sarahkoehler" ],
+      "tags": [ ]
+    },
+    "observabilitykitchen": {
+      "language": "English",
+      "title": "Observability in the Kitchen",
+      "description": "How can you leverage sensors, open-source software, and Go to improve your kitchen skills? This lightning talk explores the relationship between bread-making, humidity, and temperature, and how one can use monitoring tools to gain insight into the lively world of sourdough cultures.",
+      "speakers": [ "1nfoverload" ],
+      "tags": [ ]
+    },
+    "mindfuldesign": {
+      "language": "English",
+      "title": "Mindful Design: Designing With Presence for Purpose and Inclusion",
+      "description": "Mindfulness is a state of being, an approach to life (and to our work, regardless of its genre) that calls for presence and awareness, care and purpose. Living mindfully, designing mindfully, coding mindfully can be extremely rewarding, for us and for the beneficiaries of our work.\n\nWhile the notion of mindfulness has had a resurgence as a buzz word, its profound and most deep meaning goes beyond light meditation and coloring books. The principles of mindfulness can also be applied to all aspects of our work, especially design work (in the broadest sense of the term, not just in the visual/graphic sense). A mindful approach to design intrinsically implies awareness and the necessary presence to design for inclusivity, accessibility, openness, and ethics, to add value to our daily practice, as well as to our final outcomes: a peaceful and prosperous way to make a difference in our life and in the lives of those who share our path.",
+      "speakers": [ "zetaraffix" ],
+      "tags": [ ]
+    },
+    "seventeen": {
+      "language": "English",
+      "title": "Making a Difference: Experiences of a 17-year-old in the Tech Scene",
+      "description": "In this talk, Felix will tell attendees about his background, how he got into programming, and especially how he started contributing to Open Source: from a first Pull Request in the Hacktoberfest to contributing to React, Prettier, and Materialize. Felix will share some of his most inspiring moments in the tech community, but life is not a cinderella story: he will also reveal some of the many challenges he faces because of his age and because he is still going to school.",
+      "speakers": [ "felixwu" ],
+      "tags": [ ]
+    },
+    "interviewfromscratch": {
+      "language": "English",
+      "title": "Interview Process From Scratch",
+      "description": "Interviewing potential candidates is hard. It is even harder if you don’t have a proper interviewing process. And even harder if you are not a manager, but a software engineer. You start by using intuition and whatever you think is best. This approach might work, but it is too chaotic and will eventually fail.\n\nInterviewing more than 200 potential candidates in a 5-month period is a lot. You will hear how interview process evolution was made from nothing to the process that works in terms of speed, scale, and quality.\n\nAnd of course, you will learn some useful tips for resume-building and going to interviews, too!",
+      "speakers": [ "sergeykibish" ],
+      "tags": [ ]
+    },
+    "impostordriven": {
+      "language": "English",
+      "title": "Impostor-Driven Development: Impressive but Completely Wrong",
+      "description": "It’s 4 am. You are sitting in the screen light focused and horrified. Already burned out, but the adrenaline from deadline keeps you in the dark. Only one night left to learn everything the world knows about programming. Your reputation, job and future are at risk. NO ONE SHOULD KNOW YOU ARE A FRAUD.\n\nThe talk is based on personal experience of being a high performer by exploiting impostor syndrome. While it might be sane in the short term, it leads to anxiety and burnout when used for some period of time. How about using it during 3 years in a corporate culture that doesn’t tolerate failure and open feedback? What if your manager knows how to benefit from your weakness?",
+      "speakers": [ "svetlanasharipova" ],
+      "tags": [ ]
+    },
+    "codeislaw": {
+      "language": "English",
+      "title": "If Code is Law, Who's in Charge of Ethics?",
+      "description": "The industrial revolution was a massive movement for research and intellectual progress. Our society is going to its future at lightning speed, sometimes without taking time to think to this future itself. Question isn’t to know if we can get this or that technology available to the masses, but when. In the meantime, the free market pushes our economy to massive consumption of those technologies.\n\nIn 1989, the RFC 1087 was the first to mention digital ethics. 30 years later, what did we do to take care of it? As developers, designers, product managers, UX, etc., we have to protect our users from the free market overflows. That means prevent privacy leaks when users aren’t aware of the power of our apps.",
+      "speakers": [ "m4d_z" ],
+      "tags": [ ]
+    },
+    "hautecodeture": {
+      "language": "English",
+      "title": "Haute Codeture: Clothing as a Canvas",
+      "description": "What if, instead going for practicality, we used IoT to create fleeting moments of interaction and beauty? What would happen if others could interact with your clothing via a web app? Stephanie was curious to answer these questions when she tackled her latest hardware project. She’ll share her story of building interactive fashion, the obstacles she's faced as an IoT newbie, and the solutions she's found to overcome them.",
+      "speakers": [ "stephaniecodes" ],
+      "tags": [ ]
+    },
+    "gamingthesystem": {
+      "language": "English",
+      "title": "Gaming the System: Why Messing With Algorithms is Such a Human Hobby",
+      "description": "There’s a lot of talk regarding algorithms and how they impact the way we perceive the world. One of the hot topics lately is the fake news and their impact on the American election. Let’s take a look at the other side of things: how some of us actually mess with algorithms for fun or for profit. If you ever wanted to see the human outcomes of some of the math you deal with in your everyday work, this is the talk for you.",
+      "speakers": [ ],
+      "tags": [ ]
+    },
+    "bluetooth": {
+      "language": "English",
+      "title": "Fun with Bluetooth",
+      "description": "Time for JavaScript to get physical. With WebBluetooth the browser can actually take control of all kinds of physical devices in the real world like lightbulbs, robots and even drones. And nowadays you can even run JavaScript straight on microcontrollers and even little Bluetooth beacons. This talk will teach you the basics that you need to get started and give a peek at some more advanced topics like building your own Bluetooth devices using just JavaScript.",
+      "speakers": [ "html5test" ],
+      "tags": [ ]
+    },
+    "loveoftech": {
+      "language": "English",
+      "title": "For the Love of... Tech!",
+      "description": "Hawra is leading a team of female techies stuck in a male-dominant culture, breaking barriers and helping others do the same, and the only connection between them is broken internet and broken Arabic. Her story illustrates exactly this, and how challenges were overcome… for the love of tech.\n\nThis is the story of how a group of women, in a small city, with no opportunity to travel or see people of other cultures and abilities, combined their love for tech, to break the social and cultural barriers that surround them, and created events to share their passion with other women and teach them to aim high and not allow anything to stop them from achieving their dreams.",
+      "speakers": [ "hawramilani" ],
+      "tags": [ ]
+    },
+    "flutter40": {
+      "language": "English",
+      "title": "Flutter in 40 Minutes",
+      "description": "Jump on board for a whirlwind tour of Flutter, Google’s newest open source mobile app SDK. Explore how to build apps quickly and efficiently using the Dart programming language and check out a live coding session in Flutter. Let’s see how far we can get building out an app!\n\nWhile we’ll be looking at what makes Flutter tick, this talk will be light on theory and heavy on practice so we can explore Flutter in action. We’re going to dive in to some real Flutter code and build an app because, just like the Matrix, you have to see it for yourself!",
+      "speakers": [ "myriamjessier" ],
+      "tags": [ ]
+    },
+    "everybodyneedssomebody": {
+      "language": "English",
+      "title": "Everybody Needs Somebody",
+      "description": "This talk is about how to support people like me: the palm-sweaty, moms-spaghetti scaredy cats that wish they had the courage to meet new people at conferences. Nobody should miss this opportunity. Let’s make tech events more approachable and create good experience for everyone.\n\nEver visit a tech event on your own and tried to blend in with the wall, sweaty hands wrapped tightly around your cell phone, internal debating if you just should take a run for the door? Simultaneously hoping to meet new people and dreading someone could talk to you. Ever followed a conference through twitter hashtags, feeling sad, frustrated and angry at yourself that your were too scared to go?\n\nThat’s presumably around 13% of the people you know. People who describe themselves as shy, introverted or socially awkward. You can sum it up with one word: Social anxiety. Broadly speaking that’s the fear of social situations that involve interaction with other people.\n\nIn this talk Mirjam wants to share with you how she tries to be a solution to her own problem. Her project Conference Buddy wants to provide a platform to find companions for tech conferences. Mirjam wants to show you how we can support others to face their fears and give them opportunities to come into company, come to this intimidating, big tech conferences and make successful experiences with this awesome community. Let’s make tech events more approachable - one buddy at a time.",
+      "speakers": [ "mirjam_diala" ],
+      "tags": [ ]
+    },
+    "developersempathy": {
+      "language": "English",
+      "title": "Developers + Empathy for Users = Win-Win",
+      "description": "“Ugh, I can’t believe how developers agreed to implement this design. User experience trumps technology.” Wouldn’t it be a win-win if developers care about users as much as designers are held responsible for? This talk is to highlight why it matters, adjusting expectations and areas to focus.\n\nWahib will share his learnings after several years as an Android Dev in product and consulting companies. Highlighting how this mindset of “I’m just a developer” can be toxic and realising that the whole team has (or should have) a common goal of building something that truly delights and adds value to the user. Why developers fail to develop empathy for their users? How “Be proactive, not reactive” approach goes a long way and has the solution to many problems. Close collaboration between Designers and Developers is so underrated and how can it can do wonders for the product.",
+      "speakers": [ "wahibulhaq" ],
+      "tags": [ ]
+    },
+    "consolelog": {
+      "language": "English",
+      "title": "console.log(brain)",
+      "description": "What is the ultimate hack of our lives? What is the one thing that we strive to learn the most about? What is the thing that will truly unlock our potentials? What if you could log your brain to the developer console, typing with your brain signals?\n\nThis talk is a demonstration of an open-source Brain-Computer Interface that is completely developed with JavaScript, from the ground up, using neural networks and signal processing. Armagan hits the stage with a wireless EEG headset, shows how to read signals from the brain in JavaScript using native C++ Node.js modules over USB, and the implementation in Electron, Node.js and Vue.js.",
+      "speakers": [ "dashersw" ],
+      "tags": [ ]
+    },
+    "codeschools": {
+      "language": "English",
+      "title": "Considering Code Schools: Diversity, Hiring, and What we Might do Differently",
+      "description": "Diversity and Inclusion are more than buzzwords - they are part of a greater call-to-action that involves radically re-interpreting the way we train, educate, recruit, hire, and staff teams. We all know that studies show diverse teams and companies are more productive, have less inbuilt bias, and report higher profit margins.\n\nTech education has a key role to play in this re-envisioning of our field. Many opportunities are missed to hire in a diverse way because of institutional bias. A lack of standards is often cited, somewhat defensively, as a reason to not hire school candidates. On the other hand, high-quality graduates fire back that they represent the very diversity tech so desperately needs, but no one is giving them a chance.\n\nCode schools and the tech industry lack perspective on each other. But it doesn’t have to be this way.\n\nA former code school teacher and faculty lead for 3 years, Perry is on a mission to make tech more accessible and inclusive. If you are an engineer, hiring manager, community manager, advocate, or student, he invites you into an exploration of the present and future of tech/ed, the obstacles we face, and what we might change. Together, we’ll explore practical ways everyone, regardless of role, can help build a more diverse, accessible pipeline. You will walk away from this talk ready and equipped to help make a difference - by making tech & tech ed more accessible, more relevant, and more diverse!",
+      "speakers": [ "perrysetgo" ],
+      "tags": [ ]
+    },
+    "livecoding": {
+      "language": "English",
+      "title": "Building a Mentoring Community Through Live Coding",
+      "description": "Have you ever wanted to be able to work with a team of developers, sharing your knowledge and learning from those with more experience? Learn about creating a diverse, widespread, encouraging, and productive community through Live Coding!\n\nSince Jesse began live coding in May of 2017, an amazing community of developers of all ages, locations, and skill levels has grown around the live streams. They share ideas, teach and support each other while working on real projects together. Jesse will share his experience and offer some advice on how to create a respectful online environment where everyone is encouraged to ask questions and contribute, and negativity is nearly non-existent.",
+      "speakers": [ "jesserweigel" ],
+      "tags": [ ]
+    },
+    "designdevelopment": {
+      "language": "English",
+      "title": "Bridging the Gap Between Design and Development",
+      "description": "Working in interdisciplinary teams is no longer a rarity. In this talk we will cover different ways how design & development can be integrated in product teams, learn from best practices & failures, and see how the role of a UX Engineer helps to bridge the gap between design and development.\n\nUnicorns can’t solve all needs, and they are also quite hard to find. This is where UX Designers and UX Engineers come into play. Don’t miss this talk, as we will learn from concrete do’s and don’ts of how devs and designers can improve their collaboration.",
+      "speakers": [ "lukasziegler" ],
+      "tags": [ ]
+    },
+    "brainchemicals": {
+      "language": "English",
+      "title": "Balancing the Right Brain Chemicals in Your Yeam",
+      "description": "Each one of us flaunts a unique brain wiring. On average, 25% of us are not precisely neurotypical. But what we see as a challenge, can sometimes be our strongest asset. Social anxiety, depression, ADHD, and other non-neurotypical personalities come with unique ways of behaving, responding, and reacting. \n\nIn his experience as a team lead, mentor, and friend, Enrico had the fantastic opportunity to work with different personalities and personalities disorders. As many other team leaders thrown into the profession, through mistakes and errors, he learned how not to push people towards a behavioral culture, but rather to set up the environment around them to be working with all our chemical divergences.\n\nIteration after iteration, when you achieve a balance, magic happens.",
+      "speakers": [ "enricofoschi" ],
+      "tags": [ ]
+    },
+    "quickstartmanagement": {
+      "language": "English",
+      "title": "A Quick Start Guide to Management",
+      "description": "Moving from an individual contributor role in technology to managing people or whole teams requires a shift in priorities and new set of skills that we are often poorly prepared for. This talk will look at the core skills a new manager in developer relations will need and look at duties their new role will likely involve. 40 minutes can’t equip you with everything you’ll need to be a great manager, so we’ll be focusing on what you’ll need to know for the first days and weeks as a manager and signpost where you can learn more. Managing people can be an incredibly rewarding, once you’re prepared. Let’s get ready together.",
+      "speakers": [ "jessicarose" ],
+      "tags": [ ]
+    }
+  },
   "speakers": {
     "mxsash" : {
       "name" : "Sasha Romijn",
@@ -311,6 +494,52 @@
         "link" : "https://twitter.com/asciidisco",
         "name" : "Twitter"
       } ]
+    },
+    "myriamjessier" : {
+      "name" : "Myriam Jessier",
+      "country" : "Canada",
+      "featured" : true,
+      "company" : "",
+      "title" : "Digital Strategist & Technical Marketer",
+      "photoUrl" : "/images/people/speakers/myriam-jessier.jpg",
+      "shortBio" : "Myriam enjoys long romantic walks to the fridge along with her mini wiener dog.",
+      "bio" : "Myriam enjoys long romantic walks to the fridge along with her mini wiener dog. She’s done web things with large international brands, startups and your local Canadian high altitude tree cutter. She specializes in SEO, Digital Analytics and being the one person with the strangest anecdotes. If Myriam was a museum piece - she’d be a T-rex fossil, a book: Aloha from hell, a condiment: wasabi mayonnaise. What Myriam is: a technical marketer with arcane JS knowledge",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/myriamjesser",
+        "name" : "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://www.myriamjessier.com/skills/",
+        "name": "Website"
+      }]
+    },
+    "robertkaiser" : {
+      "name" : "Robert Kaiser",
+      "country" : "Austria",
+      "featured" : false,
+      "company" : "KaiRo.at",
+      "title" : "",
+      "photoUrl" : "",
+      "shortBio" : "Robert Kaiser (“KaiRo”) is a Mozilla Tech Speaker, OpenStreetMap contributor, and freelance Web/Linux expert.",
+      "bio" : "Robert Kaiser (“KaiRo”) is a Mozilla Tech Speaker, OpenStreetMap contributor, and freelance Web/Linux expert. Close to 20 years in the Mozilla community have given him a lot of insight into the Web’s technologies and history. He likes to try out alternative solutions that increase user freedom and privacy, and take a peek into new technology. On/under his desk, at least 5 devices with a Linux kernel run on a normal day and communicate with other Linux systems he’s administrating. KaiRo is a burning supporter of Mozilla’s Mission and Manifesto as well as Star Trek’s vision of a diverse society in a positive future. For taking a break from technology, he likes to go for singing karaoke and writing his own songs.",
+      "socials" : [{
+        "icon" : "website",
+        "link" : "https://home.kairo.at/blog/",
+        "name" : "Website"
+      }]
+    },
+    "sarahkoehler" : {
+      "name" : "Sarah Köhler",
+      "country" : "Germany",
+      "featured" : false,
+      "company" : "",
+      "title" : "",
+      "photoUrl" : "",
+      "shortBio" : "Book Lover turned developer, likes to share knowledge which is mostly javascript and react related.",
+      "bio" : "Book Lover turned developer, likes to share knowledge which is mostly javascript and react related.",
+      "socials" : []
     },
     "thewizardlucas" : {
       "name" : "Lucas Fernandes da Costa",
@@ -650,6 +879,41 @@
         "link" : "https://twitter.com/1nfoverload",
         "name" : "Twitter"
       } ]
+    },
+    "svetlanasharipova" : {
+      "name" : "Svetlana Sharipova",
+      "country" : "Russia",
+      "featured" : false,
+      "company" : "",
+      "title" : "",
+      "photoUrl" : "",
+      "shortBio" : "I am self-taught passionate frontend developer.",
+      "bio" : "I am self-taught passionate frontend developer.",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/helloDeadline",
+        "name" : "Twitter"
+      }]
+    },
+    "wahibulhaq" : {
+      "name" : "Wahib Ul Haq",
+      "country" : "KI Labs // Germany",
+      "featured" : false,
+      "company" : "KI Labs",
+      "title" : "Android Developer",
+      "photoUrl" : "",
+      "shortBio" : "Android Developer at KI Labs, Lazy Storyteller. 🇵🇰 expat in 🇩🇪. ",
+      "bio" : "Android Developer and other stuff at KI labs. Takes keen interest in more than just the coding side of an app. Got a thing for Product, Engineering, People & Sarcasm. Lazy Storyteller. 🇵🇰 expat in 🇩🇪.",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/wahibhaq",
+        "name" : "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "http://wahibhaq.com",
+        "name": "Website"
+      }]
     }
   },
   "team": [
