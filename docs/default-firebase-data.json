@@ -587,12 +587,12 @@
     "lukasziegler" : {
       "name" : "Lukas Ziegler",
       "country" : "Red Bull Media House // Austria",
-      "featured" : false,
+      "featured" : true,
 
       "company" : "Red Bull Media House",
       "title" : "UX Engineer",
 
-      "photoUrl" : "",
+      "photoUrl" : "/images/people/speakers/lukasziegler.jpg",
 
       "shortBio" : "Half techie, half visual thinker. Lukas feels most comfortable at the intersection of design and development.",
       "bio" : "Half techie, half visual thinker. Lukas feels most comfortable at the intersection of design and development. Having studied at both TU Munich and LMU Munich, he's got to see the best of “both worlds” already during his studies. Following this approach, he's worked as a software engineer at Red Bull Media House for a few years and is now working in their UX Design Team, where he again have got the opportunity to combine the best of both worlds. What motivates Lukas is the vision to develop new and meaningful products, to work in teams that outgrow their own capabilities, and to work on meaningful products that actually solve users’ needs.",
@@ -650,6 +650,29 @@
         "link" : "https://twitter.com/1nfoverload",
         "name" : "Twitter"
       } ]
+    }, 
+    "myriamjessier" : {
+      "name" : "Myriam Jessier",
+      "country" : "Canada",
+      "featured" : true,
+
+      "company" : "Myriam enjoys long romantic walks to the fridge along with her mini wiener dog.",
+      "title" : "Digital Strategist & Technical Marketer",
+
+      "photoUrl" : "/images/people/speakers/myriam-jessier.jpg",
+
+      "shortBio" : "Myriam enjoys long romantic walks to the fridge along with her mini wiener dog.",
+      "bio" : "Myriam enjoys long romantic walks to the fridge along with her mini wiener dog. She’s done web things with large international brands, startups and your local Canadian high altitude tree cutter. She specializes in SEO, Digital Analytics and being the one person with the strangest anecdotes. If Myriam was a museum piece - she’d be a T-rex fossil, a book: Aloha from hell, a condiment: wasabi mayonnaise. What Myriam is: a technical marketer with arcane JS knowledge",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/myriamjesser",
+        "name" : "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://www.myriamjessier.com/skills/",
+        "name": "Website"
+      }]
     }
   },
   "team": [
