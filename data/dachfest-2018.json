@@ -447,6 +447,25 @@
         "name" : "Twitter"
       } ]
     },
+    "enricofoschi": {
+      "name": "Enrico Foschi",
+      "country": "ZAGENO // Germany",
+      "featured": true,
+
+      "company": "ZAGENO",
+      "title": "VP of Technology",
+
+      "photoUrl": "/images/people/speakers/enricofoschi.jpg",
+
+      "shortBio": "Enrico is a hands-on tech lead with more than 13 years experience in growing teams with a focus on startups.",
+      "bio": "Enrico is a hands-on tech lead with more than 13 years experience in growing teams in small and large environments, with a focus on startups and fast-growing businesses. In his last and present job, he built, leads and mentors a fantastic tech team at ZAGENO, a biotech marketplace located in Boston (MA) and Berlin (Germany). When he isn’t driving ZAGENO’s tech, Enrico spends time playing the piano, kayaking in the Brandenburg region or, with his wife, tasting and testing the many restaurants and bars in Berlin.",
+
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/enricofoschi",
+        "name" : "Twitter"
+      } ]
+    },
     "segunfamisa" : {
       "name" : "Segun Famisa",
       "country" : "Trivago // Germany",
@@ -516,6 +535,30 @@
         "link" : "https://twitter.com/c_portillo_",
         "name" : "Twitter"
       } ]
+    },
+    "milicamihajlija" : {
+      "name" : "Milica Mihajlija",
+      "country" : "Serbia",
+      "featured" : true,
+
+      "company" : "",
+      "title" : "Web Developer",
+
+      "photoUrl" : "/images/people/speakers/milica.jpg",
+
+      "shortBio" : "",
+      "bio" : "Milica is a web developer from Belgrade in love with all things internet. She got interested in how browsers work while interning at Mozilla on Servo engine and is currently working with Chrome team on educating developers about performance optimizations and best practices. When she’s not nerding out, she’s doing yoga, practicing pirouettes or engineering sandwiches.",
+      "socials" : [
+      {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/bibydigital",
+        "name" : "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://mihajlija.github.io/",
+        "name": "Website"
+      }]
     },
     "alexandregerasimov" : {
       "name" : "Alexander Gerasimov",
@@ -607,7 +650,7 @@
         "link" : "https://twitter.com/1nfoverload",
         "name" : "Twitter"
       } ]
-    },
+    }
   },
   "team": [
     {
