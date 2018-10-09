@@ -887,8 +887,8 @@
       "company" : "",
       "title" : "",
       "photoUrl" : "",
-      "shortBio" : "I am self-taught passionate frontend developer.",
-      "bio" : "I am self-taught passionate frontend developer.",
+      "shortBio" : "Self-taught passionate frontend developer.",
+      "bio" : "Self-taught passionate frontend developer.",
       "socials" : [{
         "icon" : "twitter",
         "link" : "https://twitter.com/helloDeadline",
