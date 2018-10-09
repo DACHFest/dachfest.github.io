@@ -498,7 +498,7 @@
     "myriamjessier" : {
       "name" : "Myriam Jessier",
       "country" : "Canada",
-      "featured" : true,
+      "featured" : false,
       "company" : "",
       "title" : "Digital Strategist & Technical Marketer",
       "photoUrl" : "/images/people/speakers/myriam-jessier.jpg",
@@ -517,7 +517,7 @@
     },
     "robertkaiser" : {
       "name" : "Robert Kaiser",
-      "country" : "Austria",
+      "country" : "KaiRo.at // Austria",
       "featured" : false,
       "company" : "KaiRo.at",
       "title" : "",
@@ -582,7 +582,7 @@
     "hawramilani" : {
       "name" : "Hawra Milani",
       "country" : "Code2Serve // UK",
-      "featured" : false,
+      "featured" : true,
 
       "company" : "Code2Serve",
       "title" : "Founder",
@@ -768,7 +768,7 @@
     "milicamihajlija" : {
       "name" : "Milica Mihajlija",
       "country" : "Serbia",
-      "featured" : true,
+      "featured" : false,
 
       "company" : "",
       "title" : "Web Developer",
@@ -792,7 +792,7 @@
     "alexandregerasimov" : {
       "name" : "Alexander Gerasimov",
       "country" : "21/23 // Germany",
-      "featured" : true,
+      "featured" : false,
 
       "company" : "21/23",
       "title" : "Front-End Software Engineer",
@@ -816,12 +816,12 @@
     "lukasziegler" : {
       "name" : "Lukas Ziegler",
       "country" : "Red Bull Media House // Austria",
-      "featured" : false,
+      "featured" : true,
 
       "company" : "Red Bull Media House",
       "title" : "UX Engineer",
 
-      "photoUrl" : "",
+      "photoUrl" : "/images/people/speakers/lukasziegler.jpg",
 
       "shortBio" : "Half techie, half visual thinker. Lukas feels most comfortable at the intersection of design and development.",
       "bio" : "Half techie, half visual thinker. Lukas feels most comfortable at the intersection of design and development. Having studied at both TU Munich and LMU Munich, he's got to see the best of “both worlds” already during his studies. Following this approach, he's worked as a software engineer at Red Bull Media House for a few years and is now working in their UX Design Team, where he again have got the opportunity to combine the best of both worlds. What motivates Lukas is the vision to develop new and meaningful products, to work in teams that outgrow their own capabilities, and to work on meaningful products that actually solve users’ needs.",
