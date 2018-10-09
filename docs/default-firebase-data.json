@@ -162,7 +162,7 @@
       "company" : "Microsoft",
       "title" : "Software Engineer",
 
-      "photoUrl" : "/images/people/speakers/stephaniecodes.png",
+      "photoUrl" : "/images/people/speakers/stephaniecodes.jpg",
 
       "shortBio" : "Developer at Microsoft and co-organizer of the Stupid Hackathon Amsterdam.",
       "bio" : "Stephanie is a developer living in Berlin. She works at Microsoft and co-organizes the Stupid Hackathon Amsterdam. She enjoys experimenting with hardware and LEDs to make beautiful, useless things.",
@@ -244,7 +244,7 @@
       "company" : "unu",
       "title" : "Head of Software Engineering",
 
-      "photoUrl" : "/images/people/speakers/dashersw.png",
+      "photoUrl" : "/images/people/speakers/dashersw.jpg",
 
       "shortBio" : "Head of Software Engineering at unu GmbH, building the infrastructure for the future of mobility.",
       "bio" : "Armagan is the Head of Software Engineering at <a href='https://unumotors.com/' target='_blank' rel='noopener noreferrer'>unu GmbH</a>, and is currently working on building the infrastructure for the future of mobility.<br/><br/>A software architect well versed in both the backend and frontend systems, he focuses on building resilient clouds. He loves open source and is the author of <a href='https://github.com/dashersw/cote' target='_blank' rel='noopener noreferrer'>cote</a>, a library for building microservices with Node.js, among <a href='https://github.com/dashersw' target='_blank' rel='noopener noreferrer'>many others</a>. In his free time, he loves to hack stuff with JavaScript, ranging from musical gadgets to brain signals processing.<br/><br/>Armagan is a <a href='https://arm.ag/talks' target='_blank' rel='noopener noreferrer'>public speaker</a>, a mentor and a lecturer. He also leads <a href='https://lonca.works' target='_blank' rel='noopener noreferrer'>Lonca</a>, a software craftsmanship school for women engineers, and teaches JavaScript at <a href='http://wtmberlin.com/javascript-crash-course/' target='_blank' rel='noopener noreferrer'>Women Techmakers Berlin</a>.",
@@ -568,7 +568,7 @@
       "company" : "21/23",
       "title" : "Front-End Software Engineer",
 
-      "photoUrl" : "/images/people/speakers/alex.png",
+      "photoUrl" : "/images/people/speakers/alex.jpg",
 
       "shortBio" : "Alex builds crazy over-engineered stuff, teaches JavaScript or Haskell, and gamifies tech education with his friends at 21/23.",
       "bio" : "Alex is a front-end engineer in the office hours and a functional programming aficionado in his spare time. In in attempt to balance his job, community work, building crazy over-engineered stuff, teaching JavaScript or Haskell and gamifying tech education with his friends at 21/23 Alex does his best to stay sane. Admires passionate people, always happy to share ideas, loves learning languages, has mixed feelings about One Direction.",
@@ -587,12 +587,12 @@
     "lukasziegler" : {
       "name" : "Lukas Ziegler",
       "country" : "Red Bull Media House // Austria",
-      "featured" : true,
+      "featured" : false,
 
       "company" : "Red Bull Media House",
       "title" : "UX Engineer",
 
-      "photoUrl" : "/images/people/speakers/lukasziegler.jpg",
+      "photoUrl" : "",
 
       "shortBio" : "Half techie, half visual thinker. Lukas feels most comfortable at the intersection of design and development.",
       "bio" : "Half techie, half visual thinker. Lukas feels most comfortable at the intersection of design and development. Having studied at both TU Munich and LMU Munich, he's got to see the best of “both worlds” already during his studies. Following this approach, he's worked as a software engineer at Red Bull Media House for a few years and is now working in their UX Design Team, where he again have got the opportunity to combine the best of both worlds. What motivates Lukas is the vision to develop new and meaningful products, to work in teams that outgrow their own capabilities, and to work on meaningful products that actually solve users’ needs.",
@@ -650,102 +650,6 @@
         "link" : "https://twitter.com/1nfoverload",
         "name" : "Twitter"
       } ]
-    }, 
-    "myriamjessier" : {
-      "name" : "Myriam Jessier",
-      "country" : "Canada",
-      "featured" : true,
-
-      "company" : "",
-      "title" : "Digital Strategist & Technical Marketer",
-
-      "photoUrl" : "/images/people/speakers/myriam-jessier.jpg",
-
-      "shortBio" : "Myriam enjoys long romantic walks to the fridge along with her mini wiener dog.",
-      "bio" : "Myriam enjoys long romantic walks to the fridge along with her mini wiener dog. She’s done web things with large international brands, startups and your local Canadian high altitude tree cutter. She specializes in SEO, Digital Analytics and being the one person with the strangest anecdotes. If Myriam was a museum piece - she’d be a T-rex fossil, a book: Aloha from hell, a condiment: wasabi mayonnaise. What Myriam is: a technical marketer with arcane JS knowledge",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/myriamjesser",
-        "name" : "Twitter"
-      },
-      {
-        "icon": "website",
-        "link": "https://www.myriamjessier.com/skills/",
-        "name": "Website"
-      }]
-    },
-    "robertkaiser" : {
-      "name" : "Robert Kaiser",
-      "country" : "Austria",
-      "featured" : false,
-
-      "company" : "KaiRo.at",
-      "title" : "",
-
-      "photoUrl" : "",
-
-      "shortBio" : "Robert Kaiser (“KaiRo”) is a Mozilla Tech Speaker, OpenStreetMap contributor, and freelance Web/Linux expert.",
-      "bio" : "Robert Kaiser (“KaiRo”) is a Mozilla Tech Speaker, OpenStreetMap contributor, and freelance Web/Linux expert. Close to 20 years in the Mozilla community have given him a lot of insight into the Web’s technologies and history. He likes to try out alternative solutions that increase user freedom and privacy, and take a peek into new technology. On/under his desk, at least 5 devices with a Linux kernel run on a normal day and communicate with other Linux systems he’s administrating. KaiRo is a burning supporter of Mozilla’s Mission and Manifesto as well as Star Trek’s vision of a diverse society in a positive future. For taking a break from technology, he likes to go for singing karaoke and writing his own songs.",
-      "socials" : [{
-        "icon" : "website",
-        "link" : "https://home.kairo.at/blog/",
-        "name" : "Website"
-      }]
-    },
-    "sarahkoehler" : {
-      "name" : "Sarah Köhler",
-      "country" : "Germany",
-      "featured" : false,
-
-      "company" : "",
-      "title" : "",
-
-      "photoUrl" : "",
-
-      "shortBio" : "Book Lover turned developer, likes to share knowledge which is mostly javascript and react related.",
-      "bio" : "Book Lover turned developer, likes to share knowledge which is mostly javascript and react related.",
-      "socials" : []
-    },
-    "svetlanasharipova" : {
-      "name" : "Svetlana Sharipova",
-      "country" : "Russia",
-      "featured" : false,
-
-      "company" : "",
-      "title" : "",
-
-      "photoUrl" : "",
-
-      "shortBio" : "I am self-taught passionate frontend developer.",
-      "bio" : "I am self-taught passionate frontend developer.",
-      "socials" : [{
-        "icon" : "twitter",
-        "link" : "https://twitter.com/helloDeadline",
-        "name" : "Twitter"
-      }]
-    },
-    "wahibulhaq" : {
-      "name" : "Wahib Ul Haq",
-      "country" : "KI Labs // Germany",
-      "featured" : false,
-
-      "company" : "KI Labs",
-      "title" : "Android Developer",
-
-      "photoUrl" : "",
-
-      "shortBio" : "Android Developer at KI Labs, Lazy Storyteller. 🇵🇰 expat in 🇩🇪. ",
-      "bio" : "Android Developer and other stuff at KI labs. Takes keen interest in more than just the coding side of an app. Got a thing for Product, Engineering, People & Sarcasm. Lazy Storyteller. 🇵🇰 expat in 🇩🇪.",
-      "socials" : [{
-        "icon" : "twitter",
-        "link" : "https://twitter.com/wahibhaq",
-        "name" : "Twitter"
-      },       
-      {
-        "icon": "website",
-        "link": "http://wahibhaq.com",
-        "name": "Website"
-      }]
     }
   },
   "team": [

@@ -162,7 +162,7 @@
       "company" : "Microsoft",
       "title" : "Software Engineer",
 
-      "photoUrl" : "/images/people/speakers/stephaniecodes.png",
+      "photoUrl" : "/images/people/speakers/stephaniecodes.jpg",
 
       "shortBio" : "Developer at Microsoft and co-organizer of the Stupid Hackathon Amsterdam.",
       "bio" : "Stephanie is a developer living in Berlin. She works at Microsoft and co-organizes the Stupid Hackathon Amsterdam. She enjoys experimenting with hardware and LEDs to make beautiful, useless things.",
@@ -244,7 +244,7 @@
       "company" : "unu",
       "title" : "Head of Software Engineering",
 
-      "photoUrl" : "/images/people/speakers/dashersw.png",
+      "photoUrl" : "/images/people/speakers/dashersw.jpg",
 
       "shortBio" : "Head of Software Engineering at unu GmbH, building the infrastructure for the future of mobility.",
       "bio" : "Armagan is the Head of Software Engineering at <a href='https://unumotors.com/' target='_blank' rel='noopener noreferrer'>unu GmbH</a>, and is currently working on building the infrastructure for the future of mobility.<br/><br/>A software architect well versed in both the backend and frontend systems, he focuses on building resilient clouds. He loves open source and is the author of <a href='https://github.com/dashersw/cote' target='_blank' rel='noopener noreferrer'>cote</a>, a library for building microservices with Node.js, among <a href='https://github.com/dashersw' target='_blank' rel='noopener noreferrer'>many others</a>. In his free time, he loves to hack stuff with JavaScript, ranging from musical gadgets to brain signals processing.<br/><br/>Armagan is a <a href='https://arm.ag/talks' target='_blank' rel='noopener noreferrer'>public speaker</a>, a mentor and a lecturer. He also leads <a href='https://lonca.works' target='_blank' rel='noopener noreferrer'>Lonca</a>, a software craftsmanship school for women engineers, and teaches JavaScript at <a href='http://wtmberlin.com/javascript-crash-course/' target='_blank' rel='noopener noreferrer'>Women Techmakers Berlin</a>.",
@@ -568,7 +568,7 @@
       "company" : "21/23",
       "title" : "Front-End Software Engineer",
 
-      "photoUrl" : "/images/people/speakers/alex.png",
+      "photoUrl" : "/images/people/speakers/alex.jpg",
 
       "shortBio" : "Alex builds crazy over-engineered stuff, teaches JavaScript or Haskell, and gamifies tech education with his friends at 21/23.",
       "bio" : "Alex is a front-end engineer in the office hours and a functional programming aficionado in his spare time. In in attempt to balance his job, community work, building crazy over-engineered stuff, teaching JavaScript or Haskell and gamifying tech education with his friends at 21/23 Alex does his best to stay sane. Admires passionate people, always happy to share ideas, loves learning languages, has mixed feelings about One Direction.",
