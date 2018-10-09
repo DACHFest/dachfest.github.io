@@ -96,7 +96,7 @@
       "language": "English",
       "title": "VR Map: Using OpenStreetMap Data in WebVR",
       "description": "Do you have to buy proprietary tools as well as data and be an expert programmer to create a virtual world? With a modern browser, Mozilla’s A-Frame library and OpenStreetMap data you don’t: See how Free Software, Open Standards and crowdsourced data let you walk or “fly” through a simple 3D map!",
-      "speakers": [ ],
+      "speakers": [ "robertkaiser" ],
       "tags": [ ]
     },
     "serialweb": {
@@ -110,7 +110,7 @@
       "language": "English",
       "title": "Review Code Like a Bestselling Book",
       "description": "This talk will present a collection of tips for developers to make better use of code reviews. Some ideas are targeted at the individual person, but others need to be implemented for the whole team. The tips are inspired by Sarah's experience as a proofreader and the knowledge she gained during her studies in Book Science, where she was able to learn from professional editors and proofreaders. The talk is short and entertaining, but there's going to be at least one small example for each tip to make it easier to understand and apply them later.",
-      "speakers": [ ],
+      "speakers": [ "sarahkoehler" ],
       "tags": [ ]
     },
     "observabilitykitchen": {
@@ -145,7 +145,7 @@
       "language": "English",
       "title": "Impostor-Driven Development: Impressive but Completely Wrong",
       "description": "It’s 4 am. You are sitting in the screen light focused and horrified. Already burned out, but the adrenaline from deadline keeps you in the dark. Only one night left to learn everything the world knows about programming. Your reputation, job and future are at risk. NO ONE SHOULD KNOW YOU ARE A FRAUD.\n\nThe talk is based on personal experience of being a high performer by exploiting impostor syndrome. While it might be sane in the short term, it leads to anxiety and burnout when used for some period of time. How about using it during 3 years in a corporate culture that doesn’t tolerate failure and open feedback? What if your manager knows how to benefit from your weakness?",
-      "speakers": [ ],
+      "speakers": [ "svetlanasharipova" ],
       "tags": [ ]
     },
     "codeislaw": {
@@ -187,7 +187,7 @@
       "language": "English",
       "title": "Flutter in 40 Minutes",
       "description": "Jump on board for a whirlwind tour of Flutter, Google’s newest open source mobile app SDK. Explore how to build apps quickly and efficiently using the Dart programming language and check out a live coding session in Flutter. Let’s see how far we can get building out an app!\n\nWhile we’ll be looking at what makes Flutter tick, this talk will be light on theory and heavy on practice so we can explore Flutter in action. We’re going to dive in to some real Flutter code and build an app because, just like the Matrix, you have to see it for yourself!",
-      "speakers": [ ],
+      "speakers": [ "myriamjessier" ],
       "tags": [ ]
     },
     "everybodyneedssomebody": {
@@ -201,7 +201,7 @@
       "language": "English",
       "title": "Developers + Empathy for Users = Win-Win",
       "description": "“Ugh, I can’t believe how developers agreed to implement this design. User experience trumps technology.” Wouldn’t it be a win-win if developers care about users as much as designers are held responsible for? This talk is to highlight why it matters, adjusting expectations and areas to focus.\n\nWahib will share his learnings after several years as an Android Dev in product and consulting companies. Highlighting how this mindset of “I’m just a developer” can be toxic and realising that the whole team has (or should have) a common goal of building something that truly delights and adds value to the user. Why developers fail to develop empathy for their users? How “Be proactive, not reactive” approach goes a long way and has the solution to many problems. Close collaboration between Designers and Developers is so underrated and how can it can do wonders for the product.",
-      "speakers": [ ],
+      "speakers": [ "wahibulhaq" ],
       "tags": [ ]
     },
     "consolelog": {
@@ -451,6 +451,52 @@
         "name" : "Twitter"
       } ]
     },
+    "myriamjessier" : {
+      "name" : "Myriam Jessier",
+      "country" : "Canada",
+      "featured" : true,
+      "company" : "",
+      "title" : "Digital Strategist & Technical Marketer",
+      "photoUrl" : "/images/people/speakers/myriam-jessier.jpg",
+      "shortBio" : "Myriam enjoys long romantic walks to the fridge along with her mini wiener dog.",
+      "bio" : "Myriam enjoys long romantic walks to the fridge along with her mini wiener dog. She’s done web things with large international brands, startups and your local Canadian high altitude tree cutter. She specializes in SEO, Digital Analytics and being the one person with the strangest anecdotes. If Myriam was a museum piece - she’d be a T-rex fossil, a book: Aloha from hell, a condiment: wasabi mayonnaise. What Myriam is: a technical marketer with arcane JS knowledge",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/myriamjesser",
+        "name" : "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://www.myriamjessier.com/skills/",
+        "name": "Website"
+      }]
+    },
+    "robertkaiser" : {
+      "name" : "Robert Kaiser",
+      "country" : "Austria",
+      "featured" : false,
+      "company" : "KaiRo.at",
+      "title" : "",
+      "photoUrl" : "",
+      "shortBio" : "Robert Kaiser (“KaiRo”) is a Mozilla Tech Speaker, OpenStreetMap contributor, and freelance Web/Linux expert.",
+      "bio" : "Robert Kaiser (“KaiRo”) is a Mozilla Tech Speaker, OpenStreetMap contributor, and freelance Web/Linux expert. Close to 20 years in the Mozilla community have given him a lot of insight into the Web’s technologies and history. He likes to try out alternative solutions that increase user freedom and privacy, and take a peek into new technology. On/under his desk, at least 5 devices with a Linux kernel run on a normal day and communicate with other Linux systems he’s administrating. KaiRo is a burning supporter of Mozilla’s Mission and Manifesto as well as Star Trek’s vision of a diverse society in a positive future. For taking a break from technology, he likes to go for singing karaoke and writing his own songs.",
+      "socials" : [{
+        "icon" : "website",
+        "link" : "https://home.kairo.at/blog/",
+        "name" : "Website"
+      }]
+    },
+    "sarahkoehler" : {
+      "name" : "Sarah Köhler",
+      "country" : "Germany",
+      "featured" : false,
+      "company" : "",
+      "title" : "",
+      "photoUrl" : "",
+      "shortBio" : "Book Lover turned developer, likes to share knowledge which is mostly javascript and react related.",
+      "bio" : "Book Lover turned developer, likes to share knowledge which is mostly javascript and react related.",
+      "socials" : []
+    },
     "thewizardlucas" : {
       "name" : "Lucas Fernandes da Costa",
       "country" : "Chai.js // UK",
@@ -575,6 +621,41 @@
         "link" : "https://twitter.com/1nfoverload",
         "name" : "Twitter"
       } ]
+    },
+    "svetlanasharipova" : {
+      "name" : "Svetlana Sharipova",
+      "country" : "Russia",
+      "featured" : false,
+      "company" : "",
+      "title" : "",
+      "photoUrl" : "",
+      "shortBio" : "I am self-taught passionate frontend developer.",
+      "bio" : "I am self-taught passionate frontend developer.",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/helloDeadline",
+        "name" : "Twitter"
+      }]
+    },
+    "wahibulhaq" : {
+      "name" : "Wahib Ul Haq",
+      "country" : "KI Labs // Germany",
+      "featured" : false,
+      "company" : "KI Labs",
+      "title" : "Android Developer",
+      "photoUrl" : "",
+      "shortBio" : "Android Developer at KI Labs, Lazy Storyteller. 🇵🇰 expat in 🇩🇪. ",
+      "bio" : "Android Developer and other stuff at KI labs. Takes keen interest in more than just the coding side of an app. Got a thing for Product, Engineering, People & Sarcasm. Lazy Storyteller. 🇵🇰 expat in 🇩🇪.",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/wahibhaq",
+        "name" : "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "http://wahibhaq.com",
+        "name": "Website"
+      }]
     }
   },
   "team": [
