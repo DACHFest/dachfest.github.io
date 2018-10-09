@@ -498,8 +498,8 @@
     "myriamjessier" : {
       "name" : "Myriam Jessier",
       "country" : "Canada",
-      "featured" : false,
-      "company" : "",
+      "featured" : true,
+      "company" : "Self-employed Octopus",
       "title" : "Digital Strategist & Technical Marketer",
       "photoUrl" : "/images/people/speakers/myriam-jessier.jpg",
       "shortBio" : "Myriam enjoys long romantic walks to the fridge along with her mini wiener dog.",
@@ -768,14 +768,14 @@
     "milicamihajlija" : {
       "name" : "Milica Mihajlija",
       "country" : "Serbia",
-      "featured" : false,
+      "featured" : true,
 
       "company" : "",
       "title" : "Web Developer",
 
       "photoUrl" : "/images/people/speakers/milica.jpg",
 
-      "shortBio" : "",
+      "shortBio" : "Web Developer in love with all things internet and browser related.",
       "bio" : "Milica is a web developer from Belgrade in love with all things internet. She got interested in how browsers work while interning at Mozilla on Servo engine and is currently working with Chrome team on educating developers about performance optimizations and best practices. When she’s not nerding out, she’s doing yoga, practicing pirouettes or engineering sandwiches.",
       "socials" : [
       {
@@ -792,7 +792,7 @@
     "alexandregerasimov" : {
       "name" : "Alexander Gerasimov",
       "country" : "21/23 // Germany",
-      "featured" : false,
+      "featured" : true,
 
       "company" : "21/23",
       "title" : "Front-End Software Engineer",
@@ -883,7 +883,7 @@
     "svetlanasharipova" : {
       "name" : "Svetlana Sharipova",
       "country" : "Russia",
-      "featured" : false,
+      "featured" : true,
       "company" : "Independent",
       "title" : "Frontend developer",
       "photoUrl" : "/images/people/speakers/SvetlanaSharipova.jpg",
