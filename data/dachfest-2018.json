@@ -426,9 +426,7 @@
       "language": "English",
       "title": "Flutter in 40 Minutes",
       "description": "Jump on board for a whirlwind tour of Flutter, Google’s newest open source mobile app SDK. Explore how to build apps quickly and efficiently using the Dart programming language and check out a live coding session in Flutter. Let’s see how far we can get building out an app!\n\nWhile we’ll be looking at what makes Flutter tick, this talk will be light on theory and heavy on practice so we can explore Flutter in action. We’re going to dive in to some real Flutter code and build an app because, just like the Matrix, you have to see it for yourself!",
-      "speakers": [
-        "myriamjessier"
-      ],
+      "speakers": [],
       "tags": []
     },
     "everybodyneedssomebody": {
