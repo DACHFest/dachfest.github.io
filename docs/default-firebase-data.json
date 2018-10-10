@@ -71,9 +71,6 @@
         },
         {
           "title" : "Track Two"
-        },
-        {
-          "title" : "Hands-on"
         }
       ],
       "timeslots": [
@@ -157,9 +154,6 @@
         },
         {
           "title" : "Track Two"
-        },
-        {
-          "title" : "Hands-on"
         }
       ],
       "timeslots": [
@@ -1105,6 +1099,26 @@
         "name": "Website"
       }]
     },
+    "saschawolf" : {
+      "name" : "Sascha Wolf",
+      "country" : "grandcentrix // Germany",
+      "featured" : true,
+      "company" : "grandcentrix",
+      "title" : "Software Engineer",
+      "photoUrl" : "/images/people/speakers/saschawolf.jpg",
+      "shortBio" : "Compassionate problem solver, loving husband, father and avid roleplayer.",
+      "bio" : "Sascha is a 28-year-old Software Developer from Cologne, Germany. He used to do full-stack iOS and web development but today focusses on building scalable, resilient, distributed backend systems at grandcentrix, germany’s leading system integrator for IoT solutions. Communication, compassion, and knowledge-sharing are all important topics for him, and he likes to think about how we can use them to build a better and more productive place to work. In his free-time he is a loving husband, father and avid roleplayer. He reads a lot, loves a good science fiction movie and likes to engage in thought-provoking conversations from game design to system architecture or the meaning of life.",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/ZeekerDev",
+        "name" : "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://stackoverflow.com/users/2274224/sascha-wolf?tab=profile",
+        "name": "Website"
+      }]
+    },
     "alexandergerasimov" : {
       "name" : "Alexander Gerasimov",
       "country" : "21/23 // Germany",
@@ -1230,13 +1244,13 @@
     },
     "henningvonsee": {
       "name" : "Henning von See",
-      "country" : "Germany",
+      "country" : "Google // Germany",
       "featured" : false,
       "company" : "Google",
-      "title" : "Partner Engineeri",
+      "title" : "Partner Engineer",
       "photoUrl" : "",
-      "shortBio" : "BMW - Before joining my current team I worked as a project lead for BMW Connected Drive. Google - Since April I’m a Partner Engineer in the Android Automotive Team here in Munich.",
-      "bio" : "BMW - Before joining my current team I worked as a project lead for BMW Connected Drive. Google - Since April I’m a Partner Engineer in the Android Automotive Team here in Munich.",
+      "shortBio" : "Engineer at the Google's Android Automotive Team in Munich.",
+      "bio" : "Before joining his current team, Henning worked as a project lead for BMW Connected Drive. Since April, he is a Partner Engineer in the Android Automotive Team in Munich.",
       "socials" : []
     },
     "sarahkoehler" : {
@@ -1267,26 +1281,6 @@
       {
         "icon": "website",
         "link": "http://wahibhaq.com",
-        "name": "Website"
-      }]
-    },
-    "saschawolf" : {
-      "name" : "Sascha Wolf",
-      "country" : "grandcentrix // Germany",
-      "featured" : true,
-      "company" : "grandcentrix",
-      "title" : "Software Engineer",
-      "photoUrl" : "/images/people/speakers/saschawolf.jpg",
-      "shortBio" : "Compassionate problem solver, loving husband, father and avid roleplayer.",
-      "bio" : "Sascha is a 28-year-old Software Developer from Cologne, Germany. He used to do full-stack iOS and web development but today focusses on building scalable, resilient, distributed backend systems at grandcentrix, germany’s leading system integrator for IoT solutions. Communication, compassion, and knowledge-sharing are all important topics for him, and he likes to think about how we can use them to build a better and more productive place to work. In his free-time he is a loving husband, father and avid roleplayer. He reads a lot, loves a good science fiction movie and likes to engage in thought-provoking conversations from game design to system architecture or the meaning of life.",
-      "socials" : [{
-        "icon" : "twitter",
-        "link" : "https://twitter.com/ZeekerDev",
-        "name" : "Twitter"
-      },
-      {
-        "icon": "website",
-        "link": "https://stackoverflow.com/users/2274224/sascha-wolf?tab=profile",
         "name": "Website"
       }]
     }
