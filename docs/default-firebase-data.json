@@ -493,6 +493,13 @@
       "description": "In the Tech Industry we value efficiency and productivity. We try to keep our communication concise in an effort to be efficient. But are concise and efficient equivalent when it comes to communication? Or are we forgetting an important variable: humanity?\nOne such strategy is Compassion.\n\nTech is all about writing code, right? It’s about efficient solutions and productive teams. We worship Rockstar Devs, try to be agile and lean, all for the ultimate goal of delivering software faster and better. But are technical solutions all there is to it?\n\nWe will take a critical look at how we communicate in the Tech Industry. We work in teams, collaborate on solutions and gather requirements from the customer. All of which are about communication, about getting information from one head into another head. And of course we try to be as efficient as possible while doing that.\nBy treating communication the same way as we treat tech we ignore a critical variable: humanity. Our colleagues and customers are human, not machines and as such demand different strategies when it comes to the exchange of information.",
       "speakers": [ "saschawolf" ],
       "tags": [ ]
+    },
+    "a11yfriendlydocs": {
+      "language": "English",
+      "title": "A11y-Friendly Documentation ",
+      "description": "Accessibility has been finding its stride in the web development community — and it’s not hard to figure out why. According to the World Health Organization, there are over one billion people globally who need an assistive device. With these statistics, organizations and open source projects alike realize that they could be unintentionally locking these people out of their products. As a result, they adjust their developer workflows. And it often ends there, at the product. Documentation is left out of the conversation.\nIf documentation is meant to serve as a tool for learning and comprehension, then it must be included in those conversations. After all, we want to write docs that are truly for everyone — regardless of the technology they use to read it.\n\nIn this talk, we’ll look at how assistive technology consumes documentation and cover some points to consider when building out your docs. Along the way, we’ll touch on quick regulation wins and inclusive writing practices.",
+      "speakers": [ "carolstran" ],
+      "tags": [ ]
     }
   },
   "speakers": {
