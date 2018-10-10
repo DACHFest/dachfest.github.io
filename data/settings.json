@@ -18,13 +18,6 @@
   "hashtag": "DACHFest",
   "disabledSchedule": false,
   "navigation": [
-  ],
-  "_navigation": [
-    {
-      "route": "home",
-      "permalink": "/",
-      "label": "Home"
-    },
     {
       "route": "speakers",
       "permalink": "/speakers/",
@@ -34,6 +27,13 @@
       "route": "schedule",
       "permalink": "/schedule/",
       "label": "Schedule"
+    }
+  ],
+  "_navigation": [
+    {
+      "route": "home",
+      "permalink": "/",
+      "label": "Home"
     },
     {
       "route": "coc",
