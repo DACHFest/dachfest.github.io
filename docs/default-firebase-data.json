@@ -486,6 +486,13 @@
       "description": "You write performant and clear CSS for your projects. But how well would you do under time pressure? CSS QuickDraw is a realtime multiplayer puzzle game designed to add a spark of interactive entertainment to tech events. Play, cheer, follow the score — CSS selectors have never been more fun!\n\nCSS QuickDraw is a realtime multiplayer puzzle game designed to diversify the format of Web tech events and offer attendees some interactive entertainment. It’s built around a set of CSS selector puzzles, solved by the players in real time over a series of rounds.\n\nPlayers who don’t know the darkest corners of CSS still enjoy participating and learning new things. Experience, while not unimportant, is not crucial to play or to win.\n\nThe game is developed by a not-for-profit collective known as 21/23. Our mission is to explore new forms of teaching and learning and to show just how much fun they can be.",
       "speakers": [ "alexandergerasimov" ],
       "tags": [ ]
+    },
+    "compassionatecoding": {
+      "language": "English",
+      "title": "Compassionate Coding - being humane in tech.",
+      "description": "In the Tech Industry we value efficiency and productivity. We try to keep our communication concise in an effort to be efficient. But are concise and efficient equivalent when it comes to communication? Or are we forgetting an important variable: humanity?\nOne such strategy is Compassion.\n\nTech is all about writing code, right? It’s about efficient solutions and productive teams. We worship Rockstar Devs, try to be agile and lean, all for the ultimate goal of delivering software faster and better. But are technical solutions all there is to it?\n\nWe will take a critical look at how we communicate in the Tech Industry. We work in teams, collaborate on solutions and gather requirements from the customer. All of which are about communication, about getting information from one head into another head. And of course we try to be as efficient as possible while doing that.\nBy treating communication the same way as we treat tech we ignore a critical variable: humanity. Our colleagues and customers are human, not machines and as such demand different strategies when it comes to the exchange of information.",
+      "speakers": [ "saschawolf" ],
+      "tags": [ ]
     }
   },
   "speakers": {
