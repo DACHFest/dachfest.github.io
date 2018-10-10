@@ -500,6 +500,13 @@
       "description": "Accessibility has been finding its stride in the web development community — and it’s not hard to figure out why. According to the World Health Organization, there are over one billion people globally who need an assistive device. With these statistics, organizations and open source projects alike realize that they could be unintentionally locking these people out of their products. As a result, they adjust their developer workflows. And it often ends there, at the product. Documentation is left out of the conversation.\nIf documentation is meant to serve as a tool for learning and comprehension, then it must be included in those conversations. After all, we want to write docs that are truly for everyone — regardless of the technology they use to read it.\n\nIn this talk, we’ll look at how assistive technology consumes documentation and cover some points to consider when building out your docs. Along the way, we’ll touch on quick regulation wins and inclusive writing practices.",
       "speakers": [ "carolstran" ],
       "tags": [ ]
+    },
+    "succeedonmobileweb": {
+      "language": "English",
+      "title": "Succeed on Mobile Web: A/B-test, Design and Change",
+      "description": "More and more companies are adopting agile approach to building user experience on websites based on A/B-testing methodologies. By using analytical tools developers, UX designers, product teams and marketers are trying to understand what users of mobile website need, what problems they face and how to solve them. They put forward hypotheses, test changes on the site and analyze whether it improves from the user point of view or not. This approach is especially important when it come to designing for mobile web: with the small screen size, it becomes much more difficult to put together functionality, brand attributes, promos, partner material, SEO content and to meet user expectations at the same time. Prioritisation here becomes key and this is where different goals of internal departments may not help the user experience.\n\nIn the short term, the way to increase conversions on mobile web is to study best practices and case studies.\n\nIn the long term, adoption of A/B-testing philosophy within the company leads to building the culture of growth and optimization where everyone is ready to discuss hypotheses, plan experiments, clearly interpret results, be prepared to fail, learn and continue testing on the everyday basis. With the development of Internet commerce this approach became relevant not only to IT companies, but also to absolutely all web players.",
+      "speakers": [ "annapotanina" ],
+      "tags": [ ]
     }
   },
   "speakers": {
