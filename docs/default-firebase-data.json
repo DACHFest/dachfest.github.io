@@ -465,6 +465,13 @@
       "description": "This talk explores the distinctive sound spatialisation, immersive audio and sound design features that allow blind and partially sighted audiences to perceive and conduct an accurate interpretation of the optical elements, presented within visually complex audio visual mediums. The talk will also delve into an overview on the current limitations on accessibility for the visually impaired in audio-visual mediums, Universal Design applications, audio description in films/video games and the future of accessibility methods. Correspondingly, the results collected from fifteen experienced audio description users demonstrated the efficiency of social engagement, sound effects, immersive audio and binaural techniques to stimulate the perception of visual performances by appealing to auditory senses; evoking a more meaningful and understandable experience to visually impaired audiences in correlation with experimental approaches to sound design and audio description.",
       "speakers": [ "cesarportillo" ],
       "tags": [ ]
+    },
+    "androidautomotive": {
+      "language": "English",
+      "title": "Android Automotive App Development",
+      "description": "What is Android Automotive?\nAndroid Automotive is a part of the publicly released Android Open Source Project. The operating system is designed to run on the infotainment systems of the next car generations. This makes it possible to run the same Android apps that users already know from their smartphone. Additionally the Google Services will be available for developers and users to utilize.\n\nHow does the future of Android Automotive look like?\nVolvo will be the first car manufacturer to use Android Automotive in its vehicles, see news. This includes the integration of the Google Play Store as well as the availability of Google Maps or the Google Assistant directly in the infotainment system. The Google Assistant and its integration with other apps or physical functionalities in the car will be an essential cornerstone of automotive Android.\n\nHow to write Apps for Android Automotive?Writing an app for Android Automotive is quite similar to writing an app for a smartphone. While it is already possible to write apps for Android Auto I would like to explore with the audience what possibilities there are in the future when it comes to writing Android apps for cars. I will go into the details of User Experience design (guidelines, i.e. when it comes to distraction safety), which new interfaces Android Automotive will offer and how to simulate a car on your laptop.",
+      "speakers": [ "henningvonsee" ],
+      "tags": [ ]
     }
   },
   "speakers": {
@@ -1105,6 +1112,17 @@
         "link" : "https://home.kairo.at/blog/",
         "name" : "Website"
       }]
+    },
+    "henningvonsee": {
+      "name" : "Henning von See",
+      "country" : "Germany",
+      "featured" : false,
+      "company" : "Google",
+      "title" : "Partner Engineeri",
+      "photoUrl" : "",
+      "shortBio" : "BMW - Before joining my current team I worked as a project lead for BMW Connected Drive. Google - Since April I’m a Partner Engineer in the Android Automotive Team here in Munich.",
+      "bio" : "BMW - Before joining my current team I worked as a project lead for BMW Connected Drive. Google - Since April I’m a Partner Engineer in the Android Automotive Team here in Munich.",
+      "socials" : []
     },
     "sarahkoehler" : {
       "name" : "Sarah Köhler",
