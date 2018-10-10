@@ -472,6 +472,13 @@
       "description": "What is Android Automotive?\nAndroid Automotive is a part of the publicly released Android Open Source Project. The operating system is designed to run on the infotainment systems of the next car generations. This makes it possible to run the same Android apps that users already know from their smartphone. Additionally the Google Services will be available for developers and users to utilize.\n\nHow does the future of Android Automotive look like?\nVolvo will be the first car manufacturer to use Android Automotive in its vehicles, see news. This includes the integration of the Google Play Store as well as the availability of Google Maps or the Google Assistant directly in the infotainment system. The Google Assistant and its integration with other apps or physical functionalities in the car will be an essential cornerstone of automotive Android.\n\nHow to write Apps for Android Automotive?Writing an app for Android Automotive is quite similar to writing an app for a smartphone. While it is already possible to write apps for Android Auto I would like to explore with the audience what possibilities there are in the future when it comes to writing Android apps for cars. I will go into the details of User Experience design (guidelines, i.e. when it comes to distraction safety), which new interfaces Android Automotive will offer and how to simulate a car on your laptop.",
       "speakers": [ "henningvonsee" ],
       "tags": [ ]
+    },
+    "featurenotbug": {
+      "language": "English",
+      "title": "I'm a feature, not a bug!",
+      "description": "I’m older, I’m a woman, and I have kids. I also came to tech from the entertainment world.\nThese differences are what helped me craft a unique offering in our app, and speak to it with passion and authority. This is the true story of how the feature was created—and how it recently went viral.\n\nThis experience connected me to a wider world of women in tech who all share a common frustration with health and fitness apps—why are we the afterthought?\n\nThis is also the story of raising up other people, and how we can help fellow employees shine by celebrating who they are, and not forcing them into what looks or sounds right. From hiring people with disabilities to allowing truly flexible work, this is the story of how to attract and retain great people. When you take a chance on differences, the truth is you’re really just filling in gaping holes that exist in your business plan.",
+      "speakers": [ "susiefelber"],
+      "tags": [ ]
     }
   },
   "speakers": {
