@@ -728,32 +728,6 @@
         "name": "Website"
       }]
     },
-    "robertkaiser" : {
-      "name" : "Robert Kaiser",
-      "country" : "KaiRo.at // Austria",
-      "featured" : false,
-      "company" : "KaiRo.at",
-      "title" : "",
-      "photoUrl" : "",
-      "shortBio" : "Robert Kaiser (“KaiRo”) is a Mozilla Tech Speaker, OpenStreetMap contributor, and freelance Web/Linux expert.",
-      "bio" : "Robert Kaiser (“KaiRo”) is a Mozilla Tech Speaker, OpenStreetMap contributor, and freelance Web/Linux expert. Close to 20 years in the Mozilla community have given him a lot of insight into the Web’s technologies and history. He likes to try out alternative solutions that increase user freedom and privacy, and take a peek into new technology. On/under his desk, at least 5 devices with a Linux kernel run on a normal day and communicate with other Linux systems he’s administrating. KaiRo is a burning supporter of Mozilla’s Mission and Manifesto as well as Star Trek’s vision of a diverse society in a positive future. For taking a break from technology, he likes to go for singing karaoke and writing his own songs.",
-      "socials" : [{
-        "icon" : "website",
-        "link" : "https://home.kairo.at/blog/",
-        "name" : "Website"
-      }]
-    },
-    "sarahkoehler" : {
-      "name" : "Sarah Köhler",
-      "country" : "Germany",
-      "featured" : false,
-      "company" : "",
-      "title" : "",
-      "photoUrl" : "",
-      "shortBio" : "Book Lover turned developer, likes to share knowledge which is mostly javascript and react related.",
-      "bio" : "Book Lover turned developer, likes to share knowledge which is mostly javascript and react related.",
-      "socials" : []
-    },
     "thewizardlucas" : {
       "name" : "Lucas Fernandes da Costa",
       "country" : "Chai.js // UK",
@@ -1074,6 +1048,21 @@
         "name": "Website"
       }]
     },
+    "svetlanasharipova" : {
+      "name" : "Svetlana Sharipova",
+      "country" : "Russia",
+      "featured" : false,
+      "company" : "Independent",
+      "title" : "Frontend developer",
+      "photoUrl" : "/images/people/speakers/SvetlanaSharipova.jpg",
+      "shortBio" : "Self-taught frontend developer with a passion for cats, gifs and accessible interfaces.",
+      "bio" : "At the age of 9 Svetlana made her first webpage about cats (lots of cats and sparkling gifs). Then she lost her direction until 4 years ago. Unable to resist cat gifs influence she found her passion in building accessible interfaces for everyone. By day she works as a frontend developer contractor, by night she sleeps. In spare time she mentors junior developers, travels, dreams and occasionally gives talks on frontend related topics and about mental health.",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/helloDeadline",
+        "name" : "Twitter"
+      }]
+    },
     "1nfoverload": {
       "name" : "Daisy Tsang",
       "country" : "Germany",
@@ -1092,21 +1081,34 @@
         "link" : "https://twitter.com/1nfoverload",
         "name" : "Twitter"
       } ]
-    },
-    "svetlanasharipova" : {
-      "name" : "Svetlana Sharipova",
-      "country" : "Russia",
+    }
+  },
+  "_speakers": {
+    "robertkaiser" : {
+      "name" : "Robert Kaiser",
+      "country" : "KaiRo.at // Austria",
       "featured" : false,
-      "company" : "Independent",
-      "title" : "Frontend developer",
-      "photoUrl" : "/images/people/speakers/SvetlanaSharipova.jpg",
-      "shortBio" : "Self-taught frontend developer with a passion for cats, gifs and accessible interfaces.",
-      "bio" : "At the age of 9 Svetlana made her first webpage about cats (lots of cats and sparkling gifs). Then she lost her direction until 4 years ago. Unable to resist cat gifs influence she found her passion in building accessible interfaces for everyone. By day she works as a frontend developer contractor, by night she sleeps. In spare time she mentors junior developers, travels, dreams and occasionally gives talks on frontend related topics and about mental health.",
+      "company" : "KaiRo.at",
+      "title" : "",
+      "photoUrl" : "",
+      "shortBio" : "Robert Kaiser (“KaiRo”) is a Mozilla Tech Speaker, OpenStreetMap contributor, and freelance Web/Linux expert.",
+      "bio" : "Robert Kaiser (“KaiRo”) is a Mozilla Tech Speaker, OpenStreetMap contributor, and freelance Web/Linux expert. Close to 20 years in the Mozilla community have given him a lot of insight into the Web’s technologies and history. He likes to try out alternative solutions that increase user freedom and privacy, and take a peek into new technology. On/under his desk, at least 5 devices with a Linux kernel run on a normal day and communicate with other Linux systems he’s administrating. KaiRo is a burning supporter of Mozilla’s Mission and Manifesto as well as Star Trek’s vision of a diverse society in a positive future. For taking a break from technology, he likes to go for singing karaoke and writing his own songs.",
       "socials" : [{
-        "icon" : "twitter",
-        "link" : "https://twitter.com/helloDeadline",
-        "name" : "Twitter"
+        "icon" : "website",
+        "link" : "https://home.kairo.at/blog/",
+        "name" : "Website"
       }]
+    },
+    "sarahkoehler" : {
+      "name" : "Sarah Köhler",
+      "country" : "Germany",
+      "featured" : false,
+      "company" : "",
+      "title" : "",
+      "photoUrl" : "",
+      "shortBio" : "Book Lover turned developer, likes to share knowledge which is mostly javascript and react related.",
+      "bio" : "Book Lover turned developer, likes to share knowledge which is mostly javascript and react related.",
+      "socials" : []
     },
     "wahibulhaq" : {
       "name" : "Wahib Ul Haq",
