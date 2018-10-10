@@ -120,28 +120,40 @@
           "startTime": "14:00",
           "endTime": "14:40",
           "sessions": [
-            { "items": [ "serialweb", "tba" ] }
+            { "items": [ "serialweb" ] },
+            { "items": [ "tba" ] }
           ]
         },
         {
           "startTime": "15:00",
           "endTime": "15:40",
           "sessions": [
-            { "items": [ "bluetooth", "tba" ] }
+            { "items": [ "bluetooth" ] },
+            { "items": [ "quickstartmanagement" ] }
           ]
         },
         {
           "startTime": "15:55",
           "endTime": "16:35",
           "sessions": [
-            { "items": [ "tba", "codeislaw" ] }
+            { "items": [ "a11yfriendlydocs" ] },
+            { "items": [ "codeislaw" ] }
           ]
         },
         {
           "startTime": "16:50",
-          "endTime": "17:05",
+          "endTime": "17:15",
           "sessions": [
-            { "items": [ "tba", "loveoftech" ] }
+            { "items": [ "tba" ] },
+            { "items": [ "loveoftech" ] }
+          ]
+        },
+        {
+          "startTime": "17:30",
+          "endTime": "18:10",
+          "sessions": [
+            { "items": [ "codeschools" ] },
+            { "items": [ "succeedonmobileweb" ] }
           ]
         }
       ]
@@ -168,82 +180,84 @@
           "startTime": "09:30",
           "endTime": "10:10",
           "sessions": [
-            { "items": [ "tba", "testoftime" ] }
-          ]
-        },
-        {
-          "startTime": "10:25",
-          "endTime": "11:05",
-          "sessions": [
-            { "items": [ "quickstartmanagement" ] }
+            { "items": [ "tba" ] },
+            { "items": [ "testoftime" ] }
           ]
         },
         {
           "startTime": "10:25",
           "endTime": "10:50",
           "sessions": [
-            { "items": [ "tba", "seventeen" ] }
+            { "items": [ "zeroadoption" ] },
+            { "items": [ "seventeen" ] }
           ]
         },
         {
-          "startTime": "11:20",
-          "endTime": "12:00",
+          "startTime": "11:05",
+          "endTime": "11:45",
           "sessions": [
-            { "items": [ "tba", "interviewfromscratch" ] }
+            { "items": [ "tba" ] },
+            { "items": [ "interviewfromscratch" ] }
           ]
         },
         {
-          "startTime": "12:15",
-          "endTime": "12:40",
+          "startTime": "12:00",
+          "endTime": "12:25",
           "sessions": [
-            { "items": [ "vrmap", "mindfuldesign" ] }
+            { "items": [ "vrmap" ] },
+            { "items": [ "mindfuldesign" ] }
           ]
         },
         {
-          "startTime": "12:55",
-          "endTime": "13:35",
+          "startTime": "12:40",
+          "endTime": "13:20",
           "sessions": [
-            { "items": [ "livecoding", "lunch" ] }
+            { "items": [ "livecoding" ] },
+            { "items": [ "lunch" ] }
           ]
         },
         {
-          "startTime": "13:50",
-          "endTime": "14:30",
+          "startTime": "13:35",
+          "endTime": "14:15",
           "sessions": [
-            { "items": [ "lunch", "tba" ] }
+            { "items": [ "lunch" ] },
+            { "items": [ "cssquickdraw" ] }
           ]
         },
         {
-          "startTime": "14:45",
-          "endTime": "15:25",
+          "startTime": "14:30",
+          "endTime": "15:10",
           "sessions": [
-            { "items": [ "gamingthesystem", "tba" ] }
-          ]
-        },
-        {
-          "startTime": "15:40",
-          "endTime": "16:05",
-          "sessions": [
-            { "items": [ "webassembly", "designdevelopment" ] }
-          ]
-        },
-        {
-          "startTime": "16:20",
-          "endTime": "16:45",
-          "sessions": [
-            { "items": [ "tba", "tba" ] }
-          ]
-        },
-        {
-          "startTime": "17:00",
-          "endTime": "17:50",
-          "sessions": [
+            { "items": [ "gamingthesystem" ] },
             { "items": [ "tba" ] }
           ]
         },
         {
-          "startTime": "18:00",
-          "endTime": "18:20",
+          "startTime": "15:25",
+          "endTime": "15:50",
+          "sessions": [
+            { "items": [ "webassembly" ] },
+            { "items": [ "designdevelopment" ] }
+          ]
+        },
+        {
+          "startTime": "16:05",
+          "endTime": "16:30",
+          "sessions": [
+            { "items": [ "tba" ] },
+            { "items": [ "androidautomotive" ] }
+          ]
+        },
+        {
+          "startTime": "16:45",
+          "endTime": "17:35",
+          "sessions": [
+            { "items": [ "digitalwellbeing" ] }
+          ]
+        },
+        {
+          "startTime": "17:40",
+          "endTime": "18:00",
           "sessions": [
             { "items": [ "closing" ] }
           ]
@@ -273,7 +287,7 @@
     },
     "happiness": {
       "language": "English",
-      "title": "The Secret Society of Happiness",
+      "title": "Opening Keynote: The Secret Society of Happiness",
       "description": "Happiness and our own search for it have deep impacts on our entire lives. But important as it is, it’s also incredibly complicated. We each carry our own baggage, and the things that make us happy are not constants. However, we can learn so much from each other in a community, and can have a tremendous impact on each other’s happiness - though not always in the most obvious ways.",
       "speakers": [
         "mxsash"
@@ -514,9 +528,7 @@
       "language": "English",
       "title": "Android Automotive App Development",
       "description": "What is Android Automotive?\nAndroid Automotive is a part of the publicly released Android Open Source Project. The operating system is designed to run on the infotainment systems of the next car generations. This makes it possible to run the same Android apps that users already know from their smartphone. Additionally the Google Services will be available for developers and users to utilize.\n\nHow does the future of Android Automotive look like?\nVolvo will be the first car manufacturer to use Android Automotive in its vehicles, see news. This includes the integration of the Google Play Store as well as the availability of Google Maps or the Google Assistant directly in the infotainment system. The Google Assistant and its integration with other apps or physical functionalities in the car will be an essential cornerstone of automotive Android.\n\nHow to write Apps for Android Automotive?Writing an app for Android Automotive is quite similar to writing an app for a smartphone. While it is already possible to write apps for Android Auto I would like to explore with the audience what possibilities there are in the future when it comes to writing Android apps for cars. I will go into the details of User Experience design (guidelines, i.e. when it comes to distraction safety), which new interfaces Android Automotive will offer and how to simulate a car on your laptop.",
-      "speakers": [
-        "henningvonsee"
-      ],
+      "speakers": [],
       "tags": []
     },
     "featurenotbug": {
@@ -548,7 +560,7 @@
     },
     "a11yfriendlydocs": {
       "language": "English",
-      "title": "A11y-Friendly Documentation ",
+      "title": "A11y-Friendly Documentation",
       "description": "Accessibility has been finding its stride in the web development community — and it’s not hard to figure out why. According to the World Health Organization, there are over one billion people globally who need an assistive device. With these statistics, organizations and open source projects alike realize that they could be unintentionally locking these people out of their products. As a result, they adjust their developer workflows. And it often ends there, at the product. Documentation is left out of the conversation.\nIf documentation is meant to serve as a tool for learning and comprehension, then it must be included in those conversations. After all, we want to write docs that are truly for everyone — regardless of the technology they use to read it.\n\nIn this talk, we’ll look at how assistive technology consumes documentation and cover some points to consider when building out your docs. Along the way, we’ll touch on quick regulation wins and inclusive writing practices.",
       "speakers": [
         "carolstran"
@@ -566,7 +578,7 @@
     },
     "digitalwellbeing": {
       "language": "English",
-      "title": "Digital Wellbeing",
+      "title": "Closing Keynote: How to Have a Better Relationship With the Technology in Your Life",
       "description": "Technology has enhanced billions of lives, but the pervasiveness and utility of modern technology makes increasingly difficult to disconnect. Some people feel driven to be available all of the time, some feel they are wasting their time, and some fear there may social consequences if they step away. Many of us feel frustrated with the very technology we have come to rely on. Bringing technology to everyone comes with the responsibility to understand its impact, ensure it is truly helpful, and that it improves life, not distract from it. We will discuss some research insights that help us understand our frustrations and propose some approaches to think about improving our products, services, and the value they provide.",
       "speakers": [
         "davehogue"
@@ -575,9 +587,11 @@
     },
     "zeroadoption": {
       "language": "English",
-      "title": "Zero adoption: lessons learned from failing at open source",
+      "title": "Zero Adoption: Lessons Learned From Failing at Open Source",
       "description": "I'd love to tell you a story about how the software I created helped my community. Sadly, I can't: nothing I built ever found an audience. This talk is about how I failed to reach a community, about why it doesn't matter - or rather: what I learned from being stuck in an open source team of one.\n\nFor years I was convinced that the success of an open source project was determined by the usefulness of the software. My imaginary blueprint of open sourcing was:\n1. Build something useful\n2. Open source it\n3. Everybody wins\n\nIt turns out that it is much harder than that. \n\nThis talk is about how I built several tools that would help the UX community to deliver awesome products with a great experience, while never finding an audience for the tools.  We'll look at all the mistakes one can make and what to do instead to build a thriving community. \n\nAnd even if you don't find an audience: Zero adoption does not mean zero value. We'll look at how there is great benefit in building and publishing things, if not for others then for yourselves.",
-      "speakers": [ "" ],
+      "speakers": [
+        "bratwurstkomet"
+      ],
       "tags": [ ]
     }
   },
