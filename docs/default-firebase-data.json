@@ -62,8 +62,221 @@
       ]
     }
   ],
-  "schedule": { },
+  "schedule": {
+    "2018-11-10": {
+      "dateReadable": "November 10",
+      "tracks" : [
+        {
+          "title" : "Track One"
+        },
+        {
+          "title" : "Track Two"
+        },
+        {
+          "title" : "Hands-on"
+        }
+      ],
+      "timeslots": [
+        {
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "sessions": [
+            { "items": [ "registration" ] }
+          ]
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "10:20",
+          "sessions": [
+            { "items": [ "opening" ] }
+          ]
+        },
+        {
+          "startTime": "10:20",
+          "endTime": "11:00",
+          "sessions": [
+            { "items": [ "happiness" ] }
+          ]
+        },
+        {
+          "startTime": "11:15",
+          "endTime": "11:55",
+          "sessions": [
+            { "items": [ "consolelog" ] }
+          ]
+        },
+        {
+          "startTime": "12:10",
+          "endTime": "12:35",
+          "sessions": [
+            { "items": [ "hautecodeture" ] }
+          ]
+        },
+        {
+          "startTime": "13:20",
+          "endTime": "13:45",
+          "sessions": [
+            { "items": [ "fatigue" ] }
+          ]
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "14:40",
+          "sessions": [
+            { "items": [ "serialweb", "tba" ] }
+          ]
+        },
+        {
+          "startTime": "15:00",
+          "endTime": "15:40",
+          "sessions": [
+            { "items": [ "bluetooth", "tba" ] }
+          ]
+        },
+        {
+          "startTime": "15:55",
+          "endTime": "16:35",
+          "sessions": [
+            { "items": [ "tba", "codeislaw" ] }
+          ]
+        },
+        {
+          "startTime": "16:50",
+          "endTime": "17:05",
+          "sessions": [
+            { "items": [ "tba", "loveoftech" ] }
+          ]
+        }
+      ]
+    },
+    "2018-11-11": {
+      "dateReadable": "November 11",
+      "tracks" : [
+        {
+          "title" : "Track One"
+        },
+        {
+          "title" : "Track Two"
+        },
+        {
+          "title" : "Hands-on"
+        }
+      ],
+      "timeslots": [
+        {
+          "startTime": "09:00",
+          "endTime": "09:30",
+          "sessions": [
+            { "items": [ "registration" ] }
+          ]
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "10:10",
+          "sessions": [
+            { "items": [ "tba", "testoftime" ] }
+          ]
+        },
+        {
+          "startTime": "10:25",
+          "endTime": "11:05",
+          "sessions": [
+            { "items": [ "quickstartmanagement" ] }
+          ]
+        },
+        {
+          "startTime": "10:25",
+          "endTime": "10:50",
+          "sessions": [
+            { "items": [ "tba", "seventeen" ] }
+          ]
+        },
+        {
+          "startTime": "11:20",
+          "endTime": "12:00",
+          "sessions": [
+            { "items": [ "tba", "interviewfromscratch" ] }
+          ]
+        },
+        {
+          "startTime": "12:15",
+          "endTime": "12:40",
+          "sessions": [
+            { "items": [ "vrmap", "mindfuldesign" ] }
+          ]
+        },
+        {
+          "startTime": "12:55",
+          "endTime": "13:35",
+          "sessions": [
+            { "items": [ "livecoding", "lunch" ] }
+          ]
+        },
+        {
+          "startTime": "13:50",
+          "endTime": "14:30",
+          "sessions": [
+            { "items": [ "lunch", "tba" ] }
+          ]
+        },
+        {
+          "startTime": "14:45",
+          "endTime": "15:25",
+          "sessions": [
+            { "items": [ "gamingthesystem", "tba" ] }
+          ]
+        },
+        {
+          "startTime": "15:40",
+          "endTime": "16:05",
+          "sessions": [
+            { "items": [ "webassembly", "designdevelopment" ] }
+          ]
+        },
+        {
+          "startTime": "16:20",
+          "endTime": "16:45",
+          "sessions": [
+            { "items": [ "tba", "tba" ] }
+          ]
+        },
+        {
+          "startTime": "17:00",
+          "endTime": "17:50",
+          "sessions": [
+            { "items": [ "tba" ] }
+          ]
+        },
+        {
+          "startTime": "18:00",
+          "endTime": "18:20",
+          "sessions": [
+            { "items": [ "closing" ] }
+          ]
+        }
+      ]
+    }
+  },
   "sessions": {
+    "registration": {
+      "title": "Registration",
+      "description": "Welcome to DACHFest! Get your badge, explore the venue, make new friends."
+    },
+    "opening": {
+      "title": "Opening Ceremony",
+      "description": ""
+    },
+    "closing": {
+      "title": "Closing Ceremony",
+      "description": ""
+    },
+    "tba": {
+      "title": "To be announced!",
+      "description": "Surprise! Stay tuned."
+    },
+    "lunch": {
+      "title": "Lunch break"
+    },
     "happiness": {
       "language": "English",
       "title": "The Secret Society of Happiness",
@@ -498,7 +711,7 @@
     "myriamjessier" : {
       "name" : "Myriam Jessier",
       "country" : "Canada",
-      "featured" : true,
+      "featured" : false,
       "company" : "Self-employed Octopus",
       "title" : "Digital Strategist & Technical Marketer",
       "photoUrl" : "/images/people/speakers/myriam-jessier.jpg",
@@ -748,7 +961,7 @@
     "cesarportillo" : {
       "name" : "Cesar Portillo",
       "country" : "SAE Institute // United Kingdom",
-      "featured" : false,
+      "featured" : true,
 
       "company" : "SAE Institute London",
       "title" : "Sound Artist & Engineer",
@@ -768,7 +981,7 @@
     "milicamihajlija" : {
       "name" : "Milica Mihajlija",
       "country" : "Serbia",
-      "featured" : true,
+      "featured" : false,
 
       "company" : "",
       "title" : "Web Developer",
@@ -883,7 +1096,7 @@
     "svetlanasharipova" : {
       "name" : "Svetlana Sharipova",
       "country" : "Russia",
-      "featured" : true,
+      "featured" : false,
       "company" : "Independent",
       "title" : "Frontend developer",
       "photoUrl" : "/images/people/speakers/SvetlanaSharipova.jpg",
