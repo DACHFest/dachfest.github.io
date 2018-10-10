@@ -458,6 +458,13 @@
       "description": "Moving from an individual contributor role in technology to managing people or whole teams requires a shift in priorities and new set of skills that we are often poorly prepared for. This talk will look at the core skills a new manager in developer relations will need and look at duties their new role will likely involve. 40 minutes can’t equip you with everything you’ll need to be a great manager, so we’ll be focusing on what you’ll need to know for the first days and weeks as a manager and signpost where you can learn more. Managing people can be an incredibly rewarding, once you’re prepared. Let’s get ready together.",
       "speakers": [ "jessicarose" ],
       "tags": [ ]
+    },
+    "immersivesound": {
+      "language": "English",
+      "title": "The visible power of immersive sound",
+      "description": "This talk explores the distinctive sound spatialisation, immersive audio and sound design features that allow blind and partially sighted audiences to perceive and conduct an accurate interpretation of the optical elements, presented within visually complex audio visual mediums. The talk will also delve into an overview on the current limitations on accessibility for the visually impaired in audio-visual mediums, Universal Design applications, audio description in films/video games and the future of accessibility methods. Correspondingly, the results collected from fifteen experienced audio description users demonstrated the efficiency of social engagement, sound effects, immersive audio and binaural techniques to stimulate the perception of visual performances by appealing to auditory senses; evoking a more meaningful and understandable experience to visually impaired audiences in correlation with experimental approaches to sound design and audio description.",
+      "speakers": [ "cesarportillo" ],
+      "tags": [ ]
     }
   },
   "speakers": {
