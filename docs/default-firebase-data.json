@@ -507,6 +507,13 @@
       "description": "More and more companies are adopting agile approach to building user experience on websites based on A/B-testing methodologies. By using analytical tools developers, UX designers, product teams and marketers are trying to understand what users of mobile website need, what problems they face and how to solve them. They put forward hypotheses, test changes on the site and analyze whether it improves from the user point of view or not. This approach is especially important when it come to designing for mobile web: with the small screen size, it becomes much more difficult to put together functionality, brand attributes, promos, partner material, SEO content and to meet user expectations at the same time. Prioritisation here becomes key and this is where different goals of internal departments may not help the user experience.\n\nIn the short term, the way to increase conversions on mobile web is to study best practices and case studies.\n\nIn the long term, adoption of A/B-testing philosophy within the company leads to building the culture of growth and optimization where everyone is ready to discuss hypotheses, plan experiments, clearly interpret results, be prepared to fail, learn and continue testing on the everyday basis. With the development of Internet commerce this approach became relevant not only to IT companies, but also to absolutely all web players.",
       "speakers": [ "annapotanina" ],
       "tags": [ ]
+    },
+    "digitalwellbeing": {
+      "language": "English",
+      "title": "Digital Well-being, or, How to have a better relationship with the technology in your life ",
+      "description": "Technology has enhanced billions of lives, but the pervasiveness and utility of modern technology makes increasingly difficult to disconnect. Some people feel driven to be available all of the time, some feel they are wasting their time, and some fear there may social consequences if they step away. Many of us feel frustrated with the very technology we have come to rely on. Bringing technology to everyone comes with the responsibility to understand its impact, ensure it is truly helpful, and that it improves life, not distract from it. We will discuss some research insights that help us understand our frustrations and propose some approaches to think about improving our products, services, and the value they provide.",
+      "speakers": [ "davehogue" ],
+      "tags": [ ]
     }
   },
   "speakers": {
