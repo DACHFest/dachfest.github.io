@@ -154,6 +154,10 @@
     "callToAction": {
       "label": "View all speakers",
       "link": "/speakers/"
+    },
+    "scheduleCTA": {
+      "label": "Full schedule",
+      "link": "/schedule/"
     }
   },
   "previousSpeakersBlock": {
