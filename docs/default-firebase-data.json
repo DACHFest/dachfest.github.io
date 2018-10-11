@@ -633,6 +633,24 @@
         "bratwurstkomet"
       ],
       "tags": [ ]
+    },
+    "flutterin40minutes": {
+      "language": "English",
+      "title": "Flutter in 40 minutes",
+      "description": "Flutter’s a new and wonderful way to build apps for iOS and Android. It’s designed to let you create great looking, customized UIs in a surprisingly short amount of time, and have fun while doing it.\n\nWhile we’ll be looking at what makes Flutter tick, this talk will be light on theory and heavy on practice so we can explore Flutter in action. We’re going to dive in to some real Flutter code and build an app because, just like the Matrix, you have to see it for yourself!\n\nSo come take the red pill and experience app development with Flutter.",
+      "speakers": [
+        "mattsullivan"
+      ],
+      "tags": [ ]
+    },
+    "flutterstudyjam": {
+      "language": "English",
+      "title": "Flutter Study Jam",
+      "description": "The Flutter Study Jam is open for beginners and experts. Work together on flutter codelabs, ask questions and get assistance from Matt Sullivan, Lead of Flutter's Developer Relations.",
+      "speakers": [
+        "mattsullivan"
+      ],
+      "tags": [ ]
     }
   },
   "speakers": {
@@ -1262,12 +1280,9 @@
       "name" : "Daisy Tsang",
       "country" : "Germany",
       "featured" : false,
-
       "company" : "",
       "title" : "",
-
       "photoUrl" : "/images/people/speakers/1nfoverload.jpg",
-
       "shortBio" : "Programmer, Writer, Tinkerer, Language Enthusiast, Baker, Knitter.",
       "bio" : "Programmer, Writer, Tinkerer, Language Enthusiast, Baker, Knitter.",
 
@@ -1302,6 +1317,26 @@
       "shortBio" : "Engineer at the Google's Android Automotive Team in Munich.",
       "bio" : "Before joining his current team, Henning worked as a project lead for BMW Connected Drive. Since April, he is a Partner Engineer in the Android Automotive Team in Munich.",
       "socials" : []
+    },
+    "mattsullivan": {
+      "name" : "Matt Sullivan",
+      "country" : "Google // USA",
+      "featured" : false,
+      "company" : "Google",
+      "title" : "Flutter Developer Relations Lead",
+      "photoUrl" : "https://twitter.com/mattsullivan.jpg",
+      "shortBio" : "Flutter's developer relations lead, usually wearing too many fitness devices in the gym.",
+      "bio" : "Matt leads Flutter's developer relations from Google’s Mountain View campus. He joined the Flutter team last year, having spent three years working on Android, Wear OS and Google Fit. Before Google, Matt worked in a diverse range of fields, from bioinformatics to digital cinema, and holds a Ph.D. in Electrical Engineering. When he’s not hacking on Flutter, you’ll probably find him in the gym wearing far too many fitness sensors.",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/mjohnsullivan",
+        "name" : "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "http://flutter.io",
+        "name": "Website"
+      }]
     },
     "sarahkoehler" : {
       "name" : "Sarah Köhler",
