@@ -121,7 +121,7 @@
           "endTime": "14:40",
           "sessions": [
             { "items": [ "serialweb" ] },
-            { "items": [ "tba" ] }
+            { "items": [ "lightning-one" ] }
           ]
         },
         {
@@ -144,7 +144,7 @@
           "startTime": "16:50",
           "endTime": "17:15",
           "sessions": [
-            { "items": [ "tba" ] },
+            { "items": [ "immersivesound" ] },
             { "items": [ "loveoftech" ] }
           ]
         },
@@ -153,7 +153,7 @@
           "endTime": "18:10",
           "sessions": [
             { "items": [ "codeschools" ] },
-            { "items": [ "succeedonmobileweb" ] }
+            { "items": [ "tba" ] }
           ]
         }
       ]
@@ -180,7 +180,7 @@
           "startTime": "09:30",
           "endTime": "10:10",
           "sessions": [
-            { "items": [ "tba" ] },
+            { "items": [ "featurenotbug" ] },
             { "items": [ "testoftime" ] }
           ]
         },
@@ -196,7 +196,7 @@
           "startTime": "11:05",
           "endTime": "11:45",
           "sessions": [
-            { "items": [ "tba" ] },
+            { "items": [ "gamingthesystem" ] },
             { "items": [ "interviewfromscratch" ] }
           ]
         },
@@ -228,8 +228,8 @@
           "startTime": "14:30",
           "endTime": "15:10",
           "sessions": [
-            { "items": [ "gamingthesystem" ] },
-            { "items": [ "tba" ] }
+            { "items": [ "succeedonmobileweb" ] },
+            { "items": [ "lightning-two" ] }
           ]
         },
         {
@@ -284,6 +284,30 @@
     },
     "lunch": {
       "title": "Lunch break"
+    },
+    "lightning-one": {
+      "title": "⚡ Four En-lightning Talks! ⚡",
+      "description": "Observability in the Kitchen — Daisy Tsang\n\nHow can you leverage sensors, open-source software, and Go to improve your kitchen skills? This lightning talk explores the relationship between bread-making, humidity, and temperature, and how one can use inexpensive sensors, Raspberry Pis, and Prometheus to gain insight into the lively world of sourdough cultures.\n\n\n\nImpostor-Driven Development: Impressive but Completely Wrong — Svetlana Sharipova\n\nIt’s 4 am. You are sitting in the screen light focused and horrified. Already burned out, but the adrenaline from deadline keeps you in the dark. Only one night left to learn everything the world knows about programming. Your reputation, job and future are at risk. NO ONE SHOULD KNOW YOU ARE A FRAUD.\n\nThe talk is based on personal experience of being a high performer by exploiting impostor syndrome. While it might be sane in the short term, it leads to anxiety and burnout when used for some period of time. How about using it during 3 years in a corporate culture that doesn’t tolerate failure and open feedback? What if your manager knows how to benefit from your weakness?\n\n\n\nBalancing the Right Brain Chemicals in Your Yeam — Enrico Foschi\n\nEach one of us flaunts a unique brain wiring. On average, 25% of us are not precisely neurotypical. But what we see as a challenge, can sometimes be our strongest asset. Social anxiety, depression, ADHD, and other non-neurotypical personalities come with unique ways of behaving, responding, and reacting. \n\nIn his experience as a team lead, mentor, and friend, Enrico had the fantastic opportunity to work with different personalities and personalities disorders. As many other team leaders thrown into the profession, through mistakes and errors, he learned how not to push people towards a behavioral culture, but rather to set up the environment around them to be working with all our chemical divergences.\n\nIteration after iteration, when you achieve a balance, magic happens.\n\n\n\nDevelopers + Empathy for Users = Win-Win — Wahib Ul Haq\n\n“Ugh, I can’t believe how developers agreed to implement this design. User experience trumps technology.” Wouldn’t it be a win-win if developers care about users as much as designers are held responsible for? This talk is to highlight why it matters, adjusting expectations and areas to focus.\n\nWahib will share his learnings after several years as an Android Dev in product and consulting companies. Highlighting how this mindset of “I’m just a developer” can be toxic and realising that the whole team has (or should have) a common goal of building something that truly delights and adds value to the user. Why developers fail to develop empathy for their users? How “Be proactive, not reactive” approach goes a long way and has the solution to many problems. Close collaboration between Designers and Developers is so underrated and how can it can do wonders for the product.",
+      "speakers": [
+        "1nfoverload",
+        "svetlanasharipova",
+        "enricofoschi",
+        "wahibulhaq"
+      ],
+      "tags": []
+    },
+    "lightning-two": {
+      "title": "⚡ It's electric: Four More Lightning Talks! ⚡",
+      "description": "Everybody Needs Somebody — Mirjam Baüerlein\n\n\"This talk is about how to support people like me: the palm-sweaty, moms-spaghetti scaredy cats that wish they had the courage to meet new people at conferences. Nobody should miss this opportunity. Let’s make tech events more approachable and create good experience for everyone.\"\n\nEver visit a tech event on your own and tried to blend in with the wall, sweaty hands wrapped tightly around your cell phone, internal debating if you just should take a run for the door? Simultaneously hoping to meet new people and dreading someone could talk to you. Ever followed a conference through twitter hashtags, feeling sad, frustrated and angry at yourself that your were too scared to go?\n\nThat’s presumably around 13% of the people you know. People who describe themselves as shy, introverted or socially awkward. You can sum it up with one word: Social anxiety. Broadly speaking that’s the fear of social situations that involve interaction with other people.\n\nIn this talk Mirjam wants to share with you how she tries to be a solution to her own problem. Her project Conference Buddy wants to provide a platform to find companions for tech conferences. Mirjam wants to show you how we can support others to face their fears and give them opportunities to come into company, come to this intimidating, big tech conferences and make successful experiences with this awesome community. Let’s make tech events more approachable - one buddy at a time.\n\n\n\nReview Code Like a Bestselling Book — Sarah Köhler\n\n\"Many developers see code reviews as a waste of their time. Is there a way to change their mind? We can improve the code review process so that both author and reviewer profit from it. Based on my experience with proofreading I will tell you how to do better reviews and learn from other’s comments.\"\n\nThis talk will present a collection of tips for developers to make better use of code reviews. Some ideas are targeted at the individual person, but others need to be implemented for the whole team. The tips are inspired by Sarah's experience as a proofreader and the knowledge she gained during her studies in Book Science, where she was able to learn from professional editors and proofreaders. The talk is short and entertaining, but there's going to be at least one small example for each tip to make it easier to understand and apply them later.\n\n\n\nCompassionate Coding: Being Humane in Tech — Sascha Wolf\n\nIn the Tech Industry we value efficiency and productivity. We try to keep our communication concise in an effort to be efficient. But are concise and efficient equivalent when it comes to communication? Or are we forgetting an important variable: humanity?\nOne such strategy is Compassion.\n\nTech is all about writing code, right? It’s about efficient solutions and productive teams. We worship Rockstar Devs, try to be agile and lean, all for the ultimate goal of delivering software faster and better. But are technical solutions all there is to it?\n\nWe will take a critical look at how we communicate in the Tech Industry. We work in teams, collaborate on solutions and gather requirements from the customer. All of which are about communication, about getting information from one head into another head. And of course we try to be as efficient as possible while doing that.\nBy treating communication the same way as we treat tech we ignore a critical variable: humanity. Our colleagues and customers are human, not machines and as such demand different strategies when it comes to the exchange of information.\n\n\n\nTBA\n\nSurprise!",
+      "speakers": [
+        "mirjam_diala",
+        "sarahkoehler",
+        "saschawolf"
+      ],
+      "tags": []
+    },
+    "awsnap": {
+      "title": "Aw, Snap! Not Open Yet"
     },
     "happiness": {
       "language": "English",
@@ -342,7 +366,7 @@
     "reviewbook": {
       "language": "English",
       "title": "Review Code Like a Bestselling Book",
-      "description": "This talk will present a collection of tips for developers to make better use of code reviews. Some ideas are targeted at the individual person, but others need to be implemented for the whole team. The tips are inspired by Sarah's experience as a proofreader and the knowledge she gained during her studies in Book Science, where she was able to learn from professional editors and proofreaders. The talk is short and entertaining, but there's going to be at least one small example for each tip to make it easier to understand and apply them later.",
+      "description": "\"Many developers see code reviews as a waste of their time. Is there a way to change their mind? We can improve the code review process so that both author and reviewer profit from it. Based on my experience with proofreading I will tell you how to do better reviews and learn from other’s comments.\"\n\nThis talk will present a collection of tips for developers to make better use of code reviews. Some ideas are targeted at the individual person, but others need to be implemented for the whole team. The tips are inspired by Sarah's experience as a proofreader and the knowledge she gained during her studies in Book Science, where she was able to learn from professional editors and proofreaders. The talk is short and entertaining, but there's going to be at least one small example for each tip to make it easier to understand and apply them later.",
       "speakers": [
         "sarahkoehler"
       ],
@@ -415,7 +439,9 @@
       "language": "English",
       "title": "Gaming the System: Why Messing With Algorithms is Such a Human Hobby",
       "description": "There’s a lot of talk regarding algorithms and how they impact the way we perceive the world. One of the hot topics lately is the fake news and their impact on the American election. Let’s take a look at the other side of things: how some of us actually mess with algorithms for fun or for profit. If you ever wanted to see the human outcomes of some of the math you deal with in your everyday work, this is the talk for you.",
-      "speakers": [],
+      "speakers": [
+        "myriamjessier"
+      ],
       "tags": []
     },
     "bluetooth": {
@@ -517,8 +543,8 @@
     },
     "immersivesound": {
       "language": "English",
-      "title": "The visible power of immersive sound",
-      "description": "This talk explores the distinctive sound spatialisation, immersive audio and sound design features that allow blind and partially sighted audiences to perceive and conduct an accurate interpretation of the optical elements, presented within visually complex audio visual mediums. The talk will also delve into an overview on the current limitations on accessibility for the visually impaired in audio-visual mediums, Universal Design applications, audio description in films/video games and the future of accessibility methods. Correspondingly, the results collected from fifteen experienced audio description users demonstrated the efficiency of social engagement, sound effects, immersive audio and binaural techniques to stimulate the perception of visual performances by appealing to auditory senses; evoking a more meaningful and understandable experience to visually impaired audiences in correlation with experimental approaches to sound design and audio description.",
+      "title": "Hearing the Future: the Past, Present, and Future of Audio Description for the Visually Impaired",
+      "description": "Audio description is an established feature for live and audio-visual productions, in which visual information is translated for blind and visually impaired audiences. However, despite being the only method for blind and partially sighted audiences to enjoy visual mediums, current UK laws only require broadcasting companies to make 20% of their content accessible with audio description. This means that the remaining 80% of un-described content, results in visually impaired audiences being segregated from the entertainment that fully sighted individuals can enjoy. But should inclusive entertainment create a barrier or build a bridge towards equality and the future of accessibility?\n\nUsing the opinion of 15 visually impaired participants, “Hearing the Future” explores the diversification of accessibility through audio description in audio-visual mediums. This research delves into how one experimental approach, comprising of 3D immersive audio, sound spatialisation and sound design features, allows blind and visually impaired audiences to not only perceive but experience an accurate interpretation of the optical elements that are presented within visually complex audio visual mediums. This approach created an audio-only experience that could transcend the absence of visual perception.",
       "speakers": [
         "cesarportillo"
       ],
@@ -528,7 +554,9 @@
       "language": "English",
       "title": "Android Automotive App Development",
       "description": "What is Android Automotive?\nAndroid Automotive is a part of the publicly released Android Open Source Project. The operating system is designed to run on the infotainment systems of the next car generations. This makes it possible to run the same Android apps that users already know from their smartphone. Additionally the Google Services will be available for developers and users to utilize.\n\nHow does the future of Android Automotive look like?\nVolvo will be the first car manufacturer to use Android Automotive in its vehicles, see news. This includes the integration of the Google Play Store as well as the availability of Google Maps or the Google Assistant directly in the infotainment system. The Google Assistant and its integration with other apps or physical functionalities in the car will be an essential cornerstone of automotive Android.\n\nHow to write Apps for Android Automotive?Writing an app for Android Automotive is quite similar to writing an app for a smartphone. While it is already possible to write apps for Android Auto I would like to explore with the audience what possibilities there are in the future when it comes to writing Android apps for cars. I will go into the details of User Experience design (guidelines, i.e. when it comes to distraction safety), which new interfaces Android Automotive will offer and how to simulate a car on your laptop.",
-      "speakers": [],
+      "speakers": [
+        "henningvonsee"
+      ],
       "tags": []
     },
     "featurenotbug": {
@@ -551,7 +579,7 @@
     },
     "compassionatecoding": {
       "language": "English",
-      "title": "Compassionate Coding - being humane in tech.",
+      "title": "Compassionate Coding - Being Humane in Tech",
       "description": "In the Tech Industry we value efficiency and productivity. We try to keep our communication concise in an effort to be efficient. But are concise and efficient equivalent when it comes to communication? Or are we forgetting an important variable: humanity?\nOne such strategy is Compassion.\n\nTech is all about writing code, right? It’s about efficient solutions and productive teams. We worship Rockstar Devs, try to be agile and lean, all for the ultimate goal of delivering software faster and better. But are technical solutions all there is to it?\n\nWe will take a critical look at how we communicate in the Tech Industry. We work in teams, collaborate on solutions and gather requirements from the customer. All of which are about communication, about getting information from one head into another head. And of course we try to be as efficient as possible while doing that.\nBy treating communication the same way as we treat tech we ignore a critical variable: humanity. Our colleagues and customers are human, not machines and as such demand different strategies when it comes to the exchange of information.",
       "speakers": [
         "saschawolf"
@@ -1236,9 +1264,7 @@
         "link" : "https://twitter.com/1nfoverload",
         "name" : "Twitter"
       } ]
-    }
-  },
-  "_speakers": {
+    },
     "robertkaiser" : {
       "name" : "Robert Kaiser",
       "country" : "KaiRo.at // Austria",
