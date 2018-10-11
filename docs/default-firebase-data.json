@@ -651,7 +651,16 @@
         "mattsullivan"
       ],
       "tags": [ ]
-    }
+    },
+    "actionsongoogle": {
+      "language": "English",
+      "title": "Creating an Action and helping your local community",
+      "description": "There are several ways to support your community using technology, and during this workshop you will learn how to do this building an Action on Google for the Google Assistant. This workshop will cover basics topics about voice applications design, Actions on Google APIs, also some more advanced topics like push notifications, helper intents, and integration with Firebase, and at last, how to publish and promote your Action.",
+      "speakers": [
+        "netomarin"
+      ],
+      "tags": [ ]
+    },
   },
   "speakers": {
     "mxsash" : {
@@ -1335,6 +1344,26 @@
       {
         "icon": "website",
         "link": "http://flutter.io",
+        "name": "Website"
+      }]
+    },
+    "netomarin": {
+      "name" : "Neto Marin",
+      "country" : "Google // USA",
+      "featured" : false,
+      "company" : "Google",
+      "title" : "Actions on Google Developer Advocate",
+      "photoUrl" : "",
+      "shortBio" : "Actions on Google DevRel. But first of all a passionate and dedicated dad and husband!",
+      "bio" : "Actions on Google DevRel, aiming to help developers to create awesome Actions for Google Assistant. But first of all a passionate and dedicated dad and husband!",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/netomarin",
+        "name" : "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "http://netomarin.io/",
         "name": "Website"
       }]
     },
