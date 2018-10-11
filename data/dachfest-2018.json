@@ -60,6 +60,16 @@
           "url": "https://flixbus.de"
         }
       ]
+    },
+    {
+      "title": "Supportive Sponsor",
+      "logos": [
+        {
+          "logoUrl": "../images/logos/jetbrains.png",
+          "name": "JetBrains",
+          "url": "https://jetbrains.com"
+        }
+      ]
     }
   ],
   "schedule": {
