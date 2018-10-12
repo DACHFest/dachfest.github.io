@@ -296,8 +296,9 @@
       "title": "Lunch break"
     },
     "lightning-one": {
+      "language": "English",
       "title": "⚡ Four En-lightning Talks! ⚡",
-      "description": "Observability in the Kitchen — Daisy Tsang\n\nHow can you leverage sensors, open-source software, and Go to improve your kitchen skills? This lightning talk explores the relationship between bread-making, humidity, and temperature, and how one can use inexpensive sensors, Raspberry Pis, and Prometheus to gain insight into the lively world of sourdough cultures.\n\n\n\nImpostor-Driven Development: Impressive but Completely Wrong — Svetlana Sharipova\n\nIt’s 4 am. You are sitting in the screen light focused and horrified. Already burned out, but the adrenaline from deadline keeps you in the dark. Only one night left to learn everything the world knows about programming. Your reputation, job and future are at risk. NO ONE SHOULD KNOW YOU ARE A FRAUD.\n\nThe talk is based on personal experience of being a high performer by exploiting impostor syndrome. While it might be sane in the short term, it leads to anxiety and burnout when used for some period of time. How about using it during 3 years in a corporate culture that doesn’t tolerate failure and open feedback? What if your manager knows how to benefit from your weakness?\n\n\n\nBalancing the Right Brain Chemicals in Your Yeam — Enrico Foschi\n\nEach one of us flaunts a unique brain wiring. On average, 25% of us are not precisely neurotypical. But what we see as a challenge, can sometimes be our strongest asset. Social anxiety, depression, ADHD, and other non-neurotypical personalities come with unique ways of behaving, responding, and reacting. \n\nIn his experience as a team lead, mentor, and friend, Enrico had the fantastic opportunity to work with different personalities and personalities disorders. As many other team leaders thrown into the profession, through mistakes and errors, he learned how not to push people towards a behavioral culture, but rather to set up the environment around them to be working with all our chemical divergences.\n\nIteration after iteration, when you achieve a balance, magic happens.\n\n\n\nDevelopers + Empathy for Users = Win-Win — Wahib Ul Haq\n\n“Ugh, I can’t believe how developers agreed to implement this design. User experience trumps technology.” Wouldn’t it be a win-win if developers care about users as much as designers are held responsible for? This talk is to highlight why it matters, adjusting expectations and areas to focus.\n\nWahib will share his learnings after several years as an Android Dev in product and consulting companies. Highlighting how this mindset of “I’m just a developer” can be toxic and realising that the whole team has (or should have) a common goal of building something that truly delights and adds value to the user. Why developers fail to develop empathy for their users? How “Be proactive, not reactive” approach goes a long way and has the solution to many problems. Close collaboration between Designers and Developers is so underrated and how can it can do wonders for the product.",
+      "description": "Observability in the Kitchen — Daisy Tsang\n\nHow can you leverage sensors, open-source software, and Go to improve your kitchen skills? This lightning talk explores the relationship between bread-making, humidity, and temperature, and how one can use inexpensive sensors, Raspberry Pis, and Prometheus to gain insight into the lively world of sourdough cultures.\n\n\n\nImpostor-Driven Development: Impressive but Completely Wrong — Svetlana Sharipova\n\nIt’s 4 am. You are sitting in the screen light focused and horrified. Already burned out, but the adrenaline from deadline keeps you in the dark. Only one night left to learn everything the world knows about programming. Your reputation, job and future are at risk. NO ONE SHOULD KNOW YOU ARE A FRAUD.\n\nThe talk is based on personal experience of being a high performer by exploiting impostor syndrome. While it might be sane in the short term, it leads to anxiety and burnout when used for some period of time. How about using it during 3 years in a corporate culture that doesn’t tolerate failure and open feedback? What if your manager knows how to benefit from your weakness?\n\n\n\nBalancing the Right Brain Chemicals in Your Team — Enrico Foschi\n\nEach one of us flaunts a unique brain wiring. On average, 25% of us are not precisely neurotypical. But what we see as a challenge, can sometimes be our strongest asset. Social anxiety, depression, ADHD, and other non-neurotypical personalities come with unique ways of behaving, responding, and reacting. \n\nIn his experience as a team lead, mentor, and friend, Enrico had the fantastic opportunity to work with different personalities and personalities disorders. As many other team leaders thrown into the profession, through mistakes and errors, he learned how not to push people towards a behavioral culture, but rather to set up the environment around them to be working with all our chemical divergences.\n\nIteration after iteration, when you achieve a balance, magic happens.\n\n\n\nDevelopers + Empathy for Users = Win-Win — Wahib Ul Haq\n\n“Ugh, I can’t believe how developers agreed to implement this design. User experience trumps technology.” Wouldn’t it be a win-win if developers care about users as much as designers are held responsible for? This talk is to highlight why it matters, adjusting expectations and areas to focus.\n\nWahib will share his learnings after several years as an Android Dev in product and consulting companies. Highlighting how this mindset of “I’m just a developer” can be toxic and realising that the whole team has (or should have) a common goal of building something that truly delights and adds value to the user. Why developers fail to develop empathy for their users? How “Be proactive, not reactive” approach goes a long way and has the solution to many problems. Close collaboration between Designers and Developers is so underrated and how can it can do wonders for the product.",
       "speakers": [
         "1nfoverload",
         "svetlanasharipova",
@@ -307,6 +308,7 @@
       "tags": []
     },
     "lightning-two": {
+      "language": "English",
       "title": "⚡ It's electric: Four More Lightning Talks! ⚡",
       "description": "Everybody Needs Somebody — Mirjam Baüerlein\n\n\"This talk is about how to support people like me: the palm-sweaty, moms-spaghetti scaredy cats that wish they had the courage to meet new people at conferences. Nobody should miss this opportunity. Let’s make tech events more approachable and create good experience for everyone.\"\n\nEver visit a tech event on your own and tried to blend in with the wall, sweaty hands wrapped tightly around your cell phone, internal debating if you just should take a run for the door? Simultaneously hoping to meet new people and dreading someone could talk to you. Ever followed a conference through twitter hashtags, feeling sad, frustrated and angry at yourself that your were too scared to go?\n\nThat’s presumably around 13% of the people you know. People who describe themselves as shy, introverted or socially awkward. You can sum it up with one word: Social anxiety. Broadly speaking that’s the fear of social situations that involve interaction with other people.\n\nIn this talk Mirjam wants to share with you how she tries to be a solution to her own problem. Her project Conference Buddy wants to provide a platform to find companions for tech conferences. Mirjam wants to show you how we can support others to face their fears and give them opportunities to come into company, come to this intimidating, big tech conferences and make successful experiences with this awesome community. Let’s make tech events more approachable - one buddy at a time.\n\n\n\nReview Code Like a Bestselling Book — Sarah Köhler\n\n\"Many developers see code reviews as a waste of their time. Is there a way to change their mind? We can improve the code review process so that both author and reviewer profit from it. Based on my experience with proofreading I will tell you how to do better reviews and learn from other’s comments.\"\n\nThis talk will present a collection of tips for developers to make better use of code reviews. Some ideas are targeted at the individual person, but others need to be implemented for the whole team. The tips are inspired by Sarah's experience as a proofreader and the knowledge she gained during her studies in Book Science, where she was able to learn from professional editors and proofreaders. The talk is short and entertaining, but there's going to be at least one small example for each tip to make it easier to understand and apply them later.\n\n\n\nCompassionate Coding: Being Humane in Tech — Sascha Wolf\n\nIn the Tech Industry we value efficiency and productivity. We try to keep our communication concise in an effort to be efficient. But are concise and efficient equivalent when it comes to communication? Or are we forgetting an important variable: humanity?\nOne such strategy is Compassion.\n\nTech is all about writing code, right? It’s about efficient solutions and productive teams. We worship Rockstar Devs, try to be agile and lean, all for the ultimate goal of delivering software faster and better. But are technical solutions all there is to it?\n\nWe will take a critical look at how we communicate in the Tech Industry. We work in teams, collaborate on solutions and gather requirements from the customer. All of which are about communication, about getting information from one head into another head. And of course we try to be as efficient as possible while doing that.\nBy treating communication the same way as we treat tech we ignore a critical variable: humanity. Our colleagues and customers are human, not machines and as such demand different strategies when it comes to the exchange of information.\n\n\n\nTBA\n\nSurprise!",
       "speakers": [
@@ -629,6 +631,43 @@
       "description": "I'd love to tell you a story about how the software I created helped my community. Sadly, I can't: nothing I built ever found an audience. This talk is about how I failed to reach a community, about why it doesn't matter - or rather: what I learned from being stuck in an open source team of one.\n\nFor years I was convinced that the success of an open source project was determined by the usefulness of the software. My imaginary blueprint of open sourcing was:\n1. Build something useful\n2. Open source it\n3. Everybody wins\n\nIt turns out that it is much harder than that. \n\nThis talk is about how I built several tools that would help the UX community to deliver awesome products with a great experience, while never finding an audience for the tools.  We'll look at all the mistakes one can make and what to do instead to build a thriving community. \n\nAnd even if you don't find an audience: Zero adoption does not mean zero value. We'll look at how there is great benefit in building and publishing things, if not for others then for yourselves.",
       "speakers": [
         "bratwurstkomet"
+      ],
+      "tags": [ ]
+    },
+    "flutterin40minutes": {
+      "language": "English",
+      "title": "Flutter in 40 minutes",
+      "description": "Flutter’s a new and wonderful way to build apps for iOS and Android. It’s designed to let you create great looking, customized UIs in a surprisingly short amount of time, and have fun while doing it.\n\nWhile we’ll be looking at what makes Flutter tick, this talk will be light on theory and heavy on practice so we can explore Flutter in action. We’re going to dive in to some real Flutter code and build an app because, just like the Matrix, you have to see it for yourself!\n\nSo come take the red pill and experience app development with Flutter.",
+      "speakers": [
+        "mattsullivan"
+      ],
+      "tags": [ ]
+    },
+    "flutterstudyjam": {
+      "language": "English",
+      "title": "Flutter Study Jam",
+      "description": "The Flutter Study Jam is open for beginners and experts. Work together on flutter codelabs, ask questions and get assistance from Matt Sullivan, Lead of Flutter's Developer Relations.",
+      "speakers": [
+        "mattsullivan"
+      ],
+      "tags": [ ]
+    },
+    "actionsongoogle": {
+      "language": "English",
+      "title": "Creating an Action and helping your local community",
+      "description": "There are several ways to support your community using technology, and during this workshop you will learn how to do this building an Action on Google for the Google Assistant. This workshop will cover basics topics about voice applications design, Actions on Google APIs, also some more advanced topics like push notifications, helper intents, and integration with Firebase, and at last, how to publish and promote your Action.",
+      "speakers": [
+        "netomarin"
+      ],
+      "tags": [ ]
+    },
+    "sketchnoting": {
+      "language": "English",
+      "title": "Sketchnoting & Lettering Workshop",
+      "description": "Unleash your creativity while actively listening to talks! Sketchnoting is the art of using visuals to record and share ideas. Come to learn about taking notes, and how to make beautiful sketches with the help of lettering techniques.\n\nTaking notes in a visual way, while actively listening to talks, is an excellent way to remember the most important ideas and going back to them in the future. You can also use sketchnoting to share ideas at work or to organize your day.\nYou will learn sketchnoting techniques from us while making your first sketch! And as well, you will learn the basics of lettering, the art of writing beautiful captions. We will be also sketchnoting with you, sharing our process live!\n\nEveryone can get started with sketchnoting, you only need pen and paper!",
+      "speakers": [
+        "lariki",
+        "miqubel"
       ],
       "tags": [ ]
     }
@@ -1260,12 +1299,9 @@
       "name" : "Daisy Tsang",
       "country" : "Germany",
       "featured" : false,
-
       "company" : "",
       "title" : "",
-
       "photoUrl" : "/images/people/speakers/1nfoverload.jpg",
-
       "shortBio" : "Programmer, Writer, Tinkerer, Language Enthusiast, Baker, Knitter.",
       "bio" : "Programmer, Writer, Tinkerer, Language Enthusiast, Baker, Knitter.",
 
@@ -1301,6 +1337,46 @@
       "bio" : "Before joining his current team, Henning worked as a project lead for BMW Connected Drive. Since April, he is a Partner Engineer in the Android Automotive Team in Munich.",
       "socials" : []
     },
+    "mattsullivan": {
+      "name" : "Matt Sullivan",
+      "country" : "Google // USA",
+      "featured" : false,
+      "company" : "Google",
+      "title" : "Flutter Developer Relations Lead",
+      "photoUrl" : "https://twitter.com/mattsullivan.jpg",
+      "shortBio" : "Flutter's developer relations lead, usually wearing too many fitness devices in the gym.",
+      "bio" : "Matt leads Flutter's developer relations from Google’s Mountain View campus. He joined the Flutter team last year, having spent three years working on Android, Wear OS and Google Fit. Before Google, Matt worked in a diverse range of fields, from bioinformatics to digital cinema, and holds a Ph.D. in Electrical Engineering. When he’s not hacking on Flutter, you’ll probably find him in the gym wearing far too many fitness sensors.",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/mjohnsullivan",
+        "name" : "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "http://flutter.io",
+        "name": "Website"
+      }]
+    },
+    "netomarin": {
+      "name" : "Neto Marin",
+      "country" : "Google // USA",
+      "featured" : false,
+      "company" : "Google",
+      "title" : "Actions on Google Developer Advocate",
+      "photoUrl" : "",
+      "shortBio" : "Actions on Google DevRel. But first of all a passionate and dedicated dad and husband!",
+      "bio" : "Actions on Google DevRel, aiming to help developers to create awesome Actions for Google Assistant. But first of all a passionate and dedicated dad and husband!",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/netomarin",
+        "name" : "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "http://netomarin.io/",
+        "name": "Website"
+      }]
+    },
     "sarahkoehler" : {
       "name" : "Sarah Köhler",
       "country" : "Germany",
@@ -1318,7 +1394,7 @@
       "featured" : false,
       "company" : "KI Labs",
       "title" : "Android Developer",
-      "photoUrl" : "",
+      "photoUrl" : "/images/people/speakers/wahibulhaq.jpg",
       "shortBio" : "Android Developer at KI Labs, Lazy Storyteller. 🇵🇰 expat in 🇩🇪. ",
       "bio" : "Android Developer and other stuff at KI labs. Takes keen interest in more than just the coding side of an app. Got a thing for Product, Engineering, People & Sarcasm. Lazy Storyteller. 🇵🇰 expat in 🇩🇪.",
       "socials" : [{
