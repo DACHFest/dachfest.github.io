@@ -1121,10 +1121,10 @@
     },
     "sergeykibish" : {
       "name" : "Sergey Kibish",
-      "country" : "Neueda // Latvia",
+      "country" : "Latvia",
       "featured" : true,
 
-      "company" : "Neueda",
+      "company" : "",
       "title" : "Software Engineer",
 
       "photoUrl" : "/images/people/speakers/sergeykibish.jpg",
