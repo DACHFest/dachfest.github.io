@@ -165,6 +165,14 @@
             { "items": [ "codeschools" ] },
             { "items": [ "tba" ] }
           ]
+        },
+        {
+          "startTime": "18:30",
+          "endTime": "20:00",
+          "sessions": [
+            { "items": [ "afterhourstba" ] },
+            { "items": [ "driveitlikeyoustoleit" ] }
+          ]
         }
       ]
     },
@@ -292,8 +300,21 @@
       "title": "To be announced!",
       "description": "Surprise! Stay tuned."
     },
+    "afterhourstba": {
+      "title": "To be announced!",
+      "description": "Surprise! Stay tuned.",
+      "icon": "party",
+      "tags": [ "Afterhours" ]
+    },
     "lunch": {
       "title": "Lunch break"
+    },
+    "driveitlikeyoustoleit": {
+      "language": "English",
+      "icon": "party",
+      "title": "Drive It Like You Stole It! Mario Kart Tournament",
+      "description": "Let's have some fun!\n\nAfter Droidcon Berlin, we are bringing the Nintendo Switch Mario Kart tournament to DACHFest as our afterhours entertainment. You don't have to sign up in advance: just bring your Switch with Mario Kart installed—and let's rock! And if you don't have one, come to watch and cheer!",
+      "tags": [ "Afterhours" ]
     },
     "lightning-one": {
       "language": "English",
@@ -1121,10 +1142,10 @@
     },
     "sergeykibish" : {
       "name" : "Sergey Kibish",
-      "country" : "Neueda // Latvia",
+      "country" : "Latvia",
       "featured" : true,
 
-      "company" : "Neueda",
+      "company" : "",
       "title" : "Software Engineer",
 
       "photoUrl" : "/images/people/speakers/sergeykibish.jpg",
