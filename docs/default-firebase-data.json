@@ -1364,7 +1364,7 @@
       "featured" : false,
       "company" : "Google",
       "title" : "Flutter Developer Relations Lead",
-      "photoUrl" : "https://twitter.com/mattsullivan.jpg",
+      "photoUrl" : "/images/people/speakers/mattsullivan.jpg",
       "shortBio" : "Flutter's developer relations lead, usually wearing too many fitness devices in the gym.",
       "bio" : "Matt leads Flutter's developer relations from Google’s Mountain View campus. He joined the Flutter team last year, having spent three years working on Android, Wear OS and Google Fit. Before Google, Matt worked in a diverse range of fields, from bioinformatics to digital cinema, and holds a Ph.D. in Electrical Engineering. When he’s not hacking on Flutter, you’ll probably find him in the gym wearing far too many fitness sensors.",
       "socials" : [{
