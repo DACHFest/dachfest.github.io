@@ -80,7 +80,7 @@
           "title" : "Track One"
         },
         {
-          "title" : "Track Two"f
+          "title" : "Track Two"
         }
       ],
       "timeslots": [
@@ -1255,10 +1255,10 @@
     },
     "lukasziegler" : {
       "name" : "Lukas Ziegler",
-      "country" : "Red Bull Media House // Austria",
-      "featured" : true,
+      "country" : "Austria",
+      "featured" : false,
 
-      "company" : "Red Bull Media House",
+      "company" : "",
       "title" : "UX Engineer",
 
       "photoUrl" : "/images/people/speakers/lukasziegler.jpg",
@@ -1359,7 +1359,7 @@
       "socials" : []
     },
     "marionkoelle": {
-      "name" : "Marion Koelle,
+      "name" : "Marion Koelle",
       "country" : "University of Oldenburg // Germany",
       "featured" : true,
       "company" : "University of Oldenburg",
@@ -1377,11 +1377,11 @@
         "link": "http://www.marionkoelle.de/",
         "name": "Website"
       }]
-    }
+    },
     "mattsullivan": {
       "name" : "Matt Sullivan",
       "country" : "Google // USA",
-      "featured" : false,
+      "featured" : true,
       "company" : "Google",
       "title" : "Flutter Developer Relations Lead",
       "photoUrl" : "/images/people/speakers/mattsullivan.jpg",
@@ -1420,14 +1420,14 @@
     },
     "sarahkoehler" : {
       "name" : "Sarah Köhler",
-      "country" : "Germany",
+      "country" : "Searchmetrics // Germany",
       "featured" : true,
       "company" : "Searchmetrics GmbH",
       "title" : "Frontend Engineer",
       "photoUrl" : "/images/people/speakers/sarahkoehler.jpg",
       "shortBio" : "Book Lover turned developer, likes to share knowledge which is mostly javascript and react related.",
       "bio" : "After a detour into the world of books an publishers Sarah decided to pursue a degree in Computer Science and become a developer.\n\nSarah spends most of her time with Javascript and React, but likes to devote some time to her secret passion, Golang. She is one of the hosts of the biweekly Hack Nights of Women Who Code Berlin. She usually has great plans for personal projects but most of time ends up happily sharing her knowledge and mentoring beginners.\n\nIf she is not in front of a screen she tries to undo the damage of too much sitting or tries new cooking recipes.",
-      "socials" : [            
+      "socials" : [
         {
           "icon": "linkedin",
           "link": "https://www.linkedin.com/in/sarah-k%C3%B6hler-152665127/",
