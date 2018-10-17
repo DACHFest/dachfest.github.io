@@ -1255,10 +1255,10 @@
     },
     "lukasziegler" : {
       "name" : "Lukas Ziegler",
-      "country" : "Red Bull Media House // Austria",
-      "featured" : true,
+      "country" : "Austria",
+      "featured" : false,
 
-      "company" : "Red Bull Media House",
+      "company" : "",
       "title" : "UX Engineer",
 
       "photoUrl" : "/images/people/speakers/lukasziegler.jpg",
@@ -1335,10 +1335,10 @@
     "robertkaiser" : {
       "name" : "Robert Kaiser",
       "country" : "KaiRo.at // Austria",
-      "featured" : false,
+      "featured" : true,
       "company" : "KaiRo.at",
       "title" : "",
-      "photoUrl" : "",
+      "photoUrl" : "/images/people/speakers/kairo.jpg",
       "shortBio" : "Robert Kaiser (“KaiRo”) is a Mozilla Tech Speaker, OpenStreetMap contributor, and freelance Web/Linux expert.",
       "bio" : "Robert Kaiser (“KaiRo”) is a Mozilla Tech Speaker, OpenStreetMap contributor, and freelance Web/Linux expert. Close to 20 years in the Mozilla community have given him a lot of insight into the Web’s technologies and history. He likes to try out alternative solutions that increase user freedom and privacy, and take a peek into new technology. On/under his desk, at least 5 devices with a Linux kernel run on a normal day and communicate with other Linux systems he’s administrating. KaiRo is a burning supporter of Mozilla’s Mission and Manifesto as well as Star Trek’s vision of a diverse society in a positive future. For taking a break from technology, he likes to go for singing karaoke and writing his own songs.",
       "socials" : [{
@@ -1358,10 +1358,30 @@
       "bio" : "Before joining his current team, Henning worked as a project lead for BMW Connected Drive. Since April, he is a Partner Engineer in the Android Automotive Team in Munich.",
       "socials" : []
     },
+    "marionkoelle": {
+      "name" : "Marion Koelle",
+      "country" : "University of Oldenburg // Germany",
+      "featured" : true,
+      "company" : "University of Oldenburg",
+      "title" : "PhD Student",
+      "photoUrl" : "/images/people/speakers/marionkoelle.jpg",
+      "shortBio" : "PhD student researching socially acceptable interfaces and emerging tech, hacker, sportive and creative.",
+      "bio" : "Marion Koelle has a passion for Human-Computer Interaction (HCI) research and for teaching elements of design thinking and various design methods to engineering students. As a research fellow and PhD student at the University of Oldenburg (Germany) she researches the social acceptability of emerging technologies, and how to design socially acceptable interfaces. In her free time, she enjoys outdoor sports, including running, cycling, mountaineering, and skiing. On rainy days, she explores 3D printing, hardware hacking, and sketching.",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/marionkoellehci",
+        "name" : "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "http://www.marionkoelle.de/",
+        "name": "Website"
+      }]
+    },
     "mattsullivan": {
       "name" : "Matt Sullivan",
       "country" : "Google // USA",
-      "featured" : false,
+      "featured" : true,
       "company" : "Google",
       "title" : "Flutter Developer Relations Lead",
       "photoUrl" : "/images/people/speakers/mattsullivan.jpg",
@@ -1400,14 +1420,19 @@
     },
     "sarahkoehler" : {
       "name" : "Sarah Köhler",
-      "country" : "Germany",
-      "featured" : false,
-      "company" : "",
-      "title" : "",
-      "photoUrl" : "",
+      "country" : "Searchmetrics // Germany",
+      "featured" : true,
+      "company" : "Searchmetrics GmbH",
+      "title" : "Frontend Engineer",
+      "photoUrl" : "/images/people/speakers/sarahkoehler.jpg",
       "shortBio" : "Book Lover turned developer, likes to share knowledge which is mostly javascript and react related.",
-      "bio" : "Book Lover turned developer, likes to share knowledge which is mostly javascript and react related.",
-      "socials" : []
+      "bio" : "After a detour into the world of books an publishers Sarah decided to pursue a degree in Computer Science and become a developer.\n\nSarah spends most of her time with Javascript and React, but likes to devote some time to her secret passion, Golang. She is one of the hosts of the biweekly Hack Nights of Women Who Code Berlin. She usually has great plans for personal projects but most of time ends up happily sharing her knowledge and mentoring beginners.\n\nIf she is not in front of a screen she tries to undo the damage of too much sitting or tries new cooking recipes.",
+      "socials" : [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/sarah-k%C3%B6hler-152665127/",
+          "name": "LinkedIn"
+        }]
     },
     "wahibulhaq" : {
       "name" : "Wahib Ul Haq",
