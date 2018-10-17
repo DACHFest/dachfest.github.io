@@ -1350,10 +1350,10 @@
     "henningvonsee": {
       "name" : "Henning von See",
       "country" : "Google // Germany",
-      "featured" : false,
+      "featured" : true,
       "company" : "Google",
       "title" : "Partner Engineer",
-      "photoUrl" : "",
+      "photoUrl" : "/images/people/speakers/henningvonsee.jpg",
       "shortBio" : "Engineer at the Google's Android Automotive Team in Munich.",
       "bio" : "Before joining his current team, Henning worked as a project lead for BMW Connected Drive. Since April, he is a Partner Engineer in the Android Automotive Team in Munich.",
       "socials" : []
@@ -1401,10 +1401,10 @@
     "netomarin": {
       "name" : "Neto Marin",
       "country" : "Google // USA",
-      "featured" : false,
+      "featured" : true,
       "company" : "Google",
       "title" : "Actions on Google Developer Advocate",
-      "photoUrl" : "",
+      "photoUrl" : "/images/people/speakers/netomarin.jpg",
       "shortBio" : "Actions on Google DevRel. But first of all a passionate and dedicated dad and husband!",
       "bio" : "Actions on Google DevRel, aiming to help developers to create awesome Actions for Google Assistant. But first of all a passionate and dedicated dad and husband!",
       "socials" : [{
