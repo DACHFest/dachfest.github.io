@@ -36,13 +36,19 @@
         max-width: 240px;
       }
 
-      .info-items {
-        margin: 24px auto;
-        font-size: 22px;
+      .hero-dates {
+        max-width: 75px !important;
+        margin-left: auto;
       }
 
-      .info-items > *:not(:first-of-type) {
-        margin-top: 4px;
+      .hero-slogan {
+        margin-top: 15px;
+      }
+
+      .info-items {
+        margin-top: 15px;
+        display: flex;
+        width: 240px;
       }
 
       .action-buttons {
@@ -130,9 +136,8 @@
         }
 
         .info-items {
-          margin: 48px auto;
-          font-size: 28px;
-          line-height: 1.1;
+          display: flex;
+          width: 320px;
         }
       }
 
@@ -154,9 +159,9 @@
     >
       <div class="home-content" layout vertical center>
         <plastic-image class="hero-logo" srcset="/images/logo.svg" alt="{$ title $}"></plastic-image>
+        <plastic-image class="hero-logo hero-slogan" srcset="/images/slogan.svg" alt="{$ heroSettings.home.description $}"></plastic-image>
         <div class="info-items highlight-font">
-          <div class="info-item">{$ location.city $}. {$ dates $}.</div>
-          <div class="info-item">{$ heroSettings.home.description $}</div>
+          <plastic-image class="hero-logo hero-dates" srcset="/images/dates.svg" alt="{$ location.city $}. {$ dates $}."?></plastic-image>
         </div>
 
 
