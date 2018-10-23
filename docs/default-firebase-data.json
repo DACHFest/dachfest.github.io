@@ -52,6 +52,16 @@
       ]
     },
     {
+      "title": "Silver",
+      "logos": [
+        {
+          "logoUrl": "../images/logos/quartett-mobile.png",
+          "name": "Quartett Mobile",
+          "url": "https://www.quartett-mobile.de/"
+        }
+      ]
+    },
+    {
       "title": "Diversity Sponsor",
       "logos": [
         {
