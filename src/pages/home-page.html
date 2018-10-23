@@ -37,12 +37,16 @@
       }
 
       .hero-dates {
-        max-width: 75px !important;
+        max-width: 75px;
         margin-left: auto;
       }
 
       .hero-slogan {
         margin-top: 15px;
+      }
+
+      hero-block .action-buttons {
+        margin-top: 20px;
       }
 
       .info-items {
@@ -131,13 +135,21 @@
           height: calc(100% + 65px);
         }
 
-        .hero-logo {
-          max-width: 320px;
+        .hero-main-logo,
+        .hero-slogan {
+          max-width: 500px;
+          min-width: 500px;
+        }
+
+        .hero-dates {
+          max-width: 130px;
+          margin-left: auto;
         }
 
         .info-items {
           display: flex;
-          width: 320px;
+          width: 500px;
+          margin-bottom: 10px;
         }
       }
 
@@ -158,7 +170,7 @@
       hide-logo
     >
       <div class="home-content" layout vertical center>
-        <plastic-image class="hero-logo" srcset="/images/logo.svg" alt="{$ title $}"></plastic-image>
+        <plastic-image class="hero-logo hero-main-logo" srcset="/images/logo.svg" alt="{$ title $}"></plastic-image>
         <plastic-image class="hero-logo hero-slogan" srcset="/images/slogan.svg" alt="{$ heroSettings.home.description $}"></plastic-image>
         <div class="info-items highlight-font">
           <plastic-image class="hero-logo hero-dates" srcset="/images/dates.svg" alt="{$ location.city $}. {$ dates $}."?></plastic-image>
@@ -166,31 +178,6 @@
 
 
         <div class="action-buttons" layout horizontal center-justified wrap>
-          <!-- <a href="{$ cfpLink $}" tabindex="-1" target="_blank">
-          <paper-button class="vip" raised>
-            <iron-icon icon="hoverboard:open-in-new"></iron-icon>
-            {$ submitProposal $}
-          </paper-button>
-          </a> -->
-          <!--
-          <paper-button
-            class="watch-video"
-            on-tap="_playVideo"
-            ga-on="click"
-            ga-event-category="video"
-            ga-event-action="watch"
-            ga-event-label="hero block - view highlights"
-          >
-            <iron-icon icon="hoverboard:movie"></iron-icon>
-            {$ viewHighlights $}
-          </paper-button>
-          -->
-          <!--
-          <paper-button id="ticket-button">
-            <iron-icon icon="hoverboard:ticket"></iron-icon>
-            {$ ticketSalesSoon $}
-          </paper-button>
-          -->
 
           <paper-button
             class="vip"
