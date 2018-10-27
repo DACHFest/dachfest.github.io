@@ -109,6 +109,9 @@
         },
         {
           "title" : "Track Two"
+        },
+        {
+          "title" : "Workshops"
         }
       ],
       "timeslots": [
@@ -212,6 +215,9 @@
         },
         {
           "title" : "Track Two"
+        },
+        {
+          "title" : "Workshops"
         }
       ],
       "timeslots": [
@@ -727,6 +733,15 @@
         "miqubel"
       ],
       "tags": [ ]
+    },
+    "headlesscms": {
+      "language": "English",
+      "title": "Agile Content Management: The future with Headless CMSs and GraphQL",
+      "description": "Our industry is full of new technologies and buzzwords like GraphQL, headless content management, micro-services and serverless. How do you keep track? Where do you learn what it all means? In this talk! We will be combining all of these concepts into a fast-paced 'experience where we explore the changing landscape of working with content on the web, creation and delivery. For those wishing to “code along” a laptop with NodeJS and Chrome will be helpful, but the pace will be fast enough for those just wishing to learn how all these new pieces fit together. Come join us for a flexible, open atmosphere where questions are welcome!\n\nWith experience in branding, web development, product design and digital strategy, Jesse will help explain all these concepts in a clear and helpful way for both coders and the C-suite.",
+      "speakers": [
+        "jessemartin"
+      ],
+      "tags": [ ]
     }
   },
   "speakers": {
@@ -855,6 +870,29 @@
         "icon" : "twitter",
         "link" : "https://twitter.com/jesserweigel",
         "name" : "Twitter"
+      } ]
+    },
+    "jessemartin" : {
+      "name" : "Jesse Martin",
+      "country" : "Germany",
+      "featured" : true,
+
+      "company" : "GraphCMS GmbH",
+      "title" : "Developer Advocate",
+
+      "photoUrl" : "/images/people/speakers/jessemartin.jpg",
+
+      "shortBio" : "Developer advocate for GraphCMS. Attempting to be the nicest guy on the internet.",
+      "bio" : "Jesse Martin is a brand lover, technology champion and all-around nice guy. After years spent in digital strategy and software development, Jesse is on a mission to show developers there is a better way to work with content on the web. When he’s not building databases about wine or comparing deep technical topics to cake layers, he spends his time with his wife and two kids, trying to combine his love for faith, family, friends, fitness and food. He may or may not be in the middle of an 18 hour fast and apologises in advance.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/motleydev",
+        "name" : "Twitter"
+      },
+        {
+        "icon" : "website",
+        "link" : "https://graphcms.com",
+        "name" : "Website"
       } ]
     },
     "jessicarose" : {
