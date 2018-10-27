@@ -1674,6 +1674,15 @@
       "price" : 50,
       "soldOut" : false,
       "url" : "https://ti.to/dachfest/2018"
+    },
+    {
+      "available" : true,
+      "currency" : "€",
+      "info" : "Free admission to the conference for TU Members. ❤️",
+      "name" : "TU Student / Member",
+      "price" : 0,
+      "soldOut" : false,
+      "url" : "https://ti.to/dachfest/2018"
     }
    ],
   "triggers": {
