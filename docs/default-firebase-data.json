@@ -154,7 +154,11 @@
           "startTime": "13:20",
           "endTime": "13:45",
           "sessions": [
-            { "items": [ "fatigue" ] }
+            { "items": [ "fatigue" ]},
+            { "items": [ "lunch" ]},
+            { "items": [ "sketchnoting" ],
+              "extend": 3
+            }
           ]
         },
         {
@@ -186,7 +190,10 @@
           "endTime": "17:15",
           "sessions": [
             { "items": [ "immersivesound" ] },
-            { "items": [ "loveoftech" ] }
+            { "items": [ "loveoftech" ] },
+            { "items": [ "headlesscms" ],
+              "extend": 2
+            }
           ]
         },
         {
@@ -233,7 +240,10 @@
           "endTime": "10:10",
           "sessions": [
             { "items": [ "featurenotbug" ] },
-            { "items": [ "testoftime" ] }
+            { "items": [ "testoftime" ] },
+            { "items": [ "actionsongoogle" ],
+              "extend": 4
+            }
           ]
         },
         {
@@ -273,7 +283,10 @@
           "endTime": "14:15",
           "sessions": [
             { "items": [ "lunch" ] },
-            { "items": [ "cssquickdraw" ] }
+            { "items": [ "cssquickdraw" ] },
+            { "items": [ "flutter40" ],
+              "extend": 1
+            }
           ]
         },
         {
@@ -281,7 +294,10 @@
           "endTime": "15:10",
           "sessions": [
             { "items": [ "succeedonmobileweb" ] },
-            { "items": [ "lightning-two" ] }
+            { "items": [ "lightning-two" ] },
+            { "items": [ "flutterstudyjam" ],
+              "extend": 2
+            }
           ]
         },
         {
@@ -528,13 +544,6 @@
       ],
       "tags": []
     },
-    "flutter40": {
-      "language": "English",
-      "title": "Flutter in 40 Minutes",
-      "description": "Jump on board for a whirlwind tour of Flutter, Google’s newest open source mobile app SDK. Explore how to build apps quickly and efficiently using the Dart programming language and check out a live coding session in Flutter. Let’s see how far we can get building out an app!\n\nWhile we’ll be looking at what makes Flutter tick, this talk will be light on theory and heavy on practice so we can explore Flutter in action. We’re going to dive in to some real Flutter code and build an app because, just like the Matrix, you have to see it for yourself!",
-      "speakers": [],
-      "tags": []
-    },
     "everybodyneedssomebody": {
       "language": "English",
       "title": "Everybody Needs Somebody",
@@ -697,7 +706,7 @@
       ],
       "tags": [ ]
     },
-    "flutterin40minutes": {
+    "flutter40": {
       "language": "English",
       "title": "Flutter in 40 minutes",
       "description": "Flutter’s a new and wonderful way to build apps for iOS and Android. It’s designed to let you create great looking, customized UIs in a surprisingly short amount of time, and have fun while doing it.\n\nWhile we’ll be looking at what makes Flutter tick, this talk will be light on theory and heavy on practice so we can explore Flutter in action. We’re going to dive in to some real Flutter code and build an app because, just like the Matrix, you have to see it for yourself!\n\nSo come take the red pill and experience app development with Flutter.",
