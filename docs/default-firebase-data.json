@@ -22,9 +22,11 @@
   },
   "partners": [
     {
+      "order" : 0,
       "title": "Made DACHFest possible!",
       "logos": [
         {
+          "order" : 0,
           "logoUrl": "../images/logos/google.svg",
           "name": "Google",
           "url": "https://www.google.com/intl/en/about/"
@@ -32,9 +34,11 @@
       ]
     },
     {
+      "order" : 1,
       "title": "Diamond",
       "logos": [
         {
+          "order" : 0,
           "logoUrl": "../images/logos/airbus.svg",
           "name": "Airbus",
           "url": "https://www.airbus.com/"
@@ -42,9 +46,11 @@
       ]
     },
     {
+      "order" : 3,
       "title": "Gold",
       "logos": [
         {
+          "order" : 0,
           "logoUrl": "../images/logos/sotec.svg",
           "name": "SOTEC",
           "url": "http://sotec.eu/"
@@ -52,9 +58,11 @@
       ]
     },
     {
+      "order" : 4,
       "title": "Silver",
       "logos": [
         {
+          "order" : 0,
           "logoUrl": "../images/logos/quartett-mobile.svg",
           "name": "Quartett Mobile",
           "url": "https://www.quartett-mobile.de/"
@@ -62,9 +70,11 @@
       ]
     },
     {
+      "order" : 5,
       "title": "Diversity Sponsor",
       "logos": [
         {
+          "order" : 0,
           "logoUrl": "../images/logos/flixbus.png",
           "name": "FlixBus",
           "url": "https://flixbus.de"
@@ -72,9 +82,11 @@
       ]
     },
     {
+      "order" : 6,
       "title": "Supportive Sponsor",
       "logos": [
         {
+          "order" : 0,
           "logoUrl": "../images/logos/jetbrains.svg",
           "name": "JetBrains",
           "url": "https://jetbrains.com"
