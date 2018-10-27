@@ -66,6 +66,12 @@
           "logoUrl": "../images/logos/quartett-mobile.svg",
           "name": "Quartett Mobile",
           "url": "https://www.quartett-mobile.de/"
+        },
+        {
+          "order" : 1,
+          "logoUrl": "../images/logos/cosmos.svg",
+          "name": "Cosmos - Internet of Blockchains",
+          "url": "https://cosmos.network/"
         }
       ]
     },
