@@ -275,6 +275,7 @@
           "endTime": "13:20",
           "sessions": [
             { "items": [ "livecoding" ] },
+            { "items": [ "lunch" ] },
             { "items": [ "lunch" ] }
           ]
         },
