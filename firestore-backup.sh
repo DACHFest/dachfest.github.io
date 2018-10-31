@@ -18,3 +18,4 @@ yarn firestore:copy partners/2/items firestore/partners-gold.json
 yarn firestore:copy partners/3/items firestore/partners-silver.json
 yarn firestore:copy partners/4/items firestore/partners-diversity.json
 yarn firestore:copy partners/5/items firestore/partners-supportive.json
+yarn firestore:copy partners/6/items firestore/partners-platinum.json
