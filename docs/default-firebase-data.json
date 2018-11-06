@@ -120,6 +120,12 @@
           "logoUrl": "../images/logos/jetbrains.svg",
           "name": "JetBrains",
           "url": "https://jetbrains.com"
+        },
+        {
+          "order" : 1,
+          "logoUrl": "../images/logos/manning_publications.svg",
+          "name": "Manning Publications",
+          "url": "https://www.manning.com"
         }
       ]
     }
