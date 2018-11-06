@@ -108,6 +108,30 @@
           "logoUrl": "../images/logos/flixbus.png",
           "name": "FlixBus",
           "url": "https://flixbus.de"
+        },
+        {
+          "order" : 1,
+          "logoUrl": "../images/logos/optiopay.svg",
+          "name": "OptioPay",
+          "url": "https://www.optiopay.com/"
+        },
+        {
+          "order" : 2,
+          "logoUrl": "../images/logos/doodle.svg",
+          "name": "Doodle",
+          "url": "https://doodle.com/"
+        },
+        {
+          "order" : 3,
+          "logoUrl": "../images/logos/sotec.svg",
+          "name": "SOTEC",
+          "url": "https://www.sotec.eu"
+        },
+        {
+          "order" : 4,
+          "logoUrl": "../images/logos/g33konaut.jpg",
+          "name": "Geekonaut",
+          "url": "https://twitter.com/g33konaut"
         }
       ]
     },
