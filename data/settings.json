@@ -177,11 +177,11 @@
     "pointer": {
       "latitude": 48.1478457,
       "longitude": 11.5681,
-      "zoom": 12
+      "zoom": 16
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 12
+      "latitude": 48.1478457,
+      "longitude": 11.5681
     },
     "description": "Main campus of the Munich Technical University (TU Munich)."
   },
