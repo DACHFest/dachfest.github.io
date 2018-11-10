@@ -175,9 +175,9 @@
     "short": "Munich, Germany",
     "address": "Arcisstraße 21, 80333 Munich, Germany",
     "pointer": {
-      "latitude": 48.148667,
-      "longitude": 11.568606,
-      "zoom": 6
+      "latitude": 48.1478457,
+      "longitude": 11.5681,
+      "zoom": 20
     },
     "mapCenter": {
       "latitude": 48,
